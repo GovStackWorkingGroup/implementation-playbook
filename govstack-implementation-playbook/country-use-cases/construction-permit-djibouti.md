@@ -1,0 +1,34 @@
+# Construction Permit, Djibouti
+
+## The problem
+
+Traditionally the application for construction permits, inspections, fee payments, and approval has been "over the counter" and paper-based. This makes construction permits time-consuming, complicated to understand, and difficult to comply with.
+
+Digital Construction Permit streamlines the building plan approval system with configurable workflows for effective management through different phases of approval in a user-centric manner. The service provides the following functionalities:
+
+* Online submission of building plans
+* Online scrutiny of building plans
+* Online fee calculation, payment & reporting
+* Site visit scheduling & reporting mechanism
+* Online application tracking (pending, rejected, approved)
+* Configurable workflow and functionalities
+
+## GovStack approach
+
+* Perform a digital readiness assessment
+* Identify priority e-government services based on the country's context and needs.
+* Co-design the service based on user needs, journeys, and business life events
+* Identify a DPG/digital product that meets the business requirements of Djibouti to integrate it with the national tech stack of Djibouti through an [open call](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-ecabinet-meetings-document-correspondence-and-policy-drafting-for-the-government-of-djibouti?force_preview=1)[ ](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-issuance-of-construction-permits-in-djibouti-using-the-govstack-building-block-approach?force_preview=1)
+* Train the Djibouti digital team on the [GovStack Building Block approach](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/2-description/building-block-approach).
+
+## Roadmap
+
+<table><thead><tr><th width="105"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/Screenshot_2023-03-28_170152-removebg-preview.png" alt=""></td><td>Oct 2022: Prioritisation of government service: Construction permit and eCabinet</td></tr><tr><td><img src="../../.gitbook/assets/image (10).png" alt=""></td><td>Dec 2022 - Jan 2023: Workshops to understand user needs</td></tr><tr><td><img src="../../.gitbook/assets/image (31).png" alt=""></td><td>Jan - Feb 2023: Map As-Is user journey, life/business events and current stack</td></tr><tr><td><img src="../../.gitbook/assets/image (53).png" alt=""></td><td>Mar - Apr 2023: Co-design w/user a To-Be user journey, future stack &#x26; wireframes</td></tr><tr><td><img src="../../.gitbook/assets/image (23).png" alt=""></td><td>Aug 2023: Launch <a href="https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-issuance-of-construction-permits-in-djibouti-using-the-govstack-building-block-approach?force_preview=1">Open call for digital product</a></td></tr><tr><td><img src="../../.gitbook/assets/Untitled design.jpg" alt=""></td><td>Nov 2023: Select digital product and service provider to implement</td></tr><tr><td><img src="../../.gitbook/assets/image (13).png" alt=""></td><td>Dec 2023 - Jun 2024: Integrate selected digital product with national stack (ID, Payment, IM) according to service design proposal &#x26; GovStack prototype</td></tr><tr><td><img src="../../.gitbook/assets/image (14).png" alt=""></td><td>Launch the service &#x26; update iteratively with the user feedback(TBD)</td></tr><tr><td><img src="../../.gitbook/assets/image (16).png" alt=""></td><td>Prepare a scaling strategy  (TBD)</td></tr></tbody></table>
+
+## Expected results
+
+* Digital readiness assessment&#x20;
+* An operational e-construction permit digital service integrated with the Djibouti National Stack following the GovStack principles and approach.
+* A reference[ use case ](https://govstack.gitbook.io/use-cases/readme/inf-1-construction-permit)to be demonstrated on the GovStack Sandbox
+* Build and train the Djibouti Digital Team&#x20;
+* Build a comprehensive capacity development and change management program
