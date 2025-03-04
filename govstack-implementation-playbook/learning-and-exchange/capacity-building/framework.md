@@ -129,7 +129,7 @@ Additionally, the CoPs seek to learn from other countries such as India and Sing
 
 <details>
 
-<summary><a href="https://www.india.gov.in/people-groups/community">India</a></summary>
+<summary><a href="https://www.meity.gov.in/">India</a></summary>
 
 In India, the Department of Administrative Reforms & Public Grievances (DARPG) under the Ministry of Personnel, Public Grievances and Pensions has set-up an “E-Governance Division” that coordinates and supports the implementation of National eGovernance Plan (NeGP) and Digital India programs owned by Ministry of Electronics and Information Technology (MeitY).
 
@@ -166,7 +166,7 @@ Subsequently, the National eGovernance Division (NeGD) under the Ministry of Ele
 
 <summary><a href="https://www.smartnation.gov.sg/community/contribute-to-smart-nation">Singapore</a></summary>
 
-Singapore is committed to becoming a world leader in digitalization. Capitalizing on the huge potential opened up by technology, Singapore is putting forward an overarching [Smart Nation](https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore) vision that is based on three pillars: [Digital Government](https://www.smartnation.gov.sg/about-smart-nation/digital-government), [Digital Economy](https://www.smartnation.gov.sg/about-smart-nation/digital-economy), and [Digital Society](https://www.smartnation.gov.sg/about-smart-nation/digital-society). Taken together, these three pillars are responsible for effecting significant shits across all sectors and policy areas.&#x20;
+Singapore is committed to becoming a world leader in digitalization. Capitalizing on the huge potential opened up by technology, Singapore is putting forward an overarching [Smart Nation](https://www.smartnation.gov.sg/vision/) vision that is based on three pillars: [Digital Government](https://www.smartnation.gov.sg/about-smart-nation/digital-government), [Digital Economy](https://www.smartnation.gov.sg/about-smart-nation/digital-economy), and [Digital Society](https://www.smartnation.gov.sg/about-smart-nation/digital-society). Taken together, these three pillars are responsible for effecting significant shits across all sectors and policy areas.&#x20;
 
 #### Capacity Building in Singapore
 
@@ -176,7 +176,7 @@ Singapore observes that there are three ways to address the capacity building ne
 
 
 
-The Ministry of Communications and Information (MCI), Government of Singapore has a set of portfolios to drive the digital transformation. One such is “Digital Readiness” with four strategic outcomes (a) Digital access (b) Digital Literacy (c) Digital participation and (d) Digital inclusion by design. In regard to “Digital Literacy”, the “[Digital Readiness (MCI n.d.)"](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint) blueprint recommends the following.
+The Ministry of Communications and Information (MCI), Government of Singapore has a set of portfolios to drive the digital transformation. One such is “Digital Readiness” with four strategic outcomes (a) Digital access (b) Digital Literacy (c) Digital participation and (d) Digital inclusion by design. In regard to “Digital Literacy”, the “[Digital Readiness (MCI n.d.)](https://www.mddi.gov.sg/files/dr%20blueprint.pdf)" blueprint recommends the following.
 
 * Identify a set of basic digital skills for everyday activities to spur the take-up of digital technology, especially among the less digitally savvy.
 * Strengthen focus on information and media literacy, to build resilience in an era of online falsehoods.
@@ -184,7 +184,7 @@ The Ministry of Communications and Information (MCI), Government of Singapore ha
 
 **B. Civil Servants**
 
-The [Digital Government Blueprint](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint) recommends raising digital capabilities to pursue innovation so that the government is able to “think fast, start small and act fast” to seize new opportunities. The Government has been deepening its technical capabilities through a Centre of Excellence (or CentEx) for ICT and Smart Systems, where specialist engineering expertise will be grown to support the WOG. The CentEx will house capability centers such as Data Science and AI, ICT Infrastructure, Application Development, Sensors and IoT, Cybersecurity, and Geospatial. The CentEx may expand into new technology capability areas as the need arises – for example, in robotics, VR/AR, digital twins or blockchain.
+The[ Digital Government Blueprint](https://www.tech.gov.sg/files/media/corporate-publications/dgb-public-document_30dec20.pdf) recommends raising digital capabilities to pursue innovation so that the government is able to “think fast, start small and act fast” to seize new opportunities. The Government has been deepening its technical capabilities through a Centre of Excellence (or CentEx) for ICT and Smart Systems, where specialist engineering expertise will be grown to support the WOG. The CentEx will house capability centers such as Data Science and AI, ICT Infrastructure, Application Development, Sensors and IoT, Cybersecurity, and Geospatial. The CentEx may expand into new technology capability areas as the need arises – for example, in robotics, VR/AR, digital twins or blockchain.
 
 The CentEx will support the development of ICT skills and leadership for WOG through:
 

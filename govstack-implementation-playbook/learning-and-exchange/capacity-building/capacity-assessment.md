@@ -4,7 +4,7 @@
 
 Digital skills are essential, therefore, there is a need to understand the existing eco-system and to conduct a meaningful training skills assessment and analysis in line with identified GovStack practices.&#x20;
 
-The three lower levels of [Bloom's Taxonomy (Iowa State University n.d.)](https://www.celt.iastate.edu/instructional-strategies/effective-teaching-practices/revised-blooms-taxonomy/) provide a clear understanding of the assessment criteria for knowledge, comprehension, and application.
+The three lower levels of[ Bloom's Taxonomy (Iowa State University n.d.)](https://link.springer.com/referenceworkentry/10.1007/978-1-4419-1428-6_141) provide a clear understanding of the assessment criteria for knowledge, comprehension, and application.
 
 {% tabs %}
 {% tab title="Stage One" %}

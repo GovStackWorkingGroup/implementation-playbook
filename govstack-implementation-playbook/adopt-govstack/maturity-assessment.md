@@ -32,7 +32,7 @@ Encompassing consistent data sources across 198 countries, the GTMI complements 
 {% endtab %}
 
 {% tab title="OECD’s Digital Government Index" %}
-The [Digital Government Index (DGI)](https://www.oecd-ilibrary.org/sites/2bed4623-en/index.html?itemId=/content/component/2bed4623-en) is an assessment and benchmarking tool that can be employed to gauge the maturity of digital government policies and their implementation under a coherent and whole-of-government approach. The DGI can help governments gain a more solid understanding of their ability to operate in an increasingly digital and globalized context.
+The [Digital Government Index (DGI)](https://goingdigital.oecd.org/en/indicator/58) is an assessment and benchmarking tool that can be employed to gauge the maturity of digital government policies and their implementation under a coherent and whole-of-government approach. The DGI can help governments gain a more solid understanding of their ability to operate in an increasingly digital and globalized context.
 {% endtab %}
 
 {% tab title="Digital Maturity Assessment in Health Sector by NHS England" %}
@@ -64,7 +64,7 @@ IMAPS (European Commission 2022) looks at three different service areas (see IMA
 
 </details>
 
-<figure><img src="../../.gitbook/assets/GetImage(7).png" alt=""><figcaption><p><a href="https://joinup.ec.europa.eu/sites/default/files/inline-images/Picture1_13.png">IMAPS conceptual model</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage(7).png" alt=""><figcaption><p><a href="https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/IMAPS-leaflet_1.pdf">IMAPS conceptual model</a></p></figcaption></figure>
 
 <details>
 
@@ -106,7 +106,7 @@ At this level, the focus is on moving services online for user convenience and c
 
 ### Developing (Open)&#x20;
 
-Level 2 is not necessarily subsequent to level 1. E-government and open government programs often coexist, with different leadership and priorities. Open government often takes the form of public-facing programs intended to promote transparency, citizen engagement and the data economy. Examples we see today are nascent open data initiatives, often in the context of [smart city programs](https://www.gartner.com/newsroom/id/3545018) such as the [Copenhagen Data Exchange](https://www.citydataexchange.com/#/home).&#x20;
+Level 2 is not necessarily subsequent to level 1. E-government and open government programs often coexist, with different leadership and priorities. Open government often takes the form of public-facing programs intended to promote transparency, citizen engagement and the data economy. Examples we see today are nascent open data initiatives, often in the context of [smart city programs](https://www.gartner.com/newsroom/id/3545018) such as the [Copenhagen Data Exchange](https://cphsolutionslab.dk/en/projekter/data-platforms/city-data-exchange).&#x20;
 
 </details>
 

@@ -21,13 +21,13 @@ Reference architecture is the blueprint used to put the pieces of the organizati
 
 * In Australia, their [reference architecture document](https://www.architecture.dta.gov.au/sp_aga2?id=aga2_how_to_use) provides digital teams the guidance they need to align current and emerging tech into a sound orchestration of solutions to enable digital government service design and delivery
 
-<figure><img src="../../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://www.architecture.dta.gov.au/sys_attachment.do?sys_id=280cffba1b3ced10b46264ab274bcb2c">Reference Architecture</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://architecture.digital.gov.au/sites/default/files/2023-07/22-0109%20Australian%20Government%20Architecture_v11.pdf">Reference Architecture</a></p></figcaption></figure>
 
 {% embed url="https://youtu.be/NSBtgW09mHo" %}
 Australian Whole of Government Architecture &#x20;
 {% endembed %}
 
-* [GovStack Architecture and non-functional requirements](broken-reference)
+* [GovStack Architecture and non-functional requirements](https://govstack.gitbook.io/specification/architecture-and-nonfunctional-requirements)
 * [GovStack Ecosystem Reference Architecture and Business Guide for Public Digital Platforms](https://docs.google.com/document/d/1Qa31kAy_Kz9MsphXunS0UqRJpoQ2i8HV/edit?usp=sharing\&ouid=107531587157017296326\&rtpof=true\&sd=true),  [The Open Group Standard](https://www.opengroup.org/)
 {% endtab %}
 

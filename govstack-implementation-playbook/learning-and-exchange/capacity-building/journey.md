@@ -29,9 +29,9 @@ The process of these activities and main tools used can be found in the Capacity
 
 
 
-<figure><img src="../../../.gitbook/assets/Capacity Building Framework (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a>. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capacity Building Framework (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a></p></figcaption></figure>
 
-Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in [GovStack LMS](broken-reference). It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7).
+Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in [GovStack LMS](https://online.atingi.org/local/partner/page.php?id=10). It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7).
 
 ### Development and Customization of Capacity Building
 
@@ -83,7 +83,7 @@ It involves 3 phases as described below:
 3. _**Data Gathering (Capacity building)**_ &#x20;
    * UNDP - Digital government capability assessment&#x20;
    * World Bank [Digital Government Readiness](https://openknowledge.worldbank.org/handle/10986/33674) document and [tutorial](https://olc.worldbank.org/content/unveiling-the-digital-government-readiness-assessment-toolkit)&#x20;
-   * United Nations [Public Administration Network](https://unpan.un.org/home)&#x20;
+   * [United Nations Public Administration Network (UNPAN) ](https://unpan.un.org/capacity-development)
    * [UNDP and ITU digital capacity](https://digital-capacity.org/)&#x20;
    * Current assets&#x20;
    * Refine the problem (multi-stakeholder engagement)&#x20;
