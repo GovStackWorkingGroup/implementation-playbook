@@ -6,16 +6,16 @@ Defining which services should be digitized first varies from country to country
 
 The experience gained from deploying and integrating different software components/building blocks and designing the underlying systems needed to enable the priority use cases allows digital teams to gain the necessary experience to work with a building block approach. As more services are developed with reusable software components/BBs, the faster each design and delivery cycle becomes reaching scalability in a more sustainable and cost-efficient manner.
 
-<figure><img src="../../.gitbook/assets/2. Scaling approach (4) (1).jpg" alt=""><figcaption><p>Service Prioritisation Roadmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2. Scaling approach (4) (1).jpg" alt=""><figcaption><p>Service Prioritisation Roadmap</p></figcaption></figure>
 
 More information on how to deploy and integrate building blocks to enable digital government services is available in the [GovStack Sandbox documentation](https://govstack.gitbook.io/sandbox/).
 
 {% tabs %}
 {% tab title="Activites / resources" %}
 * Rank the catalog of services based on your country´s criteria for impact and feasibility.&#x20;
-* Set one or two exemplar services from quadrant A to work with implementing the GovStack approach to [digital service co-design and delivery](design-and-delivery/)
+* Set one or two exemplar services from quadrant A to work with implementing the GovStack approach to [digital service co-design and delivery](../designing/service-design/)
 
-<figure><img src="../../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption></figcaption></figure>
 
 * The below criteria are a reference. Each digital team can calibrate current criterion according to information availability, context & needs:
 
@@ -26,9 +26,9 @@ More information on how to deploy and integrate building blocks to enable digita
   * Simplification measures applied to the service catalog. For example, eliminating services associated with getting documents that another government entity requires by automatic consultations to different registries in government entities using [IM BB](https://govstack.gitbook.io/bb-information-mediation/v/information-mediation-1.0).&#x20;
   * Re-designing user journeys based on live events and proactively delivering them using event-driven architectures. Refer below examples from Estonia's vision documents on proactive services and event-driven architecture:
 
-{% file src="../../.gitbook/assets/KrattVisionPaper.pdf" %}
+{% file src="../.gitbook/assets/KrattVisionPaper.pdf" %}
 
-{% file src="../../.gitbook/assets/Next Generation Digital Government Architecture (1).pdf" %}
+{% file src="../.gitbook/assets/Next Generation Digital Government Architecture (1).pdf" %}
 {% endtab %}
 
 {% tab title="Responsabilities" %}

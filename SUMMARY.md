@@ -1,42 +1,69 @@
 # Table of contents
 
-* [GovStack Implementation Playbook](README.md)
-  * [GovStack overview](govstack-implementation-playbook/2-description/README.md)
-    * [Governance model](govstack-implementation-playbook/2-description/governance-model.md)
-    * [Engagement](govstack-implementation-playbook/2-description/engagement.md)
-  * [Building block approach](govstack-implementation-playbook/building-block-approach.md)
-  * [Adopt GovStack](govstack-implementation-playbook/adopt-govstack/README.md)
-    * [Maturity assessment](govstack-implementation-playbook/adopt-govstack/maturity-assessment.md)
-    * [Digital strategy](govstack-implementation-playbook/adopt-govstack/digital-strategy.md)
-    * [Reference architecture](govstack-implementation-playbook/adopt-govstack/reference-architecture.md)
-    * [Service catalog](govstack-implementation-playbook/adopt-govstack/service-catalog.md)
-    * [One-stop-shop](govstack-implementation-playbook/adopt-govstack/one-stop-shop.md)
-    * [Service prioritization](govstack-implementation-playbook/adopt-govstack/service-prioritization.md)
-    * [Design & delivery](govstack-implementation-playbook/adopt-govstack/design-and-delivery/README.md)
-      * [GovStack design principles](govstack-implementation-playbook/adopt-govstack/design-and-delivery/govstack-design-principles.md)
-      * [User journeys](govstack-implementation-playbook/adopt-govstack/design-and-delivery/user-journeys.md)
-      * [Service blueprint](govstack-implementation-playbook/adopt-govstack/design-and-delivery/service-blueprint.md)
-      * [Wireframes](govstack-implementation-playbook/adopt-govstack/design-and-delivery/wireframes.md)
-      * [Prototype](govstack-implementation-playbook/adopt-govstack/design-and-delivery/prototype.md)
-      * [GovExchange](govstack-implementation-playbook/adopt-govstack/design-and-delivery/govexchange.md)
-      * [Launch the service](govstack-implementation-playbook/adopt-govstack/design-and-delivery/launch-the-service.md)
-  * [Scaling strategy](govstack-implementation-playbook/scaling-strategy.md)
-  * [Digital team composition](govstack-implementation-playbook/digital-team-composition/README.md)
-    * [User profiles taxonomy](govstack-implementation-playbook/digital-team-composition/user-profiles-taxonomy.md)
-  * [Learning and exchange](govstack-implementation-playbook/learning-and-exchange/README.md)
-    * [Capacity building](govstack-implementation-playbook/learning-and-exchange/capacity-building/README.md)
-      * [Framework](govstack-implementation-playbook/learning-and-exchange/capacity-building/framework.md)
-      * [Journey](govstack-implementation-playbook/learning-and-exchange/capacity-building/journey.md)
-      * [Digital skills](govstack-implementation-playbook/learning-and-exchange/capacity-building/digital-skills.md)
-      * [Capacity assessment](govstack-implementation-playbook/learning-and-exchange/capacity-building/capacity-assessment.md)
-      * [Academic support](govstack-implementation-playbook/learning-and-exchange/capacity-building/academic-support.md)
-    * [Artefacts](govstack-implementation-playbook/learning-and-exchange/artefacts.md)
-  * [Change management](govstack-implementation-playbook/change-management/README.md)
-    * [Approach](govstack-implementation-playbook/change-management/approach.md)
-    * [Models](govstack-implementation-playbook/change-management/models.md)
-    * [In practice](govstack-implementation-playbook/change-management/in-practice.md)
-    * [Skills & competences](govstack-implementation-playbook/change-management/skills-and-competences.md)
-  * [Contributors](govstack-implementation-playbook/contributors.md)
-  * [Terminology](govstack-implementation-playbook/3-terminology.md)
-  * [Version history](govstack-implementation-playbook/1-version-history/README.md)
-    * [Release notes](govstack-implementation-playbook/1-version-history/release-notes.md)
+* [Introduction to GovStack](README.md)
+  * [GovStack](introduction-to-govstack/2-description/README.md)
+    * [Governance model](introduction-to-govstack/2-description/governance-model.md)
+    * [Adopt GovStack](introduction-to-govstack/2-description/adopt-govstack.md)
+    * [Engage with GovStack](introduction-to-govstack/2-description/engage-with-govstack.md)
+  * [Building Blocks](introduction-to-govstack/building-blocks.md)
+  * [Terminology](introduction-to-govstack/3-terminology.md)
+* [How to use the Playbook](how-to-use-the-playbook.md)
+
+## Strategy & Management
+
+* [Digital strategy](strategy-and-management/digital-strategy.md)
+* [Capacity building strategy](strategy-and-management/capacity-building-strategy/README.md)
+  * [Capacity building](strategy-and-management/capacity-building-strategy/capacity-building/README.md)
+    * [Framework](strategy-and-management/capacity-building-strategy/capacity-building/framework.md)
+    * [Journey](strategy-and-management/capacity-building-strategy/capacity-building/journey.md)
+    * [Digital skills](strategy-and-management/capacity-building-strategy/capacity-building/digital-skills.md)
+    * [Capacity assessment](strategy-and-management/capacity-building-strategy/capacity-building/capacity-assessment.md)
+    * [Academic support](strategy-and-management/capacity-building-strategy/capacity-building/academic-support.md)
+  * [Artefacts](strategy-and-management/capacity-building-strategy/artefacts.md)
+* [Scaling strategy](strategy-and-management/scaling-strategy.md)
+* [Digital team composition](strategy-and-management/digital-team-composition/README.md)
+  * [User profiles taxonomy](strategy-and-management/digital-team-composition/user-profiles-taxonomy.md)
+* [Change management](strategy-and-management/change-management/README.md)
+  * [Approach](strategy-and-management/change-management/approach.md)
+  * [Models](strategy-and-management/change-management/models.md)
+  * [In practice](strategy-and-management/change-management/in-practice.md)
+  * [Skills & competences](strategy-and-management/change-management/skills-and-competences.md)
+
+## Planning
+
+* [Maturity assessment](planning/maturity-assessment.md)
+* [Public sector architecture](planning/public-sector-architecture.md)
+* [Service prioritization](planning/service-prioritization.md)
+
+## Designing
+
+* [Service catalog](designing/service-catalog.md)
+* [One-stop-shop](designing/one-stop-shop.md)
+* [Service Design](designing/service-design/README.md)
+  * [GovStack design principles](designing/service-design/govstack-design-principles.md)
+  * [User journeys](designing/service-design/user-journeys.md)
+  * [Service blueprint](designing/service-design/service-blueprint.md)
+  * [Wireframes](designing/service-design/wireframes.md)
+* [WIP: Market Research](designing/wip-market-research.md)
+
+## Testing
+
+* [Prototype](testing/prototype.md)
+
+## Procurement
+
+* [To be developed](procurement/to-be-developed.md)
+
+## Development
+
+* [Launch the service](development/launch-the-service.md)
+
+## Operations
+
+* [To be developed](operations/to-be-developed.md)
+
+## Annex
+
+* [Contributors](annex/contributors.md)
+* [Version history](annex/1-version-history/README.md)
+  * [Release notes](annex/1-version-history/release-notes.md)

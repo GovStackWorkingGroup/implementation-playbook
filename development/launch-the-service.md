@@ -2,7 +2,7 @@
 
 The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service.&#x20;
 
-<figure><img src="../../../.gitbook/assets/AS.png" alt=""><figcaption><p><a href="https://www.mygov.in/aarogya-setu-app/">Lauch page for Aarogya Setu in India</a>, 2020 (Covid-19 response)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/AS.png" alt=""><figcaption><p><a href="https://www.mygov.in/aarogya-setu-app/">Lauch page for Aarogya Setu in India</a>, 2020 (Covid-19 response)</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Activities / Resources" %}
@@ -22,10 +22,10 @@ The service is ready to be launched in a production environment once the functio
 {% tab title="Responsabilites" %}
 Who does what:
 
-* [Service Owner ](../../digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
-* [Service designers](../../digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
+* [Service Owner ](../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
+* [Service designers](../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
 * [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - develops communications strategy for the launch of the service
-* [IT operation](../../digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
+* [IT operation](../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
 {% endtab %}
 
 {% tab title="Deliverables" %}
