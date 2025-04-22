@@ -1,8 +1,6 @@
 # Framework
 
-## Capacity building Framework
-
-### _**Key Definitions and Activities**_
+## **Key Definitions and Activities**
 
 GovStack focuses a lot on process and people within the implementation journey. Capacity building is a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s Building Blocks. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
@@ -14,7 +12,7 @@ Capacity building activities include:
 * Formulation and implementation of capacity development response
 * Evaluation of the capacity development. &#x20;
 
-### **Knowledge Management Ecosystem as a part of Capacity Building**
+## **Knowledge Management Ecosystem**
 
 Digital government services require a robust and active knowledge management cycle. The knowledge management cycle is a continuous where information is identified, created, shared, stored, utilized. GovStack's knowledge management cycle relies on three critical pieces: people, process and technology.&#x20;
 
@@ -22,21 +20,21 @@ Digital government services require a robust and active knowledge management cyc
 {% tab title="Knowledge Management Cycle" %}
 The key to knowledge management is sharing of information. Sharing knowledge leads to innovation and improvement of the quality of work. Thus, the result is an efficient learning organization where employees' skill sets are constantly improved.&#x20;
 
-<figure><img src="../../../.gitbook/assets/cycle.png" alt=""><figcaption><p>GovStack Knowledge Management Cycle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cycle.png" alt=""><figcaption><p>GovStack Knowledge Management Cycle</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Knowledge Management Eco-system" %}
 GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and [GovStack LMS](broken-reference) are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
-<figure><img src="../../../.gitbook/assets/KMCC.png" alt=""><figcaption><p>GovStack Knowledge Management Eco-System</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KMCC.png" alt=""><figcaption><p>GovStack Knowledge Management Eco-System</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-### How GovStack Approach can be supported
+## How GovStack Approach can be supported
 
 In its ongoing efforts to improve how governments can reap the benefits of digitalization, the GovStack team frequently asks key questions to guide the development of its activities. These questions include; how can governments become more open and transparent, while simultaneously dealing with various challenges, such as data sensitivity?  Which technologies are available to make governments more open and to use open government data? How can data be turned into smartness? &#x20;
 
-#### Reuse and Improve Principle
+### Reuse and Improve Principle
 
 The GovStack Initiative strongly believes in the principle to "reuse and improve." We do not have to reinvent the wheel - when it comes to reusing building blocks, but also regarding education material. Many organizations in the field of government technologies as well as Open Source communities and Governments have published readings, guidelines and training material to support public sector digitization. We would like to make use of all this material and channel it to our partner countries looking into increasing their skills and knowledge. These are a few ways to support GovStack Capacity Building:
 
@@ -72,12 +70,12 @@ Foster openness to change and change management. Digitizing Government Services 
 {% endtab %}
 {% endtabs %}
 
-### Specialized Communities of Practice
+## Specialized Communities of Practice
 
 The starting point of the GovStack approach was the development Communities of Practice in order to share knowledge and experiences between various stakeholders and countries' focal points.\
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
 
 The GovStack approach relies heavily on best practices, experiences and knowledge sharing. The Communities of Practice (CoPs) are topic-related or regional exchange forums to share knowledge and experiences concerning the GovStack approach. The current CoPs are the following:
 
@@ -172,7 +170,7 @@ Singapore is committed to becoming a world leader in digitalization. Capitalizin
 
 Singapore observes that there are three ways to address the capacity building needs of citizens, civil servants and leaders and professionals, whose details are listed described below.
 
-**Citizens:**![](<../../../.gitbook/assets/GetImage (10).png>)
+**Citizens:**![](<../../.gitbook/assets/GetImage (10).png>)
 
 
 

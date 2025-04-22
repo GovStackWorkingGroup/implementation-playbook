@@ -1,6 +1,6 @@
 # Scaling strategy
 
-## &#x20;Co-design the scaling strategy
+## Co-design the scaling strategy
 
 The scaling strategy refers to a plan or approach (digitization roadmap) to grow the national tech-stack, infrastructure, capacity building, and the number of citizen-centric digital government services according to the [prioritization strategy](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/~/changes/501/govstack-implementation-playbook/adopt-govstack/copy-of-service-prioritization) and simultaneously update legal frameworks.
 
@@ -16,8 +16,8 @@ The image below is an example of a digitization roadmap template that will be de
 
 <figure><img src="../.gitbook/assets/Roadmap Estdev.png" alt=""><figcaption><p>EstDev roadmap template for Horn of Africa </p></figcaption></figure>
 
-{% tabs %}
-{% tab title="Activities /resources" %}
+## Activities
+
 * Establish digital service teams within each government entity to:
   * Participate in the co-design sessions of the scaling strategy/digital roadmap
   * Agree on a follow-up mechanism and KPIs for the implementation of the roadmap
@@ -29,20 +29,20 @@ The image below is an example of a digitization roadmap template that will be de
   * Enterprise architecture,&#x20;
   * Shared service policy with a cross-cutting mandate, and
   * ICT procurement policy
-* Develop a [capacity-building strategy](capacity-building-strategy/capacity-building/framework.md) for all public servants involved in the digitization of services and a digital inclusion strategy for the users of the digital services. [Use of Current digital capability in the country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
+* Develop a [capacity-building strategy](capacity-building/framework.md) for all public servants involved in the digitization of services and a digital inclusion strategy for the users of the digital services. [Use of Current digital capability in the country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
 * Procure/set-up Building Blocks
 * Maintain, update, publish, and ensure digital teams across departments use only the latest versions of the:
   * Reference architecture
   * Systems catalog
   * [Service catalog](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/~/changes/501/govstack-implementation-playbook/adopt-govstack/service-catalog)
-  * [Capacity building strategy](capacity-building-strategy/capacity-building/framework.md)
+  * [Capacity building strategy](capacity-building/framework.md)
   * Digital inclusion strategy
 * Implement a publicly accessible dashboard that showcases the strategy, progress made on the roadmap, and performance indicators. Examples of dashboards are:
   * [Peru digital government dashboard](https://indicadores.digital.gob.pe/)
   * [UK governemnt performance dashboard](https://webarchive.nationalarchives.gov.uk/ukgwa/20210315084926/https://www.gov.uk/performance)
-{% endtab %}
 
-{% tab title="Responsabilities" %}
+## Responsibilities
+
 Who does what:
 
 The Scaling Strategy requires the following top management involvement:
@@ -53,13 +53,11 @@ The Scaling Strategy requires the following top management involvement:
 * Chief Data Officer
 * [Chief Security officer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#chief-security-information-officer-ciso)
 * Digital teams of each government entity
-{% endtab %}
 
-{% tab title="Deliverables" %}
+## Deliverables
+
 * Digital service teams
 * Scaling strategy/digitization roadmap
 * Comprehensive regulatory framework/ set of bylaws to make the roadmap of digitizing services actionable
 * Capacity-building strategy
 * A dashboard that showcases the strategy, progress made on the roadmap, performance indicators
-{% endtab %}
-{% endtabs %}

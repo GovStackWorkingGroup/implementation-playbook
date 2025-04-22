@@ -1,6 +1,6 @@
 # Digital skills
 
-### Why digital skills are needed? &#x20;
+## Why digital skills are needed? &#x20;
 
 Today’s ever-changing technology landscape requires a combination of knowledge and skills that is very different from what it was few years ago. Having digital skills enables individuals to fully participate in their social and professional lives. For example, the “new normal” following the COVID-19 pandemic has highlighted the challenges that still exist when it comes to connecting households and people, and the digital skills required to participate effectively in an increasingly digital world. The need for a digitally competent population and the demand for a digitally skilled workforce have grown even more pronounced today.
 
@@ -70,9 +70,9 @@ The proposed behaviour, knowledge, and skills will come in hand at various stage
 {% endtab %}
 {% endtabs %}
 
-### Stakeholders Who Support Capacity Building
+## Stakeholders Who Support Capacity Building
 
-#### Stakeholder Responsibility and Roles
+### Stakeholder Responsibility and Roles
 
 There can be different kind of stakeholders (government and internal) and external stakeholders who support capacity building during the digital transformation process. GovStack has identified various internal stakeholder profiles that support the implementation of citizen centric digital government services. The profiles are as follows:&#x20;
 
@@ -120,7 +120,7 @@ These are the actual users of applications. These are people who either a) deliv
 
 </details>
 
-### Training Delivery to support digital services
+## Training Delivery to support digital services
 
 GovStack approach provides different training topics in accordance with user profiles which support to better implement the GovStack approach. In order to establish right approach and move towards digital services first the general knowledge according the GovStack eco system as well digital governance era with respect to digital transformation is needed. GovStack has developed main training topics to each stakeholder who will be involved with the GovStack implantation journey and is involved or assist digital teams. However, many open-source courses are available which can support our approach during the implementation stages.&#x20;
 

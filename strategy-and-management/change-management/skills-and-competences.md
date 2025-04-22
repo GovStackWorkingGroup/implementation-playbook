@@ -1,8 +1,8 @@
 # Skills & competences
 
-As detailed in the [GovStack Competence Building Module](../capacity-building-strategy/capacity-building/academic-support.md), the successful implementation of the GovStack Approach requires countries to consider a long-term strategy that incorporates the necessary academic support that is needed to achieve their digitalization goals.&#x20;
+As detailed in the [GovStack Competence Building Module](../capacity-building/academic-support.md), the successful implementation of the GovStack Approach requires countries to consider a long-term strategy that incorporates the necessary academic support that is needed to achieve their digitalization goals.&#x20;
 
-The latest publication of [DigComp 2.2](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415), presents the consolidated framework of digital competencies used in Europe, including examples of knowledge, skills and attitudes (Dimension 4) as well as use cases (Dimension 5) that address Change Management. These are equivalent to [e-CF](../capacity-building-strategy/capacity-building/academic-support.md) E7 Business Change Management L.4-5, and (almost generalised) Change support.
+The latest publication of [DigComp 2.2](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415), presents the consolidated framework of digital competencies used in Europe, including examples of knowledge, skills and attitudes (Dimension 4) as well as use cases (Dimension 5) that address Change Management. These are equivalent to [e-CF](../capacity-building/academic-support.md) E7 Business Change Management L.4-5, and (almost generalised) Change support.
 
 <figure><img src="../../.gitbook/assets/Imagen4.png" alt=""><figcaption><p>DigComp 2.2</p></figcaption></figure>
 

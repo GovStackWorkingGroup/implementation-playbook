@@ -1,37 +1,27 @@
 # Approach
 
-## Change Management
-
 The Digital Journey implies a holistic effort to rethink and transform the core processes of government beyond the traditional digitization efforts. It evolves along a continuum from the use of new working methods and relations with the citizens, to changes in IT contracting practices and organizational change initiatives that involve the whole organization's ecosystem.&#x20;
 
-{% tabs %}
-{% tab title="Change Management" %}
-**Definition of Change Management**
+### **Definition of Change Management**
 
 Change management can be defined as the methods and manners in which an organization describes and implements change within both its internal and external processes. It encompasses not only the technical aspects but also the human side of change.
 
 In this sense, change management is not only a reactive tool for managing resistance against change; it is most effective as a tool for engaging and involving stakeholders, particularly employees, in the change process.
 
 Managing change can be challenging, and part of the problem is that there is little consensus on which factors have the greatest influence on transformation initiatives.
-{% endtab %}
 
-{% tab title="Categories of change" %}
 There are 3 Categories of change. These include:
 
 * Incremental
 * Transitional
 * Transformative
-{% endtab %}
 
-{% tab title="Change recepients" %}
 The 3 destinataires/recipients of the change are:
 
 * Individuals
 * Teams
 * Organizations
-{% endtab %}
 
-{% tab title="Barriers to Change" %}
 ## Barriers to change: soft and hard factors
 
 Over the past few years, change management specialists have increasingly prioritized soft issues like culture, communication, leadership, and motivation. While these elements are undoubtedly critical for success, managing them alone may not suffice for the successful implementation of transformative projects, especially those required in the context of digitalization. The barriers to change management can be grouped as follows:
@@ -49,5 +39,3 @@ Globally, there are common barriers that hinder change implementation, whether d
 Resistance to change in the digital era is a combination of both timeless causes and new challenges that are specific to modern technologies. The introduction of digital era change to governments has occurred through mechanisms that were established well before the digital revolution took place.
 
 In order to deliver successful digital era public services, it is crucial for public servants to overcome these barriers that hinder progress. To achieve this, existing solutions can be utilized or new ones can be created to help overcome these obstacles in a government context.&#x20;
-{% endtab %}
-{% endtabs %}

@@ -1,6 +1,6 @@
 # Capacity assessment
 
-### Assessing the Level of Knowledge
+## Assessing the Level of Knowledge
 
 Digital skills are essential, therefore, there is a need to understand the existing eco-system and to conduct a meaningful training skills assessment and analysis in line with identified GovStack practices.&#x20;
 
@@ -62,7 +62,7 @@ To ensure that there is a solid foundation for informed decision-making and guid
 
 &#x20;Goal of this tool is to ensure that the digital development training plan aligns with the unique status, requirements and challenges of the government and its ICT practitioners.
 
-This Rapid Assessment [**Tool** ](../artefacts.md#rapid-skills-assesment-tool)is intended to be used as a protocol for focus group discussion with the selected civil servants (ICT Practitioners) from Government Ministries and/Agencies to collect initial data alongside the country kick-off mission or preliminary engagement with country focal points in order develop a digital development training plan for the government ICT practitioners.
+This Rapid Assessment [**Tool** ](artefacts-rework-in-progress.md#rapid-skills-assesment-tool)is intended to be used as a protocol for focus group discussion with the selected civil servants (ICT Practitioners) from Government Ministries and/Agencies to collect initial data alongside the country kick-off mission or preliminary engagement with country focal points in order develop a digital development training plan for the government ICT practitioners.
 {% endtab %}
 
 {% tab title="Current digital capability in country (RFI-4)" %}
@@ -97,7 +97,7 @@ The link below shows the World Bank’s toolkit to assess digital skills: [World
 {% endtab %}
 {% endtabs %}
 
-### Capability and capacity needs assessment&#x20;
+## Capability and capacity needs assessment&#x20;
 
 Before embarking on the implementation journey, it is important to assess the capability and capacity needs of the identified GovStack profiles. This will enable the stakeholders to be matched with the requisite trainings and skills to enable implementation of GovStack's digitalization and Building Block approach.&#x20;
 

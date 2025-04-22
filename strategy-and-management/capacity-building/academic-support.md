@@ -1,6 +1,6 @@
 # Academic support
 
-### How Academia can help to build capacity?
+## How Academia can help to build capacity?
 
 To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path needed in the digitalization journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country Digital skills.
 
@@ -105,13 +105,13 @@ Management/Policy makers, Service Designers, IT personnel (Recommended Curriculu
 
 Additionally to [EQF](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) the study programmes should follow the Computing Curricula 2020, CC2020 approach in terms of the elements of knowledge.&#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage (3).png" alt=""><figcaption><p>Elements of knowledge based on (<a href="https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf">CC2020</a>)  </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage (3).png" alt=""><figcaption><p>Elements of knowledge based on (<a href="https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf">CC2020</a>)  </p></figcaption></figure>
 
 This knowledge dimension of competency represents foundational and technical components that are very relevant in order to implement GovStack's vision of digitalization.
 
 In order to sustain a digital society, it is equally important to continuously monitor industry trends and emerging new technologies. There is need to establish a digital talent archive that will ensure continuous sustainability in a country's capacity strength.
 
-### Skills and Competences to support academic programmes
+## Skills and Competences to support academic programmes
 
 The successful implementation of the GovStack Approach requires countries to consider a long-term strategy that accounts for the kind of academic support that is needed to achieve digitalization goals. From a short-term perspective, the general GovStack approach is sufficient to keep the GovStack eco-system up and running. However, in order to foster sustainability within country digital teams, academic support is a valuable asset to ensure that long-term goals are met. &#x20;
 
@@ -127,7 +127,7 @@ The [EAPC Competency framework](https://eapc.bibliotecadigital.gencat.cat/bitstr
 
 This kind of competency framework aligns with the GovStack Approach as it supports co-design and an agile mindset. As such, it is easy to combine its iterative style with the training plans that GovStack envisages for capacity building.
 
-![](<../../../.gitbook/assets/GetImage (4).png>)
+![](<../../.gitbook/assets/GetImage (4).png>)
 
 This type of competency framework serves well GovStack approach as it supports co-design and agile way of thinking. In that way it is easy to combine iterative style with the training plans which are meant for the capacity building.
 
@@ -265,7 +265,7 @@ It covers all kinds of competencies and is not limited to IT capabilities only. 
 
 </details>
 
-### Study Programs Structure
+## Study Programs Structure
 
 GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System (LMS)](https://online.atingi.org/local/partner/page.php?id=10) to train the stakeholders.&#x20;
 
@@ -274,7 +274,7 @@ The main learning outcomes to support the GovStack's approach will give &#x20;
 * Enabling an understanding of the different competencies needed for digital journey
 * Informing different co-design techniques and applying this knowledge to implement the GovStack Approach
 
-<figure><img src="../../../.gitbook/assets/Academia.png" alt=""><figcaption><p>An interdisciplinary approach of the study programme</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Academia.png" alt=""><figcaption><p>An interdisciplinary approach of the study programme</p></figcaption></figure>
 
 The **expected learning outcomes** should ensure the program meets the following: &#x20;
 

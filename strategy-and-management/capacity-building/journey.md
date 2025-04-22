@@ -1,6 +1,6 @@
 # Journey
 
-### Capacity Building Journey&#x20;
+## Capacity Building Journey&#x20;
 
 Capacity-building process involves establishing and enhancing skills, instincts, abilities, processes, and resources that organizations and communities require to survive, adapt, and thrive in a rapidly changing world. Organizations share information, skills, and best practices through capacity development. GovStack's methodology is highly iterative and co-creation based [(ITU 2022).](https://www.un.org/en/academic-impact/capacity-building)
 
@@ -29,78 +29,90 @@ The process of these activities and main tools used can be found in the Capacity
 
 
 
-<figure><img src="../../../.gitbook/assets/Capacity Building Framework (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capacity Building Framework (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a></p></figcaption></figure>
 
 Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in [GovStack LMS](https://online.atingi.org/local/partner/page.php?id=10). It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7).
 
-### Development and Customization of Capacity Building
+## Development and Customization of Capacity Building
 
 GovStack focuses a lot on process and people within the implementation journey. Capacity building is the process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s Building Blocks. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-19 175040.png" alt=""><figcaption><p>GovStack Design Thinking Framework for Creating Learning Experiences</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-19 175040.png" alt=""><figcaption><p>GovStack Design Thinking Framework for Creating Learning Experiences</p></figcaption></figure>
 
-#### Development and Customization Model&#x20;
+### Development and Customization Model&#x20;
 
 The model employs design-thinking and human-centric design methodologies for learning and performance. Thus, instead of focusing on learning a topic or combination of topics, it focuses on solving problems and achieving stated organizational goals.&#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage (2) (1).png" alt=""><figcaption><p>ADDIE Model of Instructional Design</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage (2) (1).png" alt=""><figcaption><p>ADDIE Model of Instructional Design</p></figcaption></figure>
 
 It involves 3 phases as described below:
 
-{% tabs %}
-{% tab title="Phase 1   " %}
-### **Phase 1 – Pre-planning:**
+<details>
 
-1. &#x20;What is the concept you are exploring? Develop a capacity building framework that complements launching digital government services (GovStack/BB) as well helps to build digital competency/readiness among Government agencies.&#x20;
-2. What is the challenge or opportunity this concept addresses?&#x20;
-3.  Which groups need to be involved in addressing the concept? (Stakeholder map)&#x20;
+<summary>Phase 1 - Pre-planning</summary>
+
+* What is the concept you are exploring? Develop a capacity building framework that complements launching digital government services (GovStack/BB) as well helps to build digital competency/readiness among Government agencies.&#x20;
+
+- What is the challenge or opportunity this concept addresses?&#x20;
+
+*   Which groups need to be involved in addressing the concept? (Stakeholder map)&#x20;
 
     a. Who // What we know and what we need to know // Concerns and expectations // Desired impact // Motivation&#x20;
-4. Which groups are NOT impacted by it and how might they react? (Stakeholder map)&#x20;
-5. Capacity building assessment&#x20;
-{% endtab %}
 
-{% tab title="Phase II " %}
-### **Phase II - Gain Perspective and Refine the Problem:**
+- Which groups are NOT impacted by it and how might they react? (Stakeholder map)&#x20;
 
-1. _**Gap analysis and adaptation plan**_&#x20;
-   * Organizational context: &#x20;
-     1. Goals, strategies and structure&#x20;
-     2. History (recent success or failure)&#x20;
-   * Internal Environment&#x20;
-   * External Environment&#x20;
-   * Multi-level approach &#x20;
-     1. Individual&#x20;
-     2. Communities of practice (technical, intra-organization, etc.)&#x20;
-     3. Stakeholder interaction&#x20;
-     4. Enabling conditions&#x20;
-2. &#x20;_**Data Sources**_&#x20;
-   * Primary source (government documentation)&#x20;
-   * [UN e-Government](https://publicadministration.un.org/egovkb/en-us/) Knowledge base&#x20;
-   * World Bank [Country Diagnostics](https://www.worldbank.org/en/programs/all-africa-digital-transformation/country-diagnostics)&#x20;
-   * UNDP&#x20;
-   * Policy and strategy documents&#x20;
-3. _**Data Gathering (Capacity building)**_ &#x20;
-   * UNDP - Digital government capability assessment&#x20;
-   * World Bank [Digital Government Readiness](https://openknowledge.worldbank.org/handle/10986/33674) document and [tutorial](https://olc.worldbank.org/content/unveiling-the-digital-government-readiness-assessment-toolkit)&#x20;
-   * [United Nations Public Administration Network (UNPAN) ](https://unpan.un.org/capacity-development)
-   * [UNDP and ITU digital capacity](https://digital-capacity.org/)&#x20;
-   * Current assets&#x20;
-   * Refine the problem (multi-stakeholder engagement)&#x20;
-     1. National Digital Strategy and National M\&E Plan&#x20;
-        * National Strategy and National M\&E Plan Is there a National Strategy related to the relevant use cases addressed by the Program or project(s)? Is there a National M\&E Plan linked to the National Strategy? &#x20;
-     2. Goals and Objectives of the Program/Project(s) &#x20;
-        * Are the goals and objectives of the Program or project(s) in line with the National Strategy and are they time bound and measurable? &#x20;
-     3. M\&E Indicators in the Program/Project(s) &#x20;
-        * Do indicators have clear definitions, data sources with baselines and targets? Were indicators selected in collaboration with national/international M\&E partners? Is indicator data linked with the National M\&E system? &#x20;
-     4. Communication Plan and Transparency &#x20;
-        * Will data from the Program or project(s) be disseminated properly and will sensitive data remain confidential? &#x20;
-     5. Capacity Building Budget &#x20;
-        * Has the Program or project allocated sufficient financial resources for M\&E?&#x20;
-{% endtab %}
+* Capacity building assessment&#x20;
 
-{% tab title=" Phase III  " %}
-### **Phase III – Capacity Building Plan**
+</details>
+
+<details>
+
+<summary>Phase II - Gain Perspective and Refine the Problem</summary>
+
+
+
+* _**Gap analysis and adaptation plan**_&#x20;
+  * Organizational context: &#x20;
+    1. Goals, strategies and structure&#x20;
+    2. History (recent success or failure)&#x20;
+  * Internal Environment&#x20;
+  * External Environment&#x20;
+  * Multi-level approach &#x20;
+    1. Individual&#x20;
+    2. Communities of practice (technical, intra-organization, etc.)&#x20;
+    3. Stakeholder interaction&#x20;
+    4. Enabling conditions&#x20;
+
+- &#x20;_**Data Sources**_&#x20;
+  * Primary source (government documentation)&#x20;
+  * [UN e-Government](https://publicadministration.un.org/egovkb/en-us/) Knowledge base&#x20;
+  * World Bank [Country Diagnostics](https://www.worldbank.org/en/programs/all-africa-digital-transformation/country-diagnostics)&#x20;
+  * UNDP&#x20;
+  * Policy and strategy documents&#x20;
+
+* _**Data Gathering (Capacity building)**_ &#x20;
+  * UNDP - Digital government capability assessment&#x20;
+  * World Bank [Digital Government Readiness](https://openknowledge.worldbank.org/handle/10986/33674) document and [tutorial](https://olc.worldbank.org/content/unveiling-the-digital-government-readiness-assessment-toolkit)&#x20;
+  * [United Nations Public Administration Network (UNPAN) ](https://unpan.un.org/capacity-development)
+  * [UNDP and ITU digital capacity](https://digital-capacity.org/)&#x20;
+  * Current assets&#x20;
+  * Refine the problem (multi-stakeholder engagement)&#x20;
+    1. National Digital Strategy and National M\&E Plan&#x20;
+       * National Strategy and National M\&E Plan Is there a National Strategy related to the relevant use cases addressed by the Program or project(s)? Is there a National M\&E Plan linked to the National Strategy? &#x20;
+    2. Goals and Objectives of the Program/Project(s) &#x20;
+       * Are the goals and objectives of the Program or project(s) in line with the National Strategy and are they time bound and measurable? &#x20;
+    3. M\&E Indicators in the Program/Project(s) &#x20;
+       * Do indicators have clear definitions, data sources with baselines and targets? Were indicators selected in collaboration with national/international M\&E partners? Is indicator data linked with the National M\&E system? &#x20;
+    4. Communication Plan and Transparency &#x20;
+       * Will data from the Program or project(s) be disseminated properly and will sensitive data remain confidential? &#x20;
+    5. Capacity Building Budget &#x20;
+       * Has the Program or project allocated sufficient financial resources for M\&E?&#x20;
+
+</details>
+
+<details>
+
+<summary>Phase III – Capacity Building Plan</summary>
 
 _**1.Why Digital Transformation**_&#x20;
 
@@ -169,10 +181,10 @@ The platforms and tools which can be used as a training platform&#x20;
 Different level of the trainings (top/middle management, end users, service designers, technician who should know the BB)&#x20;
 
 Implementation methodology and possible timeline (what kind of trainings are needed, who is responsible)&#x20;
-{% endtab %}
-{% endtabs %}
 
-**Effective strategies for imparting training:**&#x20;
+</details>
+
+### **Effective strategies for imparting training**&#x20;
 
 For many years, research and practice has recognized differences between how children and adults learn. Thus, this section highlights high-level adult learning theory along with recommendations to enhance practice for the effective implementation of GovStack's BB. &#x20;
 
