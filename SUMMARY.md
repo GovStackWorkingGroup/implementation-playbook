@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Introduction to GovStack](README.md)
+* [How to use the Playbook](README.md)
+* [Introduction to GovStack](<README (1).md>)
   * [GovStack](introduction-to-govstack/2-description/README.md)
     * [Governance model](introduction-to-govstack/2-description/governance-model.md)
     * [Adopt GovStack](introduction-to-govstack/2-description/adopt-govstack.md)
     * [Engage with GovStack](introduction-to-govstack/2-description/engage-with-govstack.md)
   * [Building Blocks](introduction-to-govstack/building-blocks.md)
   * [Terminology](introduction-to-govstack/3-terminology.md)
-* [How to use the Playbook](how-to-use-the-playbook.md)
 
 ## Strategy & Management
 
