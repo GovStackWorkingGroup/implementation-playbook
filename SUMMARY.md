@@ -43,23 +43,26 @@
   * [User journeys](designing/service-design/user-journeys.md)
   * [Service blueprint](designing/service-design/service-blueprint.md)
   * [Wireframes](designing/service-design/wireframes.md)
-* [WIP: Market Research](designing/wip-market-research.md)
+* [\[System Architecture\]](designing/system-architecture.md)
+* [\[Market Research\]](designing/market-research.md)
 
 ## Testing
 
 * [Prototype](testing/prototype.md)
 
+***
+
+* [\[Wireframes\]](wireframes.md)
+
 ## Procurement
 
-* [To be developed](procurement/to-be-developed.md)
+* [\[Public Tendering\]](procurement/public-tendering.md)
 
 ## Development
 
+* [\[Software Architecture\]](development/software-architecture.md)
+* [\[DevSecOps\]](development/devsecops.md)
 * [Launch the service](development/launch-the-service.md)
-
-## Operations
-
-* [To be developed](operations/to-be-developed.md)
 
 ## Annex
 
