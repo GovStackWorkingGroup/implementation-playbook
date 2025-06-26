@@ -31,7 +31,7 @@ More information on how to deploy and integrate building blocks to enable digita
 {% file src="../.gitbook/assets/Next Generation Digital Government Architecture (1).pdf" %}
 {% endtab %}
 
-{% tab title="Responsibilities" %}
+{% tab title="Responsabilities" %}
 Who does what:
 
 * Head of Service Design - Lead the integration of the service catalog.
