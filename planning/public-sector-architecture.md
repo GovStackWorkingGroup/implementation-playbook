@@ -32,7 +32,7 @@ Australian Whole of Government Architecture &#x20;
 
 {% endtab %}
 
-{% tab title="Responsabilities" %}
+{% tab title="Responsibilities" %}
 Who does what:
 
 * Chief government architects - Coordinate the work around the reference architecture&#x20;
