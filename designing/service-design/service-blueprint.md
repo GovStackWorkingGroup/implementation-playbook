@@ -4,7 +4,7 @@ Service Blueprints are a continuum of “to-be” journeys which are a series of
 
 A service blueprint is a diagram that visualizes the relationships between different service components - people, properties (physical or digital evidence), and processes - that are directly tied to touchpoints in a specific customer journey.
 
-{% embed url="https://www.figma.com/file/v7rPzabWWEhGQcMfrsS4cM/Construction-Permit-Review-08%2F23%2F2023?node-id=0:1&t=R4ezQEsgDq1MDX92-1&type=whiteboard" %}
+{% @figma/embed fileId="v7rPzabWWEhGQcMfrsS4cM" nodeId="0:1" url="https://www.figma.com/file/v7rPzabWWEhGQcMfrsS4cM/Construction-Permit-Review-08%2F23%2F2023?node-id=0:1&t=R4ezQEsgDq1MDX92-1&type=whiteboard" %}
 
 <details>
 
@@ -15,6 +15,19 @@ A service blueprint is a diagram that visualizes the relationships between diffe
 * Coordinating complex services by bridging cross-dependent efforts. Blueprinting forces service designers to capture what occurs internally throughout the totality of the user journey, giving them insight into overlaps and dependencies that departments/ministries alone could not identify.
 
 </details>
+
+Our [Service Blueprint Template](https://www.figma.com/file/DAK1g4cpOaBYIEh86jrSaf/Service-Blueprint-Template?type=whiteboard\&node-id=0%3A1\&t=UF29338KZEBhudYq-1) facilitates coordination between teams and components while producing deep understanding related to use cases that are worked on. They are a continuum of the “to-be” user journeys within the implementation playbook.
+
+The primary elements of our service blueprints are:
+
+* Processes
+* Different service users and entities involved in providing the service
+* Actions and goals of entities and users
+* GovStack Design Patterns
+* Required documents, Data input and output
+* Building Blocks
+
+{% @figma/embed fileId="DAK1g4cpOaBYIEh86jrSaf" nodeId="0:1" url="https://www.figma.com/file/DAK1g4cpOaBYIEh86jrSaf/Service-Blueprint-Template?node-id=0:1&t=UF29338KZEBhudYq-1&type=whiteboard" %}
 
 Source: [Nielsen Norman Group](https://www.nngroup.com/articles/service-blueprints-definition/)
 
