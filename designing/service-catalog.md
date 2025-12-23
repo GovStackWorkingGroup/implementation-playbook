@@ -14,11 +14,11 @@ Links to example of service catalogues
 2. [Gov.uk](https://www.gov.uk/search/services)
 3. [Gov.uy](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/tramites-y-servicios/servicios)
 4. [Gov.au](https://my.gov.au/en)
-5. [Gov.sg](https://www.citizenconnectcentre.gov.sg/top-eservices/)
+5. [Gov.sg](https://gov.sg)
 6. [Gob.pe](https://www.gob.pe/)
 7. [Gov.co](https://www.gov.co/ficha-tramites-y-servicios/)
 8. [Gov.br](https://www.gov.br/pt-br)
-9. Gov.ee
+9. [Gov.ee](https://www.eesti.ee/eraisik/en/avaleht)
 10. [Gob.ar](https://www.argentina.gob.ar/)
 
 Abu Dhabi has developed a [catalog ](https://www.tamm.abudhabi/)that clusters services based on user/business life events.&#x20;
