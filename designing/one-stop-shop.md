@@ -89,7 +89,9 @@ The following are a few examples of Service Catalogs:
 
 ## Deliverables
 
-* Shared service team: Develop and maintain the CMS
-* Digital communications team: Develop UX guidelines and training focal points and perform random auditing on quality of service sheets to ensure they meet the service sheet standards.
-* Focal point designates: Create service sheets, update them according to citizens' feedback, and implement regulation changes regarding services.
+* Content Management System (CMS)
+* Service catalog on CMS
+* Service Information Sheet Standard
+* Ticketing system
+* Training material on UX writing
 
