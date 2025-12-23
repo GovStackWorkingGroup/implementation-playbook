@@ -47,11 +47,11 @@ Source: [Nielsen Norman Group](https://www.nngroup.com/articles/service-blueprin
 {% tab title="Responsabilites" %}
 Who does what:&#x20;
 
-* [Service designer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#service-designer) - Lead the co-design of the service blueprint
+* [Service designer](https://playbook.govstack.global/designing/service-design) - Lead the co-design of the service blueprint
 * [Product owners](https://govstack.gitbook.io/bb-workflow/v/development-6/) - Oversee the development of the service blueprint, provide input when required, and review the final blueprint.
-* [User needs researchers](/broken/spaces/zlgZ7XvqYnhGTNjlQo19) – provide the service users' perspective when developing the service blueprint.
-* [Back-end developer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#back-end-developers) - assists in the identification and mapping of generic workflows and Building Blocks
-* [UX/UI Designers](/broken/spaces/zlgZ7XvqYnhGTNjlQo19) -assist in identifying the design patterns for each step in the service blueprint to later use in the development of wireframes.
+* [User needs researchers](https://workflow.govstack.global/development-6/) – provide the service users' perspective when developing the service blueprint.
+* [Back-end developer](https://playbook.govstack.global/strategy-and-management/digital-team-composition/user-profiles-taxonomy) - assists in the identification and mapping of generic workflows and Building Blocks
+* [UX/UI Designers](https://playbook.govstack.global/strategy-and-management/digital-team-composition/user-profiles-taxonomy) -assist in identifying the design patterns for each step in the service blueprint to later use in the development of wireframes.
 {% endtab %}
 
 {% tab title="Deliverables" %}
