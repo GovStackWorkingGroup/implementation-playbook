@@ -29,9 +29,9 @@ The following are the wireframes developed for the Extended Producer Responsibil
 Who does what:
 
 * [Service designers](../../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activities within the 'Activities' Tab.
-* [User needs researchers](broken-reference) – Prepare & apply user interviews, and facilitate wireframe validation workshops with focus groups.&#x20;
+* [User needs researchers](/broken/spaces/zlgZ7XvqYnhGTNjlQo19) – Prepare & apply user interviews, and facilitate wireframe validation workshops with focus groups.&#x20;
 * [Legal policy officer](../../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service.
-* [UX/UI Designers](broken-reference) - Prepare the wireframes and iterate them as per user feedback.
+* [UX/UI Designers](/broken/spaces/zlgZ7XvqYnhGTNjlQo19) - Prepare the wireframes and iterate them as per user feedback.
 * [Product/Tech experts](../../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Participate in the iteration session with users to see the reaction to the wireframes.
 {% endtab %}
 

@@ -1,4 +1,4 @@
-# Building block approach
+# Building Blocks
 
 There is an existing logical approach practiced by leading e-gov to create a common shared platform to deliver various government services digitally.
 
@@ -77,8 +77,7 @@ Yes. The IM BB is designed to be able to consume services from another instance 
 
 No. If Building Blocks are within the same software system, then they can communicate directly. Only communication between different parties or organizations must use IM BB.
 
-\
-
+<br>
 
 </details>
 
@@ -466,8 +465,7 @@ GovStack Messaging BB specifications provides security and preserves privacy by 
 
 **How can GovStack Messaging BB contribute to the government's vision for information services management and delivery?**
 
-The GovStack Messaging Building Block empowers the government by enabling efficient information delivery through secure, established, and widely adopted standards while ensuring the best-known practices for security and privacy. It promotes interoperability, reusability of existing applications and 3rd party applications, and facilitates effective digital service delivery to citizens. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that further enhances country's reputation as a tech-savvy and forward-thinking nation.\
-
+The GovStack Messaging Building Block empowers the government by enabling efficient information delivery through secure, established, and widely adopted standards while ensuring the best-known practices for security and privacy. It promotes interoperability, reusability of existing applications and 3rd party applications, and facilitates effective digital service delivery to citizens. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that further enhances country's reputation as a tech-savvy and forward-thinking nation.<br>
 
 </details>
 
@@ -576,8 +574,7 @@ GovStack GIS BB specifications provide functionalities like GIS data management,
 
 &#x20;**How does GovStack GIS BB contribute to the government's vision for efficient governance?**
 
-The GovStack GIS Building Block empowers the government by enabling efficient governance through better decision-making based on geospatial insights. It promotes interoperability, reusability of GIS applications, and effective service delivery to citizens and businesses. Additionally, the planned enhancements ensure that the government stays at the forefront of geospatial technology advancements. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage geospatial data, ultimately enhancing the country's reputation as a tech-savvy and forward-thinking nation.\
-
+The GovStack GIS Building Block empowers the government by enabling efficient governance through better decision-making based on geospatial insights. It promotes interoperability, reusability of GIS applications, and effective service delivery to citizens and businesses. Additionally, the planned enhancements ensure that the government stays at the forefront of geospatial technology advancements. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage geospatial data, ultimately enhancing the country's reputation as a tech-savvy and forward-thinking nation.<br>
 
 </details>
 

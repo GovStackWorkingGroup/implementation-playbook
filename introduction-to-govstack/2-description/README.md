@@ -1,4 +1,4 @@
-# GovStack overview
+# GovStack
 
 ## What is it?&#x20;
 
@@ -34,3 +34,17 @@ The example below illustrates the business processes and supporting technologies
 GovStack building blocks are interoperable, generic Digital Public Goods that enable digital public infrastructure.
 
 <figure><img src="../../.gitbook/assets/39.-Digital-Public-infrastructure (1).jpg" alt=""><figcaption><p>Source: https://digitalpublicgoods.net/blog/unpacking-concepts-definitions-digital-public-infrastructure-building-blocks-and-their-relation-to-digital-public-goods/</p></figcaption></figure>
+
+
+
+## What is the GovStack approach and its relationship to building blocks?
+
+The building blocks (BB) form the center of the GovStack approach and can be described as modular digital components encapsulating key functions that are reused across multiple services. The specific building blocks, just as Identity, Payments, Consent, Workflow, Messaging, Registration, Data Exchange, and Social Benefits Delivery encompass concrete functional and technical specifications. These specifications include API definitions, data models, security, and privacy requirements, and come along with specific reference implementations illustrating how each component can be deployed (GovStack, 2025).
+
+The figure below illustrates this concept: each building block functions like a “brick” that provides a specific capability (Step 1). These bricks are then designed to interoperate with one another, forming a coherent system (Step 2). Step 3 describes how these interoperable components can be architecturally arranged and assembled, much like designing how standardized parts fit together when planning a house. The reference implementation shown on the right demonstrates how these architectural building blocks can ultimately be combined into fully operational digital services in practice.
+
+<figure><img src="../../.gitbook/assets/Building blocks.png" alt=""><figcaption></figcaption></figure>
+
+_Analogy of building a house (GovStack Women in GovTech Challenge 2025)_
+
+Furthermore, through the use of the BB’s, governments can build services more rapidly and consistently. In fact, rather than building bespoke systems for each ministry separately, countries can, with the help of the BB’s, rely on standardized components which can be integrated seamlessly, decrease duplication, as well as enhance interoperability across multiple sectors.

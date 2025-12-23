@@ -1,4 +1,4 @@
-# Engagement
+# Engage with GovStack
 
 GovStack engagement opportunities allow countries to select the level of involvement that best suits their needs. The following are a few streams through which countries can engage with GovStack.
 
@@ -33,8 +33,7 @@ Become a Champion Country by sharing Country DPGs & Expertise to other Countries
 
 * Identify potential DPGs that are likely to also comply with building blocks specifications
 * Identify existing DPGs that can be used to inform specifications of building blocks – where these specifications are not yet in place/still evolving
-* Create alignment and coordination for how to accelerate the discovery of these DPG Building Blocks eg. via a digital marketplace\
-
+* Create alignment and coordination for how to accelerate the discovery of these DPG Building Blocks eg. via a digital marketplace<br>
 
 **Opportunities to get involved:**
 
@@ -100,4 +99,4 @@ And when it comes to project documentation, we rely on Confluence. Explore Confl
 
 <figure><img src="../../.gitbook/assets/adobe-express-qr-code (5).png" alt=""><figcaption><p>GovStack Confluence: <a href="https://govstack-global.atlassian.net/wiki/home">https://govstack-global.atlassian.net/wiki/home</a></p></figcaption></figure>
 
-\
+<br>
