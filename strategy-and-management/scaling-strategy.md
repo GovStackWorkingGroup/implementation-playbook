@@ -2,7 +2,7 @@
 
 ## Co-design the scaling strategy
 
-The scaling strategy refers to a plan or approach (digitization roadmap) to grow the national tech-stack, infrastructure, capacity building, and the number of citizen-centric digital government services according to the [prioritization strategy](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/~/changes/501/govstack-implementation-playbook/adopt-govstack/copy-of-service-prioritization) and simultaneously update legal frameworks.
+The scaling strategy refers to a plan or approach (digitization roadmap) to grow the national tech-stack, infrastructure, capacity building, and the number of citizen-centric digital government services according to the [prioritization strategy](../planning/service-prioritization.md) and simultaneously update legal frameworks.
 
 Countries can catalog services and identify existing software components, choose an initial prioritized service, and procure/develop/adopt additional building blocks to digitize the service.&#x20;
 
