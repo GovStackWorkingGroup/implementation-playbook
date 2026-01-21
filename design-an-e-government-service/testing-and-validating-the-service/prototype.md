@@ -79,7 +79,7 @@ Following are the stages of prototyping a digital government service, from α ve
 * Launch version: The launch version is the first version of the service that is released to the public. It includes the core features and functionalities that meet the needs of the users and are further iterated based on future user feedback.&#x20;
 *
 
-    <figure><img src="../.gitbook/assets/Protype (8).png" alt=""><figcaption><p>Iterative prototyping</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Protype (8).png" alt=""><figcaption><p>Iterative prototyping</p></figcaption></figure>
 
 </details>
 

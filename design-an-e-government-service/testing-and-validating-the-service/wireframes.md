@@ -12,14 +12,14 @@ The following are the wireframes developed for the Extended Producer Responsibil
 
 {% tabs %}
 {% tab title="Activities / Resources" %}
-* Create a preliminary version of the service using [wireframes and/or voice command flow](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow). A good wireframe and/or voice command flow requires:
-  * Using [UX/UI guidelines](https://govstack.gitbook.io/specification/v/govstack-specification-main/govstack-ui-ux-guidelines) build preliminary Lo-Fi [wireframes and/or voice command flow ](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow)that show structure, placement, and hierarchy for your service. &#x20;
+* Create a preliminary version of the service using [wireframes and/or voice command flow](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow). A good wireframe and/or voice command flow requires:
+  * Using [UX/UI guidelines](https://govstack.gitbook.io/specification/v/govstack-specification-main/govstack-ui-ux-guidelines) build preliminary Lo-Fi [wireframes and/or voice command flow ](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow)that show structure, placement, and hierarchy for your service. &#x20;
   * Steering clear of font choices, color, or other elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. Use this opportunity to start listing what UX/UI patterns you will need.&#x20;
-  * Reviewing [wireframes and/or voice command flows](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) according to the specific 'To-be' user journey to ensure users accomplish their goals and their needs are met.&#x20;
-  * Using the [wireframes and/or voice command flow](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) to get the team’s feedback on feasibility and structure.&#x20;
-  * Using [wireframes and/or voice command flow](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) as a way of safely trying out more radical ideas.   &#x20;
+  * Reviewing [wireframes and/or voice command flows](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) according to the specific 'To-be' user journey to ensure users accomplish their goals and their needs are met.&#x20;
+  * Using the [wireframes and/or voice command flow](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) to get the team’s feedback on feasibility and structure.&#x20;
+  * Using [wireframes and/or voice command flow](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) as a way of safely trying out more radical ideas.   &#x20;
 * Refer to [UX/Ui guidelines](https://govstack.gitbook.io/sandbox/follow-methodology/best-practice-example-design-of-the-sandbox-building-permit-use-case) and [wireframing kit](https://www.figma.com/design/CfwFievYmLdgcDNKEwhvYd/Sandbox%2FConstruction-Permit%2FGitBook?node-id=0-1\&t=tamB6SCyu5rTqzci-0) prepared by GovStack.
-* Give the [wireframes and/or voice command flow ](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow)to the user (Citizen/public servant/business) and public official user to observe their interactions without instruction. Ask users to perform a specific task.&#x20;
+* Give the [wireframes and/or voice command flow ](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow)to the user (Citizen/public servant/business) and public official user to observe their interactions without instruction. Ask users to perform a specific task.&#x20;
 * Ask clarifying questions about why they do what they do. Let the user’s behavior guide the questions you ask. It can be helpful to have them narrate their thought process as they go along. &#x20;
 * Iterate! Wireframes and/or voice command flow should be quick and painless to create, and even more quick and painless to discard.&#x20;
 * Get service owner approval to proceed with the functional prototype &#x20;
@@ -28,15 +28,15 @@ The following are the wireframes developed for the Extended Producer Responsibil
 {% tab title="Responsabilities" %}
 Who does what:
 
-* [Service designers](../../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activities within the 'Activities' Tab.
+* [Service designers](../../prepare-for-service-design/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activities within the 'Activities' Tab.
 * [User needs researchers](/broken/spaces/zlgZ7XvqYnhGTNjlQo19) – Prepare & apply user interviews, and facilitate wireframe validation workshops with focus groups.&#x20;
-* [Legal policy officer](../../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service.
+* [Legal policy officer](../../prepare-for-service-design/digital-team-composition/user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service.
 * [UX/UI Designers](/broken/spaces/zlgZ7XvqYnhGTNjlQo19) - Prepare the wireframes and iterate them as per user feedback.
-* [Product/Tech experts](../../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Participate in the iteration session with users to see the reaction to the wireframes.
+* [Product/Tech experts](../../prepare-for-service-design/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Participate in the iteration session with users to see the reaction to the wireframes.
 {% endtab %}
 
 {% tab title="Deliverables" %}
-* [Wireframes and/or voice command flow](../../strategy-and-management/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) &#x20;
+* [Wireframes and/or voice command flow](../../digitize-the-whole-of-government/capacity-building/artefacts-rework-in-progress.md#wireframes-and-or-voice-command-flow) &#x20;
 * Apply the country's [digital service design standards](../../introduction-to-govstack/3-terminology.md#digital-service-design-standard). These include standards for:
   * [Service information sheet](../../introduction-to-govstack/3-terminology.md#information-service-sheets)
   * [Downloadable forms](../../introduction-to-govstack/3-terminology.md#downloadable-forms)

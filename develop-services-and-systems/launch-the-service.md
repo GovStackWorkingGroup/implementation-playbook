@@ -22,10 +22,10 @@ The service is ready to be launched in a production environment once the functio
 {% tab title="Responsabilites" %}
 Who does what:
 
-* [Service Owner ](../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
-* [Service designers](../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
+* [Service Owner ](../prepare-for-service-design/digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
+* [Service designers](../prepare-for-service-design/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
 * [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - develops communications strategy for the launch of the service
-* [IT operation](../strategy-and-management/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
+* [IT operation](../prepare-for-service-design/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
 {% endtab %}
 
 {% tab title="Deliverables" %}
