@@ -12,6 +12,7 @@
 ## Strategy & Management
 
 * [Digital strategy](strategy-and-management/digital-strategy.md)
+* [Digital Public Infrastructure (DPI) and the Role of E-Government Services](strategy-and-management/digital-public-infrastructure-dpi-and-the-role-of-e-government-services.md)
 * [Scaling strategy](strategy-and-management/scaling-strategy.md)
 * [Capacity building](strategy-and-management/capacity-building/README.md)
   * [Framework](strategy-and-management/capacity-building/framework.md)
