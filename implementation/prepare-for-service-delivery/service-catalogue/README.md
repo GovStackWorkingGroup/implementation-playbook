@@ -1,4 +1,4 @@
-# Service catalog
+# Service Catalogue
 
 A government digital service catalog is an online platform or database that provides information about various digital services and resources offered by a government to its citizens, businesses, and other stakeholders. The service catalog can be made available to users with a consistent/unified user experience.&#x20;
 
@@ -33,7 +33,7 @@ The following images show the services within each cluster within the user/busin
 
 ## Activities
 
-* Define the structure of the catalog of services. RFI-II provides a template to assist in [Cataloguing the services](../../../introduction/introduction-to-govstack/3-terminology.md#service-catalog). &#x20;
+* Define the structure of the catalog of services. RFI-II provides a template to assist in [Cataloguing the services](/broken/pages/7gbA07tzgsZKUrjiv32M#service-catalog). &#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-03-31 123850.png" alt=""><figcaption><p>Example of information in RFI-2</p></figcaption></figure>
 

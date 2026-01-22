@@ -1,4 +1,4 @@
-# Service prioritization
+# Service Prioritization
 
 ## Service prioritization & ranking
 
@@ -13,7 +13,7 @@ More information on how to deploy and integrate building blocks to enable digita
 {% tabs %}
 {% tab title="Activites / resources" %}
 * Rank the catalog of services based on your country´s criteria for impact and feasibility.&#x20;
-* Set one or two exemplar services from quadrant A to work with implementing the GovStack approach to [digital service co-design and delivery](../design-an-e-government-service/service-design-overview/service-design.md)
+* Set one or two exemplar services from quadrant A to work with implementing the GovStack approach to [digital service co-design and delivery](../../annex/service-design.md)
 
 <figure><img src="../../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption></figcaption></figure>
 
