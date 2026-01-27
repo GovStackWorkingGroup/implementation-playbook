@@ -220,6 +220,10 @@ However, across all categories **cross-cutting digital services are actively rei
 
 
 
+While national DPI systems form the backbone of digital service delivery, their transformative potential fully unfolds only when they are designed to operate across borders. Building on this foundation, the following subchapter examines cross-border DPI in the East African Community, focusing on how interoperability, regional governance, and shared infrastructure enable digital integration at scale.&#x20;
+
+
+
 
 
 [^1]: ADD LINK

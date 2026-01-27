@@ -53,7 +53,7 @@
     * [C.1 Develop Prototypes\*](implementation/design-an-e-government-service/c-testing-and-validating-the-service/c.1-develop-prototypes.md)
     * [C.2 Conduct Early Usability and Inclusive Testing\*](implementation/design-an-e-government-service/c-testing-and-validating-the-service/c.2-conduct-early-usability-and-inclusive-testing.md)
     * [C.3 Manage Research Operations\*](implementation/design-an-e-government-service/c-testing-and-validating-the-service/c.3-manage-research-operations.md)
-  * [Ensuring Inclusion and Accessibility When Designing E-Government Services\*](implementation/design-an-e-government-service/ensuring-inclusion-and-accessibility-when-designing-e-government-services.md)
+  * [Ensuring Inclusion and Accessibility When Designing E-Government Services](implementation/design-an-e-government-service/ensuring-inclusion-and-accessibility-when-designing-e-government-services.md)
   * [Selecting Software and Service Providers\*](implementation/design-an-e-government-service/selecting-software-and-service-providers.md)
 * [Develop an E-Government Architecture\*](implementation/develop-an-e-government-architecture/README.md)
   * [Architecture Planning Overview\*](implementation/develop-an-e-government-architecture/architecture-planning-overview.md)
@@ -67,6 +67,7 @@
 
 ## Annex
 
+* [Digital Strategy](annex/digital-strategy.md)
 * [Service Design](annex/service-design.md)
 * [GovStack Design Principles](annex/govstack-design-principles.md)
 * [User journeys](annex/user-journeys.md)
