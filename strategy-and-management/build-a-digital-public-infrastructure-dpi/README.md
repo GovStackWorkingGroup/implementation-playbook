@@ -117,7 +117,7 @@ Following a **narrow definition** of DP&#x49;**,** GovStack offers a technical b
 
 Following a **wide definition** of DPI, GovStack’s full scope of a government architecture can be considered DPI. GovStack places citizens and businesses (the users) at the centre of digital transformation of government services. Therefore, the primary collective objective of all GovStack Building Blocks and entirety of a government’s system is to provide citizens with services. A wide definition of DPI includes these services and with that the whole of GovStack’s technical specifications. Why government-provided services are essential to DPI is explained below under [“Why Services Matter for DPI”](#user-content-fn-2)[^2].
 
-<figure><img src="../../.gitbook/assets/Relation GovStack to DPI definitions.png" alt="" width="375"><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New Relation GovStack to DPI definitions.png" alt="" width="563"><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
 
 {% hint style="info" %}
 ### What does GovStack _not_ offer?

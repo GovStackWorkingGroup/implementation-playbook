@@ -1,4 +1,4 @@
-# Cross-Border DPI in the East African Community (EAC)\*
+# Cross-Border DPI in the East African Community (EAC)
 
 _Disclaimer: This subchapter draws on key findings and insights from the recently published (October 2025) “_[_EAC Digital Public Infrastructure (DPI) Needs Assessment Report_](https://www.eac.int/index.php?option=com_documentmananger\&task=download.document\&file=bWFpbl9kb2N1bWVudHNfcGRmX3dYYUd2WXV3Vll3cWpUVW9GdlhkVkRNRUFDIERQSSBSZXBvcnRfR0laXzAyMTEyMDI1MQ==\&counter=1639)_”. For detailed analysis, underlying evidence, and full references, please refer to the original report._&#x20;
 
@@ -16,7 +16,7 @@ The EAC “Needs Assessment Report” recommends the EAC to adopt a DPI+ approac
 
 Hence, the DPI+ approach places DPI not as a set of standalone IT systems, but as a socio-technical foundation for inclusive regional development. More specifically, regional initiatives such as the [Eastern Africa Regional Digital Integration Project (EARDIP)](https://www.eac.int/infrastructure/eardip/268-sector/information-and-communications-technology-ict) reinforce this logic through combining infrastructure investments with regulatory harmonization and institutional capacity building. Furthermore, the DPI+ framing closely aligns with the GovStack principles, particularly the emphasis on modularity, interoperability, and reuse across heterogeneous contexts.&#x20;
 
-<figure><img src="../../.gitbook/assets/The DPI+ Approach.png" alt=""><figcaption><p>Author's own visualization, based on the EAC Digital Public Infrastructure Needs Assessment Report (2025)</p></figcaption></figure>
+<div align="center"><figure><img src="../../.gitbook/assets/New DPI+ approach.png" alt="" width="375"><figcaption><p>Author's own visualization, based on the EAC Digital Public Infrastructure Needs Assessment Report (2025)</p></figcaption></figure></div>
 
 ## Strategic Benefits of Cross-Border DPI in the EAC
 

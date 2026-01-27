@@ -10,7 +10,7 @@
 
 * [Design a Government Architecture\*](strategy-and-management/design-a-government-architecture.md)
 * [Build a Digital Public Infrastructure (DPI)](strategy-and-management/build-a-digital-public-infrastructure-dpi/README.md)
-  * [Cross-Border DPI in the East African Community (EAC)\*](strategy-and-management/build-a-digital-public-infrastructure-dpi/cross-border-dpi-in-the-east-african-community-eac.md)
+  * [Cross-Border DPI in the East African Community (EAC)](strategy-and-management/build-a-digital-public-infrastructure-dpi/cross-border-dpi-in-the-east-african-community-eac.md)
 * [Set Foundations for Interoperability\*](strategy-and-management/set-foundations-for-interoperability.md)
 * [Build an Enabling Environment\*](strategy-and-management/build-an-enabling-environment/README.md)
   * [Digital Strategy](strategy-and-management/build-an-enabling-environment/digital-strategy.md)
