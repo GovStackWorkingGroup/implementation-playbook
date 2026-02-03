@@ -1,0 +1,22 @@
+# B.3 - Create Component Diagram
+
+The container diagram is a even further "zoomed-in" version of the [#container-diagram](b.2-create-container-diagram.md#container-diagram "mention") and shows the software architecture within a single container. You dont have to create this diagram for every container, usually it is done for containers that need to be custom-coded. This most prominently includes the frontend and backend containers as well as special components, like a batch component or an complicated adapter. A bounded context might also be implemented as its own component, if it isn't big enough to justify its own container.
+
+Example Component Diagram:
+
+<figure><img src="../../../.gitbook/assets/c4-component.webp" alt=""><figcaption><p>This diagram is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source: https://c4model.com/</p></figcaption></figure>
+
+Example Template:
+
+<figure><img src="../../../.gitbook/assets/temp (1).png" alt=""><figcaption></figcaption></figure>
+
+## Design Principles
+
+* Modularity
+  * Expanding on the ideas presented in [#modular-design](b.2-create-container-diagram.md#modular-design "mention"), a modular approach is also recommended within a container
+  * Try to identify components and especially business components / domain components that encapsulate a specific area of concern
+    * the data model is usually a good starting point informing you of areas of high cohesion
+* Some commonly used design patterns for dealing with external systems include Adapter, Proxy & Facade (see [Software design pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)).
+*
+
+    <figure><img src="../../../.gitbook/assets/high-cohesion_low-coupling.webp" alt=""><figcaption><p>This file is made available under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons">Creative Commons</a> <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0 1.0 Universal Public Domain Dedication</a>. Source: <a href="https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg">https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg</a></p></figcaption></figure>

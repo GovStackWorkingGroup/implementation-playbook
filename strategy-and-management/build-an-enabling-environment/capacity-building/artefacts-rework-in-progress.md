@@ -10,7 +10,7 @@ This page describes the documents, presentations, and tools related to governmen
 
 Description of artefact: User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users.
 
-{% file src="../../.gitbook/assets/User persona template and example.pptx" %}
+{% file src="../../../.gitbook/assets/User persona template and example.pptx" %}
 
 ### **Wireframes and/or Voice command flow**
 
@@ -24,7 +24,7 @@ Description of artefact: The artefact contains guidelines to identifying service
 
 Link to artefact:&#x20;
 
-{% file src="../../.gitbook/assets/Country Prioritization and Ranking Approach.pptx" %}
+{% file src="../../../.gitbook/assets/Country Prioritization and Ranking Approach.pptx" %}
 
 ### **Context on existing Digital Service Design Standards and Delivery Protocol (Request for Information, RFI-1)**
 
@@ -38,7 +38,7 @@ Description of artefact: RFI-2 is a service catalogue that facilitates the analy
 
 Artefac&#x74;**:**
 
-{% file src="../../.gitbook/assets/version0.2CE DSDS RFI2 (1).xlsx" %}
+{% file src="../../../.gitbook/assets/version0.2CE DSDS RFI2 (1).xlsx" %}
 Service Catalogue template
 {% endfile %}
 
