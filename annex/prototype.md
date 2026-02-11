@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Prototype
 
 ## Develop, test, and iterate a functional prototype.

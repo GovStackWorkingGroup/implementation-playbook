@@ -4,11 +4,11 @@ The container diagram is a even further "zoomed-in" version of the [#container-d
 
 Example Component Diagram:
 
-<figure><img src="../../../.gitbook/assets/c4-component.webp" alt=""><figcaption><p>This diagram is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source: https://c4model.com/</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/c4-component.webp" alt=""><figcaption><p>This diagram is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source: https://c4model.com/</p></figcaption></figure>
 
 Example Template:
 
-<figure><img src="../../../.gitbook/assets/temp (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/temp (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Design Principles
 
@@ -19,4 +19,4 @@ Example Template:
 * Some commonly used design patterns for dealing with external systems include Adapter, Proxy & Facade (see [Software design pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)).
 *
 
-    <figure><img src="../../../.gitbook/assets/high-cohesion_low-coupling.webp" alt=""><figcaption><p>This file is made available under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons">Creative Commons</a> <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0 1.0 Universal Public Domain Dedication</a>. Source: <a href="https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg">https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg</a></p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/high-cohesion_low-coupling.webp" alt=""><figcaption><p>This file is made available under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons">Creative Commons</a> <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0 1.0 Universal Public Domain Dedication</a>. Source: <a href="https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg">https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg</a></p></figcaption></figure>

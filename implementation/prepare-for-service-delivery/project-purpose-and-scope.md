@@ -1,2 +1,0 @@
-# Project Purpose and Scope\*
-

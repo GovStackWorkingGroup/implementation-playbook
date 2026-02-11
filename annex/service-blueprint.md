@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Service blueprint
 
 Service Blueprints are a continuum of “to-be” journeys which are a series of diagrams that visualize the relationship between different components such as user action/goals, Building Blocks, and Data Input/output.

@@ -9,7 +9,7 @@ For a starting point, the developer guidelines should include:
 * Any rules derived from governance and compliance
 * adherence to [#modular-design](b.2-create-container-diagram.md#modular-design "mention")and [#design-principles](b.3-create-component-diagram.md#design-principles "mention")
 * Recommended patterns, like
-  * [best-practices-and-patterns.md](../best-practices-and-patterns.md "mention")
+  * [architecture-best-practices-and-patterns.md](architecture-best-practices-and-patterns.md "mention")
   * [cfr-architecture](https://govstack.gitbook.io/cfr-architecture/5-cross-cutting-requirements)
 * Validation rules
   * What kind of validation should be performed on the inputs.
@@ -33,4 +33,4 @@ For a starting point, the developer guidelines should include:
     * Layered approaches are helpful to separate the business code from technical code
     * Example:
 
-<figure><img src="../../../.gitbook/assets/temp (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/temp (3).png" alt=""><figcaption></figcaption></figure>

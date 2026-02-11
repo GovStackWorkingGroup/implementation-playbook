@@ -1,6 +1,6 @@
 # 1 - Analyze Requirements
 
-The first step in planning the architecture is to look at the requirements and other inputs (see [#inputs](../architecture-design-overview.md#inputs "mention") ), which are mostly the results from the previous phase. The goal of this step is to establish full understanding of the service being developed. That will be the basis for all architectural decisions.
+The first step in planning the architecture is to look at the requirements and other inputs (see [#inputs](architecture-design-overview.md#inputs "mention") ), which are mostly the results from the previous phase. The goal of this step is to establish full understanding of the service being developed. That will be the basis for all architectural decisions.
 
 It will be important to have workshops with the product owner and analysts responsible for the service in the previous phases
 

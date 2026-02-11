@@ -1,4 +1,4 @@
-# Launch the service
+# Launching the Service
 
 The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service.&#x20;
 
@@ -22,10 +22,10 @@ The service is ready to be launched in a production environment once the functio
 {% tab title="Responsabilites" %}
 Who does what:
 
-* [Service Owner ](../prepare-for-service-delivery/digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
-* [Service designers](../prepare-for-service-delivery/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
+* [Service Owner ](../../strategy-and-management/strengthen-transformation-capabilities/digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
+* [Service designers](../../strategy-and-management/strengthen-transformation-capabilities/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
 * [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - develops communications strategy for the launch of the service
-* [IT operation](../prepare-for-service-delivery/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
+* [IT operation](../../strategy-and-management/strengthen-transformation-capabilities/digital-team-composition/user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
 {% endtab %}
 
 {% tab title="Deliverables" %}

@@ -26,7 +26,7 @@ The data model should be described in an ER diagram. While documenting the data 
 
 * Create separate data models for each bounded context.&#x20;
   * In case there are similar entities used in multiple contexts, DDD recommends to create a separate entity in each context's data model\
-    ![Source: https://martinfowler.com/bliki/BoundedContext.html](../../../.gitbook/assets/sketch.png)
+    ![Source: https://martinfowler.com/bliki/BoundedContext.html](../../.gitbook/assets/sketch.png)
   * There are multiple patterns how to handle such shared entities. It is impossible to give a hard recommendation here, because it depends too much on the specifics
     * Documentation on Context Mapping Patterns
       * [Context Mapping in Domain-Driven Design: Visualizing and Managing Bounded Contexts](https://softwarepatternslexicon.com/java/domain-driven-design-ddd-patterns/strategic-patterns/context-mapping/)
@@ -40,7 +40,7 @@ The data model should be described in an ER diagram. While documenting the data 
 * Try to identify data structures that require custom datatypes and or value objects
 * Watch out for entities that require statuses or state models. These are often central to business flows and the design of endpoints.
 * Watch out for use cases justifying denormalized (flattened) entities, like in a staging area or for performance reasons
-* See [#data-model](../best-practices-and-patterns.md#data-model "mention") for more detailed tips
+* See [#data-model](architecture-best-practices-and-patterns.md#data-model "mention") for more detailed tips
 
 This will:
 
@@ -51,7 +51,7 @@ This will:
 
 Defining the api in a "API First" manner will help in later steps such as [b.2-create-container-diagram.md](b.2-create-container-diagram.md "mention") and [b.3-create-component-diagram.md](b.3-create-component-diagram.md "mention"), already providing a significant part of the functionality & structure. While documenting the api, you should
 
-* first review your [#architecture-governance](../architecture-design-overview.md#architecture-governance "mention") on api & endpoint design
+* first review your [#architecture-governance](architecture-design-overview.md#architecture-governance "mention") on api & endpoint design
 * Use OpenAPI as specification format
 * prefer REST + JSON if possible
 * plan for a versioned API right from the start
@@ -60,7 +60,7 @@ Defining the api in a "API First" manner will help in later steps such as [b.2-c
   * Dont publish your full api to everyone, select who can access what
   * Your internal api will probably consist mostly of CRUD operations
 * Have in mind that apis for different bounded contexts will probably end up in different containers / components. So keep track of which context an endpoint is serving.
-* see [#api-design](../best-practices-and-patterns.md#api-design "mention")  for more detailed tips
+* see [#api-design](architecture-best-practices-and-patterns.md#api-design "mention")  for more detailed tips
 
 ### Document the External API
 
@@ -72,4 +72,4 @@ Often it is also useful to create sequence diagrams for the external communicati
 
 Example Sequence Diagram:
 
-<figure><img src="../../../.gitbook/assets/temp (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/temp (2).png" alt=""><figcaption></figcaption></figure>
