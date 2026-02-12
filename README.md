@@ -1,4 +1,4 @@
-# How to use the Playbook
+# Understand How to Use the Playbook\*
 
 <figure><img src=".gitbook/assets/18. Govstack Playbook a tool for all (2).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -6,7 +6,7 @@
 
 The GovStack Implementation Playbook provides guidance and examples of how governments can incorporate a Building Block (BB) and principles to design and deliver government digital services at national, state, municipal, and local levels. Governments can get started from a variety of different points depending on their objectives, context, and needs. The Playbook is especially relevant in these implementation steps:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 1. Strategy & Management: Set objectives and enable the organization to conduct digital transformation projects
 2. Planning: Define the As-Is state and narrow down a scope of a specific digital transformation project
