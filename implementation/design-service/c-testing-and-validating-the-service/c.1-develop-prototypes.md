@@ -47,7 +47,7 @@ You do not need to prototype the whole service at once. It could be:
 
 Support internal alignment and early validation of ideas, logic, and assumptions.
 
-\[Image showing a flow using the wireframing kit with comments]
+<figure><img src="../../../.gitbook/assets/Prototype - Low-fi.png" alt=""><figcaption></figcaption></figure>
 
 **This looks like**
 
@@ -66,7 +66,7 @@ Support internal alignment and early validation of ideas, logic, and assumptions
 
 Test structure, content, and end-to-end flow in more detail.
 
-\[Image showing a flow using the wireframing kit]
+<figure><img src="../../../.gitbook/assets/Prototype (1).png" alt=""><figcaption></figcaption></figure>
 
 **What it looks like**
 
@@ -89,8 +89,6 @@ Test structure, content, and end-to-end flow in more detail.
 #### 4. Define functionality with high-fidelity prototyping <a href="#id-4.-define-functionality-with-high-fidelity-prototyping" id="id-4.-define-functionality-with-high-fidelity-prototyping"></a>
 
 Reduce delivery risk by validating detailed interactions and readiness.
-
-\[Show image of prototype with content]
 
 **What it looks like**
 
@@ -157,9 +155,6 @@ Focuses on:
 1. **Check for an existing style guide**\
    Identify whether a design system or style guide already exists for your organisation, programme, or platform.
 2.  **Run a UI safari (if needed)**\
-    \
-    \[Image showing multiple UI elements grouped]\
-    \
     If no consistent style guide exists, review existing services or products to identify common:
 
     * buttons and form elements
@@ -168,15 +163,11 @@ Focuses on:
 
     Capture examples that appear frequently or work well.
 3. **Agree a baseline set of styles**\
-   \
-   \[Design system in Figma]\
-   \
    Consolidate commonly used components and styles into a simple reference that teams can reuse.
 4. **Apply styles consistently**\
    Use the agreed styles and patterns when creating wireframes, prototypes, and early designs.
 5. **Document new styles**\
-   Document new styles in a way thats easy for others to use, for example, on Github.\
-   \[Link to an example from other governments (japan, indonesia etc?)]
+   Document new styles in a way thats easy for others to use, for example, using Github, Figma or StoryBook.<br>
 
 </details>
 

@@ -36,5 +36,3 @@ Encourage:
 * positive framing
 * user-centred language
 * plain, non-technical wording
-
-\[Image showing a piece from each team of paper with the “yes and…” Answers]

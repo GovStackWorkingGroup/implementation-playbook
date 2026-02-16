@@ -6,7 +6,7 @@ Test prototypes with real users to understand whether concepts, content, and flo
 
 <details>
 
-<summary>How to do it</summary>
+<summary><strong>How to do it</strong></summary>
 
 Testing with real users usually follows a simple loop:
 
@@ -18,9 +18,8 @@ Testing with real users usually follows a simple loop:
 
 #### 1. Prepare to test <a href="#id-1.-prepare-to-test" id="id-1.-prepare-to-test"></a>
 
-\
-\[Image of research questions grouped]\
-\
+<figure><img src="../../../.gitbook/assets/Research question.png" alt=""><figcaption></figcaption></figure>
+
 Before testing, teams should agree:
 
 * what they are testing (for example a journey, task, or decision point)
@@ -28,7 +27,7 @@ Before testing, teams should agree:
 * which user groups to involve
 * how many sessions are realistic
 
-Document decisions using the \[discussion guide template]
+Document decisions using a discussion guide print out
 
 #### 2. Recruit participants <a href="#id-2.-recruit-participants" id="id-2.-recruit-participants"></a>
 
@@ -53,11 +52,7 @@ When contacting potential participants, make sure they understand:
 
 #### 3. Run testing sessions <a href="#id-3.-run-testing-sessions" id="id-3.-run-testing-sessions"></a>
 
-\[Image of an interview or activity]\
-\
 During testing, focus on observing behaviour and listening, rather than explaining or defending the design.
-
-\[Link: Tips for running user testing sessions]
 
 1. **Test comprehension**\
    Ask users to:
@@ -71,7 +66,7 @@ During testing, focus on observing behaviour and listening, rather than explaini
    * misinterpret content
    * expect something different
 
-Use a short \[discussion guide] to stay focused.
+Use a short discussion guide printout to stay focused.
 
 #### 4. Capture and review findings <a href="#id-4.-capture-and-review-findings" id="id-4.-capture-and-review-findings"></a>
 
@@ -86,7 +81,7 @@ Capture findings in simple language that others can understand.
 
 Refer back to the guidance on [Analysing research findings](https://govstack-global.atlassian.net/wiki/spaces/GH/pages/1669464107)
 
-\[Link: Example findings summary template]
+<figure><img src="../../../.gitbook/assets/Analyse.png" alt=""><figcaption></figcaption></figure>
 
 #### 5. Decide what to change or test next <a href="#id-5.-decide-what-to-change-or-test-next" id="id-5.-decide-what-to-change-or-test-next"></a>
 

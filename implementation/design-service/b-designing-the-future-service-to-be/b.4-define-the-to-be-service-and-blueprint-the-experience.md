@@ -30,8 +30,7 @@ Focus on:
 
 At this stage, avoid internal process detail. The aim is to describe the experience from the user’s point of view.
 
-\[Example image: a simple to-be user journey with phases and key steps]\
-\[Optional video: short explainer of user journey mapping]
+<figure><img src="../../../.gitbook/assets/To-be journey map.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Use service patterns to shape the journey <a href="#id-2.-use-service-patterns-to-shape-the-journey" id="id-2.-use-service-patterns-to-shape-the-journey"></a>
 
@@ -47,8 +46,7 @@ Start by identifying relevant **action patterns**, like:
 
 After this, identify relevant **functional patterns** for each action (for example identity, messaging, payments). Each functional pattern is made up of potential steps that make up the journey.
 
-\[Example image: action pattern cards arranged along a journey]\
-\[Example photo: workshop using printed service pattern cards]
+<figure><img src="../../../.gitbook/assets/Design patterns.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Expand into a service blueprint <a href="#id-3.-expand-into-a-service-blueprint" id="id-3.-expand-into-a-service-blueprint"></a>
 
@@ -63,8 +61,7 @@ Depending on context, this may include:
 
 Not every service needs a full blueprint. Add detail only where it helps uncover risk, complexity, or decision points.
 
-\[Example image: partial service blueprint showing frontstage and backstage layers]\
-\[Example diagram: layered journey → blueprint transition]
+<figure><img src="../../../.gitbook/assets/Service blueprint (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Sense-check and refine <a href="#id-4.-sense-check-and-refine" id="id-4.-sense-check-and-refine"></a>
 
@@ -76,8 +73,6 @@ Use the journey or blueprint to test assumptions:
 * what would need to be tested before delivery?
 
 Capture open questions, risks, and dependencies directly on the journey or blueprint.
-
-\[Example image: annotated journey with assumptions and risks highlighted]
 
 </details>
 

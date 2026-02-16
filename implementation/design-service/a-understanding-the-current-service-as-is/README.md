@@ -2,18 +2,18 @@
 
 ## Before you start the As-Is phase
 
-### **Before you start, check you have ...:**
+Before you start, check you have:
 
-* [ ] **... read the** [**GovStack design principles**](https://playbook.govstack.global/designing/service-design/govstack-design-principles)
-* [ ] **... an understanding of the service’s purpose and scope**\
+* [ ] **read the** [**GovStack design principles**](https://playbook.govstack.global/designing/service-design/govstack-design-principles)
+* [ ] **an understanding of the service’s purpose and scope**\
   You can describe which service (or part of a service) you are focusing on, and why now. You have the finalised service prioritization to hand
-* [ ] **... shared expectations about the ‘As-is’ phase**\
+* [ ] **shared expectations about the ‘As-is’ phase**\
   Participants understand that the ‘As-is’ phase is about learning and understanding
-* [ ] **... permission to explore end-to-end**\
+* [ ] **permission to explore end-to-end**\
   The team are able to discuss data, responsibilities, and dependencies across teams and organisations
-* [ ] **... access to the right people**\
+* [ ] **access to the right people**\
   You are able to involve people who understand how the service really works, including offline steps and cross-organisation hand-offs
-* [ ] **... the right team**\
+* [ ] **the right team**\
   You have people to take responsibility for the skills outlined in the table below
 
 ***
@@ -70,3 +70,4 @@ This decision should be based on confidence and learning, not on pressure to pro
 | <p><strong>Understand users and challenges</strong></p><p><em>30 minutes</em></p>                                                                           | Using the journey maps to identify actors involved create simple personas to keep in mind through the rest of the design activities                                                                                                                                                                  | Frontline staff, back-office staff, delivery team, policy representatives, user advocates or proxies |
 | <p><strong>Analyse findings</strong></p><p><br>(The facilitator can do this async during a break or before the next session)<br><br><em>30 minutes</em></p> | Cluster insights from mapping and user work. Identify themes and patterns. Draft problem statements or opportunity areas. Record risks, assumptions, and gaps in knowledge.                                                                                                                          | Delivery team, facilitator, service owner                                                            |
 | <p><strong>Prioritise next steps</strong></p><p><br>(This can be moved to the start of the next day)<br><br><em>60 minutes</em></p>                         | Prioritise quick wins, near-term improvements, and longer-term changes. Agree what to explore next and what not to pursue yet.                                                                                                                                                                       | Service owner, delivery lead, policy or programme representatives, technical lead if available       |
+

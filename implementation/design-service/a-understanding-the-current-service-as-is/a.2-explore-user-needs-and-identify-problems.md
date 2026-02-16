@@ -23,9 +23,8 @@ List the different people or groups who use, deliver, or are affected by the ser
 {% step %}
 ### Group users
 
-Group your identified users, discuss how these users differ, including their goals, constraints, and contexts. You can also consider scenarios that impact how they access a service, for example, low or no-connectivity.
-
-\[Image showing users grouped]
+Group your identified users, discuss how these users differ, including their goals, constraints, and contexts. You can also consider scenarios that impact how they access a service, for example, low or no-connectivity.\
+![](<../../../.gitbook/assets/Users grouped.png>)
 {% endstep %}
 
 {% step %}
@@ -58,8 +57,7 @@ Example user personas from a GovStack project
 {% step %}
 ### Prepare learning questions
 
-Agree a small set of questions about user needs, barriers, or behaviours that the team needs answers to. Focus on what users are trying to achieve, where they struggle, and what happens when the service does not work as expected.\
-\[Image showing questions on post-its grouped]
+Agree a small set of questions about user needs, barriers, or behaviours that the team needs answers to. Focus on what users are trying to achieve, where they struggle, and what happens when the service does not work as expected.<br>
 {% endstep %}
 
 {% step %}
@@ -67,7 +65,7 @@ Agree a small set of questions about user needs, barriers, or behaviours that th
 
 For each question, agree the simplest way to learn something useful.\
 This could include short interviews with users, conversations with frontline staff, observation, or reviewing existing data like complaints or usage metrics.\
-\[Image showing questions on post-its grouped by type]
+![](<../../../.gitbook/assets/Research question.png>)
 {% endstep %}
 
 {% step %}
@@ -75,15 +73,14 @@ This could include short interviews with users, conversations with frontline sta
 
 If you plan to interview users, agree which user groups to involve, how many conversations are realistic, who will carry out the research, and when it will take place.
 
-Prepare a short discussion guide to help keep the conversation focused. Use prompts to support listening and exploration, but avoid over-structuring the interview or relying on a long list of direct questions.\
-\[Image showing 2 people interviewing someone using a discussion guide]
+Prepare a short discussion guide to help keep the conversation focused. Use prompts to support listening and exploration, but avoid over-structuring the interview or relying on a long list of direct questions.
 {% endstep %}
 
 {% step %}
 ### Analyse findings
 
 Review what you have learned and identify common patterns, challenges, and differences between user groups. [Read more about analysing findings.](https://govstack-global.atlassian.net/wiki/spaces/GH/pages/1669464107)\
-\[Image showing insights grouped into themes]
+![](../../../.gitbook/assets/Analyse.png)
 {% endstep %}
 
 {% step %}

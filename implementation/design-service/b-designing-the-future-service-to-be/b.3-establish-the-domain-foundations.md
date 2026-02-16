@@ -14,6 +14,8 @@ The focus is on clarifying roles, responsibilities, concepts, and routines to cr
 
 Teams work through four simple steps: **Decompose, Strategise, Collect, and Organise**. All steps can be done on paper or a whiteboard.
 
+<figure><img src="../../../.gitbook/assets/Domain foundations.png" alt=""><figcaption></figcaption></figure>
+
 #### 1. Decompose the service <a href="#id-1.-decompose-the-service" id="id-1.-decompose-the-service"></a>
 
 Break the service down into distinct areas of responsibility or concern.
@@ -34,8 +36,6 @@ At a minimum, most services include:
 * Who is involved in delivering or using this service?
 * Where does responsibility clearly change hands?
 * Which parts of the service operate under different rules or constraints?
-
-\[Example image: service broken into user and government domains]
 
 #### 2. Strategise the domains <a href="#id-2.-strategise-the-domains" id="id-2.-strategise-the-domains"></a>
 
@@ -79,8 +79,6 @@ This step often surfaces:
 * gaps in understanding
 * assumptions that need testing
 
-\[Example image: sticky notes describing roles and routines within a domain]
-
 #### 4. Organise and align <a href="#id-4.-organise-and-align" id="id-4.-organise-and-align"></a>
 
 Bring the information together into a shared view of the domain foundations.
@@ -98,8 +96,6 @@ Focus on alignment rather than precision. The output should be good enough to su
 * Do we agree on what these terms mean?
 * Are responsibilities clear?
 * What feels uncertain or contested?
-
-\[Example image: domain map with glossary notes]
 
 </details>
 
