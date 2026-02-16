@@ -15,7 +15,7 @@
 * [Design a Government Architecture\*](strategy-and-management/design-a-government-architecture.md)
 * [Build a Digital Public Infrastructure (DPI)](strategy-and-management/build-a-digital-public-infrastructure-dpi/README.md)
   * [Cross-Border DPI in the East African Community (EAC)](strategy-and-management/build-a-digital-public-infrastructure-dpi/cross-border-dpi-in-the-east-african-community-eac.md)
-* [Set Foundations for Interoperability\*](strategy-and-management/set-foundations-for-interoperability.md)
+* [Establish Interoperability](strategy-and-management/establish-interoperability.md)
 * [Strengthen Transformation Capabilities\*](strategy-and-management/strengthen-transformation-capabilities/README.md)
   * [Change Management](strategy-and-management/strengthen-transformation-capabilities/change-management/README.md)
     * [Approach](strategy-and-management/strengthen-transformation-capabilities/change-management/approach.md)

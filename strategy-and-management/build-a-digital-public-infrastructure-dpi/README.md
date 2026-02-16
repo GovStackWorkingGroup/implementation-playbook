@@ -50,7 +50,7 @@ A complete DPI ecosystem necessitates layered policy instruments, which can be v
 
 These layers together build the normative foundation for DPI.
 
-<figure><img src="../../.gitbook/assets/New Legal Framework.png" alt="" width="354"><figcaption><p>Legal Framework Pyramid (GovStack 2025)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated Pyramide.png" alt=""><figcaption><p>Legal Framework Pyramid (GovStack 2025)</p></figcaption></figure>
 
 </details>
 
@@ -67,7 +67,7 @@ These layers together build the normative foundation for DPI.
 
 These governance pillars are showcasing how organizational and policy layers must align for DPI in order to scale effectively and operate in a secure and trusted manner.
 
-<figure><img src="../../.gitbook/assets/New Digital Governance Model.png" alt=""><figcaption><p>Digital Governance Model (Source: Ivar Tallo &#x26; Aare Lapõnin)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated Governance House.png" alt=""><figcaption><p>Digital Governance Model (Source: Ivar Tallo &#x26; Aare Lapõnin)</p></figcaption></figure>
 
 </details>
 
@@ -84,7 +84,7 @@ Finally, **DPI must include safeguards** as well as **inclusion principles**, il
 
 Together, these principles ensure that DPI supports a safe, inclusive, and rights-preserving digital society.
 
-<figure><img src="../../.gitbook/assets/New Foundational and Operational DPI Safeguards Principle.png" alt=""><figcaption><p>Foundational and Operational DPI Safeguards Principle (GovStack 2025)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated Foundational Principles.png" alt=""><figcaption><p>Foundational and Operational DPI Safeguards Principle (GovStack 2025)</p></figcaption></figure>
 
 </details>
 
@@ -117,7 +117,7 @@ Following a **narrow definition** of DP&#x49;**,** GovStack offers a technical b
 
 Following a **wide definition** of DPI, GovStack’s full scope of a government architecture can be considered DPI. GovStack places citizens and businesses (the users) at the centre of digital transformation of government services. Therefore, the primary collective objective of all GovStack Building Blocks and entirety of a government’s system is to provide citizens with services. A wide definition of DPI includes these services and with that the whole of GovStack’s technical specifications. Why government-provided services are essential to DPI is explained below under [“Why Services Matter for DPI”](#user-content-fn-2)[^2].
 
-<figure><img src="../../.gitbook/assets/New Relation GovStack to DPI definitions.png" alt="" width="563"><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated GovStack DPI .png" alt=""><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
 
 {% hint style="info" %}
 ### What does GovStack _not_ offer?
@@ -171,7 +171,7 @@ These services can be broken down into three broader categories:
 
 The **first category** depicts **identity-enabled services** (See figure below), just as civil registration, driver’s licensing, voter enrollment, access to health or education portals, as well as enrollment in social protection schemes. These services tremendously rely on secure identification and authentication in order to verify eligibility, enable accuracy, and enhance access to sensitive information.
 
-<figure><img src="../../.gitbook/assets/New Identity &#x26; E-Signatures.png" alt=""><figcaption><p>(Clark et al., 2025)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated Identity &#x26; Signatures.png" alt=""><figcaption><p>(Clark et al., 2025)</p></figcaption></figure>
 
 </details>
 
@@ -181,7 +181,7 @@ The **first category** depicts **identity-enabled services** (See figure below),
 
 The **second category** contains **payment-enabled services** (See figure below), i.e. services like welfare transfer, tax or free payments, subsidy distribution, insurance contributions, and government transactions with suppliers or citizens. Payment rails enable processes to be faster, more transparent, and less prone to leakage or fraud.
 
-<figure><img src="../../.gitbook/assets/New Digital Payments.png" alt=""><figcaption><p>(Clark et al., 2025)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated Digital Payments.png" alt=""><figcaption><p>(Clark et al., 2025)</p></figcaption></figure>
 
 </details>
 
@@ -191,7 +191,7 @@ The **second category** contains **payment-enabled services** (See figure below)
 
 The **third category** encompasses relevant **data-driven services** (See figure below), e.g., electronic health records, land and property registration, business licensing systems, and agricultural advisory platforms. These specific services heavily rely on secure data exchange and consistent registries in order to supply precise and timely information.
 
-<figure><img src="../../.gitbook/assets/New Data Sharing.png" alt=""><figcaption><p>(Clark et al., 2025)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Updated Data Sharing.png" alt=""><figcaption><p>(Clark et al., 2025)</p></figcaption></figure>
 
 </details>
 
