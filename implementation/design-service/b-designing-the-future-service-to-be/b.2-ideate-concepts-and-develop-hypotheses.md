@@ -12,8 +12,7 @@ This activity helps teams move from **problems to testable ideas** by:
 
 <summary><strong>How to do it</strong></summary>
 
-**Step 1: Inspiration from real examples (10–15 minutes)**
-
+1\. **Share inspiration from real examples (10–15 minutes)**\
 Start by presenting short demos or examples of services or products that have addressed similar problems. As facilitator, you may need to prepare these between the problem definition activity and this activity.
 
 Examples we often share include:
@@ -30,11 +29,11 @@ Keep demos:
 * practical
 * clearly linked to the problems you’re working on
 
-**Step 2: Review prioritised problems (5 minutes)**
+2\. **Review prioritised problems (5 minutes)**
 
 In groups, briefly review the prioritised problem statements.
 
-**Step 3: Generate ideas as hypotheses (20–25 minutes)**
+3\. **Generate ideas as hypotheses (20–25 minutes)**
 
 <figure><img src="../../../.gitbook/assets/Generate ideas (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +60,7 @@ Examples:
 
 <summary><strong>Outcome</strong></summary>
 
-Multiple ideas and solutions for each prioritised problem statement
+* [ ] Multiple ideas and solutions for each prioritised problem statement
 
 </details>
 
@@ -91,30 +90,26 @@ It is _not_:
 * a replacement for journey mapping
 * required for all services
 
+<figure><img src="../../../.gitbook/assets/Event storming.png" alt="Event storming diagram"><figcaption></figcaption></figure>
+
 <details>
 
 <summary><strong>How to do it</strong></summary>
 
-**Step 1: Define the scope (5 minutes)**
+#### 1. **Define the scope (5 minutes)**
 
-Agree what part of the future service you are exploring.
+Agree what part of the future service you are exploring to keep the scope small enough to explore in one session.
 
 For example:
 
 * “From submitting an application to receiving a decision”
 * “From booking an appointment to completing verification”
 
-Keep the scope small enough to explore in one session.
+#### 2. **Identify future events (15–20 minutes)**
 
-**Step 2: Identify future events (15–20 minutes)**
+Ask the group: _“What happens in the future service?”_
 
-Ask the group:
-
-> _“What happens in the future service?”_
-
-Capture events using **past-tense phrases** on post-its.
-
-Examples:
+Capture events on post-its and arrange them in time order, for example:
 
 * Application submitted
 * Payment received
@@ -122,14 +117,9 @@ Examples:
 * Application approved
 * User notified
 
-Arrange events roughly in time order.
+Focus on _what happened_, not how it’s implemented. Encourage multiple perspectives (user, organisation, system).
 
-**Facilitator tips**
-
-* Focus on _what happened_, not how it’s implemented
-* Encourage multiple perspectives (user, organisation, system)
-
-**Step 3: Add decisions and actors (10–15 minutes)**
+#### 3. **Add decisions and actors (10–15 minutes)**
 
 For key events, ask:
 
@@ -147,11 +137,9 @@ This helps reveal:
 * points of complexity
 * hand-offs between organisations
 
-![](<../../../.gitbook/assets/Event storming.png>)
+#### 4. **Sense-check the future flow (5–10 minutes)**
 
-**Step 4: Sense-check the future flow (5–10 minutes)**
-
-Review the timeline together.
+Review the timeline together and note open questions or assumptions for follow-up.
 
 Ask:
 
@@ -159,15 +147,13 @@ Ask:
 * Where could this break down?
 * Where is behaviour unclear or risky?
 
-Note open questions or assumptions for follow-up.
-
 </details>
 
 <details>
 
 <summary><strong>Outputs</strong></summary>
 
-A diagram of events
+* [ ] A diagram of events
 
 </details>
 
@@ -181,24 +167,31 @@ Turn design ideas into next steps.
 
 <summary><strong>How to do it</strong></summary>
 
+#### 1. **Revisit the future vision**
 
+Briefly restate the future vision and key ideas or changes identified during to-be work.
 
-1. **Revisit the future vision**\
-   Briefly restate the future vision and key ideas or changes identified during to-be work.
-2. **Identify actions**\
-   Ask the group: _“What needs to happen to move us closer to this future vision?”_\
-   Capture actions in three categories:
-   * **Quick wins** (low effort, high impact changes)
-   * **Next steps** (changes that can start soon but need coordination)
-   * **Longer-term actions** (system, policy, procurement, or cross-government work)
-3. **Assign ownership and timing**\
-   For each action, agree:
-   * who is responsible (role or team)
-   * when it could realistically start\
-     If ownership or timing is unclear, note it as an open question.
-4. **Capture and close**\
-   Agree how actions will be documented, shared, and followed up.\
-   Close by confirming what will happen next and who will take the outcomes forward.
+#### **2. Identify actions**
+
+Ask the group: _“What needs to happen to move us closer to this future vision?”_\
+Capture actions in three categories:
+
+* **Quick wins** (low effort, high impact changes)
+* **Next steps** (changes that can start soon but need coordination)
+* **Longer-term actions** (system, policy, procurement, or cross-government work)
+
+#### **3. Assign ownership and timing**
+
+For each action, agree:
+
+* who is responsible (role or team)
+* when it could realistically start\
+  If ownership or timing is unclear, note it as an open question.
+
+#### **4. Capture and close**
+
+Agree how actions will be documented, shared, and followed up.\
+Close by confirming what will happen next and who will take the outcomes forward.
 
 </details>
 
@@ -217,6 +210,6 @@ Turn design ideas into next steps.
 
 <summary><strong>Output</strong></summary>
 
-Ideas grouped by priority
+* [ ] Ideas grouped by priority
 
 </details>

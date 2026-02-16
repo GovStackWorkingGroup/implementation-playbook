@@ -28,5 +28,20 @@ If these conditions are not met, teams may need to return briefly to the To-be s
 
 ## Run a test and learn workshop <a href="#heading-title-text" id="heading-title-text"></a>
 
-Teams often work in short cycles that involve building or refining a prototype, testing it with users, reviewing what was learned, and deciding what to change next.
+Teams often work in short cycles that involve building or refining a prototype, testing it with users, reviewing what was learned, and deciding what to change next. Below is an example of a rapid test and learn workshop however in practice you may decide to spend more time prototyping and interviewing users.
 
+### Before the session (Preparation phase)
+
+Recruitment and preparation should happen 1–2 weeks before the workshop days.
+
+| Session         | Activities                                                                                                                                                                                                                                                   | Who to involve                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| **Preparation** | <p>• Agree which part of the service will be tested (specific journey slice)<br>• Define learning goals and key assumptions<br>• Prepare low- or mid-fidelity prototype<br>• Recruit 3–5 representative users<br>• Confirm consent, logistics, and roles</p> | <p>GovStack facilitators<br>Service owner<br>Designer / content lead<br>Research support</p> |
+
+### Day 1 – Focus and prepare
+
+<table><thead><tr><th width="210">Session</th><th>Activities</th><th>Who to involve</th></tr></thead><tbody><tr><td><p><strong>Align on learning goals</strong></p><p><em>60 minutes</em></p></td><td>• Revisit assumptions and risks<br>• Agree clear research questions<br>• Confirm what success looks like</td><td>Whole delivery team</td></tr><tr><td><p><strong>Prepare prototype</strong></p><p><em>All day</em></p></td><td>• Refine prototype (avoid testing the whole service)<br>• Ensure realistic content and flow<br>• Prepare any supporting materials</td><td>Designer<br>Content lead<br>Service owner</td></tr><tr><td><p><strong>Prepare for research</strong></p><p><em>60 minutes</em></p></td><td>• Draft discussion guide<br>• Assign roles (facilitator, observer, note-taker)<br>• Run internal dry run</td><td>Research lead<br>Observers</td></tr></tbody></table>
+
+### Day 2 – Test with users
+
+<table><thead><tr><th width="210">Session</th><th>Activities</th><th>Who to involve</th></tr></thead><tbody><tr><td><p><strong>User testing sessions</strong></p><p><em>All day</em></p></td><td>• Run 3–5 moderated sessions (45–60 minutes each)<br>• Encourage think-aloud behaviour<br>• Capture structured notes</td><td>Researcher<br>Observer<br>Note-taker</td></tr><tr><td><p><strong>Group synthesis</strong></p><p><em>60 minutes</em></p></td><td>• Cluster findings into themes<br>• Identify repeated issues and breakdowns<br>• Compare findings to original assumptions</td><td>Whole delivery team</td></tr><tr><td><p><strong>Decide next steps</strong></p><p><em>60 minutes</em></p></td><td>• Agree what to change in the prototype<br>• Identify what needs further testing<br>• Decide whether confidence is high enough to move toward MVP</td><td>Product lead<br>Service owner<br>Designer</td></tr></tbody></table>

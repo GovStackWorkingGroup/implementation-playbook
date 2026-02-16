@@ -2,37 +2,33 @@
 
 ## Shared vision warm-up
 
-A 15 minute quick warm-up activity to step out of problem analysis and align on a positively-framed vision before moving to solutions.
+A 15 minute quick warm-up activity to help step out of problem analysis and align on a positively-framed vision before moving to solutions.
 
-### How to do it
+<details>
+
+<summary><strong>How to do it</strong></summary>
 
 Run this as a short exercise in small groups (5-10).
 
-{% stepper %}
-{% step %}
-### Set the frame
+#### **1. Set the frame**
 
-Ask the group:
+Ask the group:\
+“In a best-case scenario, what should this services be like?”
 
-_“In a best-case scenario, what should this services be like?”_
-{% endstep %}
-
-{% step %}
-### **Use “Yes, and…”**
+#### **2. Use “Yes, and…”**
 
 One person responds in a single sentence.\
-Each person continues by starting with _“Yes, and…”_.
-{% endstep %}
+Each person continues by starting with “Yes, and…”.
 
-{% step %}
-### **Capture themes**
+#### **3. Capture themes**
 
-As the group presents back, capture key phrases and recurring ideas.
-{% endstep %}
-{% endstepper %}
+As the group presents back, capture key phrases and recurring ideas
 
 Encourage:
 
 * positive framing
 * user-centred language
 * plain, non-technical wording
+
+</details>
+

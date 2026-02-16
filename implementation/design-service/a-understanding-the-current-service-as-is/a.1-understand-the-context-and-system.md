@@ -95,20 +95,27 @@ It is not technical architecture, data modelling, or detailed process mapping.
 
 This activity works best when run with a mix of service operators and people who are experts within the respective domains, e.g. in “civil registration domain” when designing the service to obtain a birth certificate online.
 
-1.  **Identify key terms**\
-    Ask participants to list important things the service deals with, using short, plain-language nouns. These terms often become the foundation for data models, APIs, and specifications.<br>
+#### **1. Identify key terms**
 
-    <figure><img src="../../../.gitbook/assets/Domain model.png" alt=""><figcaption></figcaption></figure>
-2. **Agree meanings**\
-   For each term, capture a short definition and clarify who creates, uses, or approves it.
-3.  **Explore relationships**\
-    Arrange terms to show dependencies, reuse, or handoffs between teams or institutions.<br>
+Ask participants to list important things the service deals with, using short, plain-language nouns. These terms often become the foundation for data models, APIs, and specifications.<br>
 
-    <figure><img src="../../../.gitbook/assets/Domain modle.png" alt=""><figcaption></figcaption></figure>
-4.  **Capture the glossary**\
-    Consolidate agreed terms, definitions, and any differences in meaning into a simple, shared format.<br>
+<figure><img src="../../../.gitbook/assets/Domain model.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/Domain modle-1.png" alt=""><figcaption></figcaption></figure>
+#### **2. Agree meanings**
+
+For each term, capture a short definition and clarify who creates, uses, or approves it.
+
+#### **3. Explore relationships**
+
+Arrange terms to show dependencies, reuse, or handoffs between teams or institutions.<br>
+
+<figure><img src="../../../.gitbook/assets/Domain modle.png" alt=""><figcaption></figcaption></figure>
+
+#### **4. Capture the glossary**
+
+Consolidate agreed terms, definitions, and any differences in meaning into a simple, shared format.<br>
+
+<figure><img src="../../../.gitbook/assets/Domain modle-1.png" alt=""><figcaption></figcaption></figure>
 
 Keep the output lightweight and easy to update.
 
@@ -116,53 +123,9 @@ Keep the output lightweight and easy to update.
 
 <details>
 
-<summary><strong>Example case studies</strong></summary>
-
-1. **Define the scope**\
-   Within the team, agree which service, user group, or scenario you are mapping.\
-   Agree what the start/entry point is and when the journey is completed or the user’s problem is resolved.\
-   &#x20;![](<../../../.gitbook/assets/image (4).png>)
-2. **Map the steps in the journey**\
-   Capture the main steps the user goes through, in plain language. Start with your agreed first and last steps then fill in the gaps.
-3. **Add supporting activities for other rows**\
-   Note what happens behind the scenes at each step (people, systems, data, decisions). Capture any known relevant legislation either as a row in the map or as another document.
-4. **Identify issues and risks**\
-   Highlight pain points, delays, duplication, manual work, or failure points.\
-   ![](<../../../.gitbook/assets/image (5).png>)
-5. **Review and agree**\
-   Sense-check the map with participants and confirm it reflects the current service. You may start to highlight priority areas to improve through this activity.\
-   ![](<../../../.gitbook/assets/image (6).png>)
-6. **Document the journey map**\
-   Make sure the map is documented in a way that can be easily shared and understood. Use our [Journey Mapping Template](https://www.figma.com/file/w9oqWWuuxWtab5EPJIVhhA/Journey-Template?type=whiteboard\&node-id=502-3589\&t=2jbkrrXKAmGpPeg6-0) (opens in Figma) to create As-Is and To-Be journey.
-
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>As-Is journey map from a GovStack project</p></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Tools and templates</strong></summary>
-
-You can run this activity using:
-
-* sticky notes and markers
-* a whiteboard or wall space
-* large paper or flip charts
-
-To capture the output, GovStack recommends:
-
-* a simple glossary table (term, definition, owner)
-* photos of the working wall
-* a shared document or wiki page
-
-</details>
-
-<details>
-
 <summary><strong>Outputs</strong></summary>
 
-* [ ] A list or visual of key domain concepts (e.g. application, approval, status)
-* [ ] A rough domain diagram
-* [ ] A simple service glossary or dictionary
+* [ ] A domain diagram
+* [ ] A service glossary
 
 </details>

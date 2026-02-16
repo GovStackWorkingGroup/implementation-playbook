@@ -14,19 +14,12 @@ This 15 minute warm up activity helps teams define a clear future vision for the
 
 In groups, describe what the future service should look and feel like.
 
-Ask groups to answer these questions:
+**Ask groups to answer these questions:**\
+What is the future service?\
+How does it help users?\
+What are the most important qualities or features?
 
-* **What is the future service?**
-* **How does it help users?**
-* **What are the most important qualities or features?**
-
-They can:
-
-* Write short statements
-* Use post-it notes
-* Sketch a simple, high-level illustration
-
-
+They can write short statements, use post-it notes or sketch a simple illustration.
 
 </details>
 

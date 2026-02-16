@@ -2,7 +2,7 @@
 
 ## Build prototypes
 
-Once the [wireframe and/or voice command flow](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/design-and-delivery/wireframes) is approved, we are ready to start developing functional prototypes for the service.
+Once the wireframe and/or voice command flow is approved, we are ready to start developing functional prototypes for the service.
 
 The prototype is iteratively developed. Each successive iteration adds new functionalities and refines the prototype based on user feedback. This results in a service that meets the desired level of functionality and usability.
 
