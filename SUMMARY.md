@@ -71,13 +71,11 @@
 
 ## Annex
 
-* [Digital Strategy](annex/digital-strategy.md)
 * [Service Design](annex/service-design.md)
 * [GovStack Design Principles](designing/service-design/govstack-design-principles.md)
 * [User journeys](designing/service-design/user-journeys.md)
 * [Service blueprint](annex/service-blueprint.md)
 * [Wireframes](annex/wireframes.md)
-* [Prototype](annex/prototype.md)
 * [Contributors](annex/contributors.md)
 * [Version history](annex/1-version-history/README.md)
   * [Release notes](annex/1-version-history/release-notes.md)
