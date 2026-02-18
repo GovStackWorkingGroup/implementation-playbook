@@ -6,7 +6,7 @@ At a later step [b.4-decide-technology-stack.md](b.4-decide-technology-stack.md 
 
 ## Container Diagram
 
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 
 ## How to do it
 

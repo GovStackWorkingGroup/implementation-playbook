@@ -69,11 +69,11 @@ You can find a detailed introduction under:
 
 ### C4 Terminology
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 
 ### Overview of C4 diagrams
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 
 ### Sources
 

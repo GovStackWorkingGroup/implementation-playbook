@@ -11,7 +11,7 @@ A collaborative activity to describe how a service currently works from the user
 * where systems, data, and decisions sit
 * pain points, gaps, and inefficiencies in the current service
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>As-is and to-be mapping</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>As-is and to-be mapping</p></figcaption></figure>
 
 <details>
 

@@ -26,7 +26,7 @@ The data model should be described in an ER diagram. While documenting the data 
 
 * Create separate data models for each bounded context.&#x20;
   * In case there are similar entities used in multiple contexts, DDD recommends to create a separate entity in each context's data model\
-    ![](<../../.gitbook/assets/image (78).png>)
+    ![](<../../.gitbook/assets/image (26).png>)
   * There are multiple patterns how to handle such shared entities. It is impossible to give a hard recommendation here, because it depends too much on the specifics
   * Documentation on Context Mapping Patterns
     * [Context Mapping in Domain-Driven Design: Visualizing and Managing Bounded Contexts](https://softwarepatternslexicon.com/java/domain-driven-design-ddd-patterns/strategic-patterns/context-mapping/)

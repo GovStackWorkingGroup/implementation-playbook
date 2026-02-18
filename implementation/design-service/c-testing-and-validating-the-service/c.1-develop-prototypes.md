@@ -10,7 +10,7 @@ The prototype is iteratively developed. Each successive iteration adds new funct
 
 Teams typically move through different levels of fidelity as confidence increases. Not all services or teams need to use every level.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 A simple rule of thumb:
 

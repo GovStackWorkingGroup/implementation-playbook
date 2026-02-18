@@ -28,7 +28,7 @@ This activity supports user-centred decision-making without requiring in-depth r
 5.  **Draft personas**\
     Create simple personas that can be referenced and kept in mind throughout the design stage.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (8).png" alt="Example user personas from a GovStack project"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="Example user personas from a GovStack project"><figcaption></figcaption></figure>
 
 
 

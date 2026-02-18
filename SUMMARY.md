@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Understand How to Use the Playbook](README.md)
-* [Learn the GovStack Terminology](introduction/learn-the-govstack-terminology.md)
+* [Learn About GovStack](introduction/learn-about-govstack.md)
 * [Get an Overview on the Implementation Process](introduction/get-an-overview-on-the-implementation-process.md)
 
 ## Strategy & Management

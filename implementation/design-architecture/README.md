@@ -8,7 +8,7 @@ System Architecture and System Landscape provide different perspectives and diff
 
 Consider this as two alternate pathes, depending on what view on the system you are interested in.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Government Architecture / Enterprise Architecture provides an even more high-level and complete view of the systems within a government. For more on this, take a look at this GovStack document: [​​Public Administration Ecosystem Reference Architecture (PAERA) > 2.3 Role of Enterprise Architecture](https://paera.govstack.global/2.-state-of-digital-transformation#id-2.3-role-of-enterprise-architecture).
 

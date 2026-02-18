@@ -4,11 +4,11 @@ The container diagram is a even further "zoomed-in" version of the [#container-d
 
 Example Component Diagram:
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 
 Example Template:
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ## Design Principles
 
@@ -19,5 +19,5 @@ Example Template:
 *   Some commonly used design patterns for dealing with external systems include Adapter, Proxy & Facade (see [Software design pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)).\
     <br>
 
-    <figure><img src="../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption><p>Adapted from a CC0 1.0 public-domain diagram (Wikimedia Commons). Changes were made.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (30).png" alt="" width="375"><figcaption><p>Adapted from a CC0 1.0 public-domain diagram (Wikimedia Commons). Changes were made.</p></figcaption></figure>
 

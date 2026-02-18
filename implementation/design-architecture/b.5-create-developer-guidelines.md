@@ -34,4 +34,4 @@ For a starting point, the developer guidelines should include:
     *   Example:\
         <br>
 
-        <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>

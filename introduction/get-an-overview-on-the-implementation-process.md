@@ -6,7 +6,7 @@ Although the activities follow a specific order as mentioned below, many of them
 
 ### Step-by-Step Implementation
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -31,7 +31,7 @@ This step guides you to design a digital public service that is user-centric, in
 * Testing and Validating the Service&#x20;
 * Ensuring Inclusion and Accessibility of E-Government Services&#x20;
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -43,7 +43,7 @@ Here, you will learn how to build a coherent system architecture that aligns wit
 * Process Description & Activities for Architecture Planning&#x20;
 * Best Practices & Patterns for Architecture Planning&#x20;
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
