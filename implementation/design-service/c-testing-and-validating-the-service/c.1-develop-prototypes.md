@@ -62,6 +62,10 @@ Support internal alignment and early validation of ideas, logic, and assumptions
 * Does the overall flow make sense?
 * Are key steps missing or unnecessary?
 
+{% hint style="info" %}
+Use our [Wireframing Kit](https://www.figma.com/files/team/1195124113863961247/resources/community/file/1506960157971417278/govstack-wireframing-kit?fuid=1193167279351306417) (opens in Figma) to create low or mid-fidelity prototypes.
+{% endhint %}
+
 #### 3. Test the content with a mid-fidelity prototype <a href="#id-3.-test-the-content-with-a-mid-fidelity-prototype" id="id-3.-test-the-content-with-a-mid-fidelity-prototype"></a>
 
 Test structure, content, and end-to-end flow in more detail.

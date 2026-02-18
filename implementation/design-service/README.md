@@ -6,7 +6,7 @@ Reduce the risk of building the wrong thing by understanding the service domain 
 
 ## The service development phases
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Each phase answers specific questions and produces artefacts that inform the next.
 

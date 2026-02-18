@@ -57,11 +57,16 @@ This helps ensure the map reflects reality rather than assumptions.
     <br>
 
     <figure><img src="../../../.gitbook/assets/As-is 5 (1).png" alt=""><figcaption></figcaption></figure>
-6.  **Document the journey map**\
-    Make sure the map is documented in a way that can be easily shared and understood. Use our [Journey Mapping Template](https://www.figma.com/file/w9oqWWuuxWtab5EPJIVhhA/Journey-Template?type=whiteboard\&node-id=502-3589\&t=2jbkrrXKAmGpPeg6-0) (opens in Figma) to create As-Is and To-Be journey.\
-    <br>
+6. **Document the journey map**\
+   Make sure the map is documented in a way that can be easily shared and understood.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/As-Is Journey map.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Use our [Journey Mapping Template](https://www.figma.com/file/w9oqWWuuxWtab5EPJIVhhA/Journey-Template?type=whiteboard\&node-id=502-3589\&t=2jbkrrXKAmGpPeg6-0) (opens in Figma, go to file > save local copy) to create As-Is and To-Be journey.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/As-Is Journey map.png" alt=""><figcaption></figcaption></figure>
+
+Watch a [video tutorial for using the Journey Mapping Template](https://www.youtube.com/watch?v=sKnTfcUm2z4) (opens in YouTube)
 
 </details>
 

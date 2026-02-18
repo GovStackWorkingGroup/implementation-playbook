@@ -40,15 +40,11 @@ Teams should agree:
 * how they will be contacted or invited
 * who is responsible for recruitment
 
-\[Link: Recruitment criteria]
-
 When contacting potential participants, make sure they understand:
 
 * why they are being involved
 * what will happen during the session
 * how their data will be used
-
-\[Link: Consent form template]
 
 #### 3. Run testing sessions <a href="#id-3.-run-testing-sessions" id="id-3.-run-testing-sessions"></a>
 
@@ -66,7 +62,7 @@ During testing, focus on observing behaviour and listening, rather than explaini
    * misinterpret content
    * expect something different
 
-Use a short discussion guide printout to stay focused.
+Use a short discussion guide printout with the task/scenario and any questions you intend to ask. This helps you to stay focused.
 
 #### 4. Capture and review findings <a href="#id-4.-capture-and-review-findings" id="id-4.-capture-and-review-findings"></a>
 
@@ -111,10 +107,6 @@ Teams should consider:
 * clear ownership of research activities
 
 Not all services require the same level of formality.
-
-\[Link: Consent and ethics checklist]\
-\[Link: Data protection guidance]\
-\[Link: Recruiting participants guidance]
 
 </details>
 

@@ -20,7 +20,11 @@ Move through this activity in layers, starting simple and adding detail where it
 
 #### 1. Start with the user journey <a href="#id-1.-start-with-the-user-journey" id="id-1.-start-with-the-user-journey"></a>
 
-Begin by drafting a **high-level to-be user journey**.
+Begin by drafting a **high-level to-be user journey**.&#x20;
+
+{% hint style="info" %}
+Use our [Journey Mapping Template](https://www.figma.com/file/w9oqWWuuxWtab5EPJIVhhA/Journey-Template?type=whiteboard\&node-id=502-3589\&t=2jbkrrXKAmGpPeg6-0) (opens in Figma, go to file > save local copy) to create a To-Be journey.
+{% endhint %}
 
 Focus on:
 
@@ -50,7 +54,11 @@ After this, identify relevant **functional patterns** for each action (for examp
 
 #### 3. Expand into a service blueprint <a href="#id-3.-expand-into-a-service-blueprint" id="id-3.-expand-into-a-service-blueprint"></a>
 
-Once the journey feels coherent, teams can add further layers to create a **to-be service blueprint**.
+Once the journey feels coherent, teams can add further layers to create a **to-be service blueprint**.&#x20;
+
+{% hint style="info" %}
+Use our [Service Blueprinting Template](https://www.figma.com/community/file/1506959809667708093) (opens in Figma) to create a Service Blueprint.
+{% endhint %}
 
 Depending on context, this may include:
 
@@ -62,6 +70,10 @@ Depending on context, this may include:
 Not every service needs a full blueprint. Add detail only where it helps uncover risk, complexity, or decision points.
 
 <figure><img src="../../../.gitbook/assets/Service blueprint (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Watch a [video tutorial for using the Service Blueprinting Template](../../../annex/service-blueprint.md) (opens in YouTube)&#x20;
+{% endhint %}
 
 #### 4. Sense-check and refine <a href="#id-4.-sense-check-and-refine" id="id-4.-sense-check-and-refine"></a>
 
