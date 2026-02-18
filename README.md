@@ -124,18 +124,8 @@ The Playbook is in continuous iteration according to country implementation feed
 
 One of the cornerstones of our commitment to excellence is our unwavering dedication to listening to you, our readers. Your feedback is invaluable to us. We don't just collect it; we cherish it. Your thoughts, opinions, and suggestions are the compass guiding our journey toward continuous improvement.&#x20;
 
-In order to provide feedback for a particular page
+You can write contact the community secretary at community@govstack.global
 
-* Open the GovStack Implementation [Playbook](https://govstack.gitbook.io/implementation-playbook/),
-* Navigate to the page you would like to provide feedback on,
-* Click the “Give Feedback” button in the upper right corner,
-
-<img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback (1).png" alt="" data-size="original">
-
-* Upon clicking the “Give Feedback” button, a feedback form is created where you can share your name, email address, and your feedback.
-
-<img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback (1) (1).jpg" alt="" data-size="original">
-
-**The feedback form auto-fills the link of the page that you wish to leave feedback on.**
+Or, which is our preffered way of getting in contact with you, join our working group on the implementation playbook. Fill in the following form and we will invite you to slack and our working group meetings: [https://govstack.global/join-our-tech-community/](https://govstack.global/join-our-tech-community/)
 
 </details>

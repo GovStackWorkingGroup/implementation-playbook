@@ -12,42 +12,42 @@ Consider this as two alternate pathes, depending on what view on the system you 
 
 Government Architecture / Enterprise Architecture provides an even more high-level and complete view of the systems within a government. For more on this, take a look at this GovStack document: [​​Public Administration Ecosystem Reference Architecture (PAERA) > 2.3 Role of Enterprise Architecture](https://paera.govstack.global/2.-state-of-digital-transformation#id-2.3-role-of-enterprise-architecture).
 
-{% content-ref url="1-analyze-requirements.md" %}
-[1-analyze-requirements.md](1-analyze-requirements.md)
+{% content-ref url="4-analyze-requirements.md" %}
+[4-analyze-requirements.md](4-analyze-requirements.md)
 {% endcontent-ref %}
 
-{% content-ref url="2-start-with-the-system-context.md" %}
-[2-start-with-the-system-context.md](2-start-with-the-system-context.md)
-{% endcontent-ref %}
-
-{% content-ref url="a.1-update-system-landscape.md" %}
-[a.1-update-system-landscape.md](a.1-update-system-landscape.md)
+{% content-ref url="5-start-with-the-system-context.md" %}
+[5-start-with-the-system-context.md](5-start-with-the-system-context.md)
 {% endcontent-ref %}
 
 {% columns %}
 {% column %}
-{% content-ref url="b.1-create-data-model-and-rest-api.md" %}
-[b.1-create-data-model-and-rest-api.md](b.1-create-data-model-and-rest-api.md)
+{% content-ref url="5-a.1-update-system-landscape.md" %}
+[5-a.1-update-system-landscape.md](5-a.1-update-system-landscape.md)
 {% endcontent-ref %}
 
 
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="b.2-create-container-diagram.md" %}
-[b.2-create-container-diagram.md](b.2-create-container-diagram.md)
+{% content-ref url="5-b.1-create-data-model-and-rest-api.md" %}
+[5-b.1-create-data-model-and-rest-api.md](5-b.1-create-data-model-and-rest-api.md)
 {% endcontent-ref %}
 
-{% content-ref url="b.3-create-component-diagram.md" %}
-[b.3-create-component-diagram.md](b.3-create-component-diagram.md)
+{% content-ref url="5-b.2-create-container-diagram.md" %}
+[5-b.2-create-container-diagram.md](5-b.2-create-container-diagram.md)
 {% endcontent-ref %}
 
-{% content-ref url="b.4-decide-technology-stack.md" %}
-[b.4-decide-technology-stack.md](b.4-decide-technology-stack.md)
+{% content-ref url="5-b.3-create-component-diagram.md" %}
+[5-b.3-create-component-diagram.md](5-b.3-create-component-diagram.md)
 {% endcontent-ref %}
 
-{% content-ref url="b.5-create-developer-guidelines.md" %}
-[b.5-create-developer-guidelines.md](b.5-create-developer-guidelines.md)
+{% content-ref url="5-b.4-decide-technology-stack.md" %}
+[5-b.4-decide-technology-stack.md](5-b.4-decide-technology-stack.md)
+{% endcontent-ref %}
+
+{% content-ref url="5-b.5-create-developer-guidelines.md" %}
+[5-b.5-create-developer-guidelines.md](5-b.5-create-developer-guidelines.md)
 {% endcontent-ref %}
 
 
