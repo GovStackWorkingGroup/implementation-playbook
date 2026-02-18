@@ -94,7 +94,7 @@ The Implementation section is structured as follows:
 
 </details>
 
-### &#x20;Who is the playbook for?
+### &#x20;Who is the Playbook for?
 
 The Playbook is intended to be used by digital teams: Service designers, solution architects, developers, lawyers, product managers, behavioral scientists, and user need researchers. Furthermore, the Playbook also addresses key stakeholders across government who shape the direction, governance and operation of digital transformation efforts. These include policymakers, program and project managers, procurement and vendor management teams, and capacity building teams, amongst others who are involved in the digitalization process.
 
@@ -102,7 +102,7 @@ Depending on your background, some contents may be more relevant to you than oth
 
 <figure><img src=".gitbook/assets/Picture6.png" alt=""><figcaption></figcaption></figure>
 
-### How is the playbook developed and kept updated?
+### How is the Playbook developed and kept updated?
 
 The Playbook is a continuous co-design effort by a multidisciplinary team of experts representing GovStack founding partners ([ITU](https://www.itu.int/en/Pages/default.aspx), [EE](https://e-estonia.com/), [GIZ](https://www.giz.de/en/html/index.html), [DIAL](https://dial.global/)), implementing partners such as EstDev, FIIAAP, Taltech, Capgemini, and digital teams from governments that participate in TAC review.&#x20;
 
