@@ -77,5 +77,4 @@
 * [Service blueprint](annex/service-blueprint.md)
 * [Wireframes](annex/wireframes.md)
 * [Contributors](annex/contributors.md)
-* [Version history](annex/1-version-history/README.md)
-  * [Release notes](annex/1-version-history/release-notes.md)
+* [Version history](annex/1-version-history.md)
