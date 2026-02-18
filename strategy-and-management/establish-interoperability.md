@@ -6,15 +6,7 @@ description: How to achieve cross-government interoperability
 
 **Interoperability** depicts the **ability of organisations, systems, and services to work together** by exchanging data and information in a meaningful, lawful, and effective manner. In the context of digital public services, interoperability allows public administrations to cooperate across institutional, sectoral, and jurisdictional boundaries while keeping their organisational and legal autonomy.
 
-Contents
-
-1. [What is Interoperability?](establish-interoperability.md#what-is-interoperability)
-2. [Why is Interoperability needed?](establish-interoperability.md#why-is-interoperability-needed)
-3. [How to operationalise Interoperability?](establish-interoperability.md#how-to-operationalise-interoperability)
-4. [Best Practice Examples](establish-interoperability.md#best-practice-examples)
-5. [Recommendations of the European Interoperability Framework](establish-interoperability.md#recommendations-of-the-european-interoperability-framework)
-
-## What is Interoperability?
+## What is interoperability?
 
 According to the “Interoperability Framework for e-Government” (IFEG), interoperability in e-governance is defined as&#x20;
 
@@ -24,7 +16,7 @@ According to the “Interoperability Framework for e-Government” (IFEG), inter
 
 More broadly, interoperability enables organisations to interact in pursuit of mutually beneficial objectives by sharing information and knowledge through the business processes they support, facilitated by the exchange of data between their Information and Communication Technology (ICT) systems.
 
-## Why is Interoperability needed?
+## Why is interoperability needed?
 
 Digital public services rarely rely on a single system or authority. Instead, they are comprised of multiple administrative actors, information systems, and data sources that **must interact consistently over time**. Thus, interoperability ensures that these interactions are predictable, reusable, and scalable. Without it, digitalisation efforts tend to result in fragmented solutions, duplicated systems, as well as manual coordination mechanisms that weaken efficiency and service quality.
 
@@ -34,13 +26,13 @@ Conversely, a **lack of interoperability** can impede the development of new tec
 
 Therefore, interoperability functions as an enabling condition for digital government: It grants public administrations to design services once and operate them across multiple contexts, rather than rebuilding similar capabilities repeatedly.
 
-## How to operationalise Interoperability?
+## How to operationalise interoperability?
 
 Interoperability has been conceptualized through a variety of global and national frameworks that provide structured guidance on aligning legal, organizational, semantic, and technical aspects of data exchange and service integration across domains and jurisdictions. These include cross‑sector e‑government frameworks (e.g. [European Interoperability Framework](https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf); [India’s Interoperability Framework for e‑Governance](https://egovstandards.gov.in/sites/default/files/2021-07/Interoperability%20Framework%20For%20e-Governance%20\(IFEG\)%20Ver.1.0.pdf)), sector‑specific models (such as the [interoperability framework for the European Health Data Space](https://www.european-health-data-space.com/) or the [World Bank’s ID4D guidance on interoperable digital ID systems](https://id4d.worldbank.org/guide/interoperability)), and generic reference architectures promoted by international organizations (e.g. [World Bank ID4D](https://id4d.worldbank.org/guide/standards), various national interoperability reference architectures), which together offer a rich repertoire of principles, patterns, and standards that public administrations can draw on when designing interoperable digital public services.&#x20;
 
 The recommendations of the EIF on how to achieve interoperability are in-depth explained in the  chapter ["Recommendations of the European Interoperability Framework"](establish-interoperability.md#recommendations-of-the-european-interoperability-framework).
 
-### Interoperability Layers
+### Interoperability layers
 
 Frameworks and reference architectures defines layers of interoperability slightly different, but commonalities can be easily seen:
 
@@ -53,7 +45,7 @@ Frameworks and reference architectures defines layers of interoperability slight
 
 This layered model mirrors the reality that technical connectivity alone is insufficient. Sustainable interoperability necessitates concrete alignment of mandates, processes, data meanings, and institutional responsibilities.
 
-### GovStack's Interoperability Continuum
+### GovStack's interoperability continuum
 
 **GovStack complements the European Interoperability Framework (EIF)** by **adding a maturity-based perspective** to its layered model of interoperability. While the ElF defines what dimensions must be aligned, GovStack introduces a progression model that helps governments understand how interoperability evolves in practice.
 
@@ -74,7 +66,7 @@ Building on these dimensions, GovStack defines interoperability as a **continuum
 
 GovStack Building Blocks, architecture requirements, and reference specifications are designed to assist countries in moving deliberately along this continuum, avoiding vendor lock-in and fragmented systems.
 
-<figure><img src="../.gitbook/assets/govstack-interoperability.png" alt=""><figcaption><p>GovStack's three maturity states increasingly include more interoperability layers (GovStack, 2025</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/govstack-interoperability.png" alt=""><figcaption><p>GovStack's three maturity states increasingly include more interoperability layers (GovStack, 2025)</p></figcaption></figure>
 
 GovStack's technical specifications are aimed towards achieving **technical interoperability**. Technical interoperability focuses on the ability of systems to connect and exchange data. To provide this ability, GovStack's specification offer cross-functional requirements and API services as a blueprint. While technical interoperability is treated as an independent layer in GovStack, it needs to be **emphasized** that an actual implementation **must be designed** in **alignment with organizational, legal, and semantic interoperability** from the outset.
 
@@ -119,7 +111,7 @@ Whole‑of‑Government interoperability is reached when all parties agree not o
 
 More information can be found at GovStack's blog post: [Achieving technical interoperability in government systems: From Protocol to Whole-of-Government ](https://govstack.global/news/achieving-technical-interoperability-in-government-systems-from-protocol-to-whole-of-government/)
 
-## Best Practice Examples
+## Best practice examples
 
 This section presents **selected country-level examples** that **illustrate how interoperability has been implemented** **in practice** as a foundation for scalable and resilient digital public infrastructure. The cases highlight different national approaches to interoperability, reflecting varying institutional contexts, governance models, and stages of digital maturity.
 
@@ -127,7 +119,7 @@ While the specific architectures and policy instruments differ, the examples dem
 
 {% tabs %}
 {% tab title="India" %}
-**India: Interoperability as the Foundation of Scalable Digital Public Infrastructure**
+**India: Interoperability as the foundation of scalable Digital Public Infrastructure**
 
 India’s digital governance success can be attributed to the interoperable, open‑standards‑based Digital Public Infrastructure (DPI) architecture, built at population scale. The key Building Blocks (BBs), which are referred to as “[India Stack](https://indiastack.org/index.html)”, include, but not limited to, issuing digital IDs (Aadhaar), improving financial inclusion through Jan Dhan, and digitizing payments on the Unified Payments Interface (UPI). Through a robust policy framework that focuses on data privacy and empowerment, mandates interoperability of digital assets and transactions (detailed in the [Interoperability Framework for e-Governance (IFEG](https://egovstandards.gov.in/sites/default/files/2021-07/Interoperability%20Framework%20For%20e-Governance%20\(IFEG\)%20Ver.1.0.pdf))), and encourages market participation – India’s DPI has transformed the country’s financial inclusion metrics enabling India in progressing towards achieving the Sustainable Development Goals (SDGs) [(ORF, 2025).](https://www.orfonline.org/research/digital-public-infrastructure-as-a-catalyst-for-private-sector-innovation)
 
@@ -159,7 +151,7 @@ Singapore’s integrated digital ecosystem fosters scalable innovation, facilita
 {% endtab %}
 
 {% tab title="Rwanda" %}
-**Rwanda: An Interoperability Model Driving Continental Digital Integration**
+**Rwanda: An Interoperability model driving continental digital integration**
 
 Rwanda’s e-government transformation is steered by the Rwanda Government Enterprise Architecture (RGEA), which outlines the standardization of system design, integration, and management across public institutions. Its digital development agenda, rooted in National Information and Communication Infrastructure (NICI) Plans, the Smart Rwanda Master Plan, and Vision 2050, prioritizes interoperability to enable seamless service delivery across governance, health, education, finance, and agriculture. The country’s robust institutional alignment and international partnerships, for example, with JICA and South Korea’s NIA, further emphasize its promise to building integrated, interoperable systems ([Center for African Studies, 2025](https://e-governancehub.ru/wp-content/uploads/2025/07/E-Governance-in-Rwanda-2025-%E2%80%94-2025-05-16.pdf)).
 
@@ -195,7 +187,7 @@ In addition, EIF introduces:
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted full picture interoperability.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
-### Underlying Principles of European Public Services
+### Underlying principles of European public services
 
 The **European Interoperability Framework establishes 12 underlying principles** (see figure below) that **guide** the **design and implementation of public services**. These principles serve as behavioural recommendations, ensuring that services are not just technically connected but are also sustainable, user-friendly, and open.
 
@@ -297,25 +289,25 @@ Existing and new services should be regularly evaluated to ensure they deliver v
 
 </details>
 
-### Interoperability Governance
+### Interoperability governance
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted Interoperability Governance.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
 Interoperability governance forms the background layer of the European Interoperability Framework (EIF). It **encompasses the frameworks, institutional arrangements, organizational structures, roles, policies, and agreements** that **guide how interoperability is achieved**, maintained, and monitored at national, crossborder, and for instance EU levels.&#x20;
 
-#### 1) Secure Political Support and Clear Prioritisation
+#### 1) Secure political support and clear prioritisation
 
 Interoperability efforts take place in complex, evolving administrative and policy environments. Sustained political commitment is essential to enable crosssectoral and crossborder collaboration, ensure shared objectives, and align timelines and priorities. Successful implementation requires governments to assign sufficient resources, leadership attention, and dedicated capabilities across all levels of administration.&#x20;
 
 However, a critical barrier remains the lack of inhouse interoperability skills. Member States should thus embed workforce development into their interoperability strategies, recognizing that delivery requires multidisciplinary expertise across legal, organizational, semantic, and technical areas.&#x20;
 
-#### 2) Ensure Sustainability and a Holistic Approach
+#### 2) Ensure sustainability and a holistic approach
 
 Furthermore, many public services depend on shared components and common interoperability agreements. Their sustainability must be guaranteed beyond individual projects or political cycles. Because these components originate from work across local, regional, national, and EU entities, coordination and monitoring require a holistic, multi‑level governance approach. Interoperability governance brings together the necessary instruments – including policies, standards, agreements, and monitoring mechanisms – to ensure this coherence.&#x20;
 
 For example, the European Commission supports this through mechanisms such as the [National Interoperability Framework Observatory (NIFO)](https://interoperable-europe.ec.europa.eu/interoperable-europe/nifo), which enables countries to share experiences, monitor progress, and align national frameworks (NIFs) with the EIF.
 
-#### 3) Identify and Select Standards and Specifications
+#### 3) Identify and select standards and specifications
 
 But also standards and specifications underpin interoperability – and hence effective management requires a structured lifecycle approach:
 
@@ -332,7 +324,7 @@ Where suitable standards do not exist, public administrations should actively pa
 
 <details>
 
-<summary>EIF Summarized Recommendations - Interoperability Governance</summary>
+<summary>EIF summarized recommendations - Interoperability governance</summary>
 
 To ensure sustainability and overcome administrative silos, **the EIF recommends** that EU Member States:
 
@@ -344,13 +336,13 @@ To ensure sustainability and overcome administrative silos, **the EIF recommends
 
 </details>
 
-### Integrated Public Service Governance
+### Integrated public service governance
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted Integrated Public Service Governance.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
 European public services are often the result of aggregating services provided by different public administrations. For these services to function effectively, it is insufficient to rely solely on technical connectivity; instead it is imperative to include all layers: legal, organizational, semantic and technical. It is an **ongoing effort** to **ensure interoperability** in the preparation of legal instruments, organizational business processes, information exchanges, and the services and components that support European public services. Interoperability is repeatedly challenged by changes in the surrounding environment, such as new or amended legislation, evolving needs of businesses and citizens, reorganizations within public administrations, modifications to business processes, and the emergence of new technologies.
 
-#### 1) Ensure Sustainability and Coordination
+#### 1) Ensure sustainability and coordination
 
 The EIF establishes that integrated public service provision requires a formal governance structure. This structure is essential to ensure that coordination is maintained over time rather than relying on ad-hoc cooperation.
 
@@ -361,7 +353,7 @@ According to the framework, this governance structure should cover, as a minimum
 * A **change management plan** to define the procedures and processes for dealing with and controlling changes.
 * A **business continuity and disaster recovery plan** that ensures digital public services and their building blocks remain operational under various circumstances, such as cyberattacks or the malfunction of specific building blocks.
 
-#### 2) Incorporate Interoperability Agreements
+#### 2) Incorporate interoperability agreements
 
 Furthermore, in order to formalize the cooperation between different administrative entities, the EIF emphasizes the use of Interoperability Agreements. These agreements serve as the primary instrument for defining the relationships and obligations between the parties involved. Creating and maintaining these agreements is part of the overall governance of public services. These agreements should be specific enough to support the joint provision of services, while still allowing each organization as much internal and national autonomy as possible. At semantic and technical levels, and in some cases also at organizational level, such agreements typically refer to standards and specifications. At the legal level, they can be made concrete and binding through EU or national legislation, or through bilateral and multilateral arrangements.
 
@@ -371,7 +363,7 @@ Because the delivery of a European public service depends on the combined contri
 
 <details>
 
-<summary>EIF Summarized Recommendations - Integrated Public Service Governance</summary>
+<summary>EIF summarized recommendations - Integrated public service governance</summary>
 
 Consequently, to secure the interaction between parties, the **EIF advises that** administrations:
 
@@ -380,7 +372,7 @@ Consequently, to secure the interaction between parties, the **EIF advises that*
 
 </details>
 
-### Legal Interoperability
+### Legal interoperability
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted Legal Interoperability.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
@@ -388,7 +380,7 @@ Consequently, to secure the interaction between parties, the **EIF advises that*
 
 <figure><img src="../.gitbook/assets/Adjusted easy legal.png" alt=""><figcaption><p><em>(European Commission, 2017)</em></p></figcaption></figure>
 
-#### 1) Conduct Interoperability and Digital Checks
+#### 1) Conduct interoperability and digital checks
 
 A key initial step in achieving legal interoperability is to conduct “interoperability checks”. These involve systematically reviewing existing legislation to identify interoperability barriers, such as sectoral or geographical restrictions on data use and storage, inconsistent or unclear data licensing models, overly restrictive obligations to use specific technologies or service delivery channels, conflicting requirements for similar business processes, or outdated security and data protection provisions.
 
@@ -400,13 +392,13 @@ To ensure interoperability, coherence across legislation should be assessed both
 * identify potential barriers to digital exchange; and
 * assess its broader ICT impact on relevant stakeholders.
 
-#### 2) Enable Reuse and Ensure Legal Certainty
+#### 2) Enable reuse and ensure legal certainty
 
 Strengthening legal interoperability also facilitates interoperability at lower levels, particularly the semantic and technical layers, and increases opportunities for reusing existing ICT solutions, thereby reducing costs and implementation timelines. At the same time, the legal validity of information exchanged across borders must be preserved, and data protection legislation in both originating and receiving countries must be respected. Where differences in implementation arise, additional legal or administrative agreements may be required to ensure compliance and legal certainty.
 
 <details>
 
-<summary>EIF Summarized Recommendations - Legal Interoperability</summary>
+<summary>EIF summarized recommendations - Legal interoperability</summary>
 
 Consequently, to secure efficient legal interoperability, **the** **EIF advises** that administrations:
 
@@ -416,7 +408,7 @@ Consequently, to secure efficient legal interoperability, **the** **EIF advises*
 
 <details>
 
-<summary>Additional Recommendations from Practical Implementations - Legal Interoperability</summary>
+<summary>Additional recommendations from practical implementations - Legal interoperability</summary>
 
 The following are **further recommendations** based on examples from practical implementation:
 
@@ -426,7 +418,7 @@ The following are **further recommendations** based on examples from practical i
 
 </details>
 
-### Organizational Interoperability
+### Organizational interoperability
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted Organizational Interoperability.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
@@ -434,17 +426,17 @@ The following are **further recommendations** based on examples from practical i
 
 <figure><img src="../.gitbook/assets/Adjusted easy organizational.png" alt=""><figcaption><p><em>(European Commission, 2017)</em></p></figcaption></figure>
 
-#### 1) Align Business Processes
+#### 1) Align business processes
 
 To enable efficient and effective cooperation in the delivery of European public services, participating administrations may need to align existing business processes or define new ones. This requires documenting processes in an agreed and consistent manner, using commonly accepted modelling techniques, and clearly describing the associated information exchanges. Such alignment ensures that all contributing administrations can understand the end-to-end business process and their respective roles within it.
 
-#### 2) Formalize Organizational Relationships
+#### 2) Formalize organizational relationships
 
 Organizational interoperability also requires clearly defined relationships between service providers and service consumers, in line with a service-oriented approach to public service delivery. This includes establishing formal instruments to support mutual assistance, joint action, and interconnected business processes, such as memoranda of understanding (MoUs) and service level agreements (SLAs). For cross-border public services, these arrangements should, where possible, take the form of multilateral or Europe-wide agreements to support consistent and scalable cooperation.
 
 <details>
 
-<summary>EIF Summarized Recommendations - Organizational Interoperability</summary>
+<summary>EIF summarized recommendations - Organizational interoperability</summary>
 
 In order to ensure effective organizational interoperability in the delivery of European public services, **the EIF recommends** the following actions:
 
@@ -453,7 +445,7 @@ In order to ensure effective organizational interoperability in the delivery of 
 
 </details>
 
-### Semantic Interoperability
+### Semantic interoperability
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted semantic interoperability.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
@@ -461,21 +453,21 @@ In order to ensure effective organizational interoperability in the delivery of 
 
 <figure><img src="../.gitbook/assets/Adjusted easy semantic.png" alt=""><figcaption><p><em>(European Commission, 2017)</em></p></figcaption></figure>
 
-#### 1) Treat Data as a Public Asset
+#### 1) Treat data as a public asset
 
 A key starting point for improving semantic interoperability is to recognize data and information as valuable public assets. This requires data to be appropriately generated, collected, managed, shared, protected, and preserved to support reliable and meaningful information exchange across public administrations.
 
-#### 2) Establish Information Management Practices
+#### 2) Establish information management practices
 
 To avoid fragmentation and duplication, an information management strategy should be defined and coordinated at the highest possible level, such as corporate or enterprise level. This includes prioritizing the management of metadata, master data, and reference data, and agreeing on shared taxonomies, controlled vocabularies, thesauri, code lists, and reusable data models. Approaches such as data-driven design and the use of linked data technologies can significantly enhance semantic interoperability.
 
-#### 3) Promote Common Standards and Collaboration
+#### 3) Promote common standards and collaboration
 
 Robust, coherent, and widely applicable information standards and specifications are essential to enable meaningful data exchange across European public organizations. Given the linguistic, cultural, legal, and administrative diversity across EU Member States, advancing standardization at the semantic level remains challenging but is critical to enabling seamless information exchange, data portability, and the free movement of data in support of the Digital Single Market.&#x20;
 
 <details>
 
-<summary>EIF Summarized Recommendations - Semantic Interoperability</summary>
+<summary>EIF summarized recommendations - Semantic interoperability</summary>
 
 To strengthen semantic interoperability and enable consistent and meaningful information exchange across European public services, **the EIF recommends** the following actions:
 
@@ -485,7 +477,7 @@ To strengthen semantic interoperability and enable consistent and meaningful inf
 
 </details>
 
-### Technical Interoperability
+### Technical interoperability
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted technical interoperability.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
@@ -493,17 +485,17 @@ To strengthen semantic interoperability and enable consistent and meaningful inf
 
 <figure><img src="../.gitbook/assets/Adjusted easy technical.png" alt=""><figcaption><p><em>(European Commission, 2017)</em></p></figcaption></figure>
 
-#### 1) Address Legacy System Fragmentation
+#### 1) Address legacy system fragmentation
 
 A major obstacle to technical interoperability is the prevalence of legacy systems. Historically, many public administration applications were developed in a bottom-up manner to address local or domain-specific needs, resulting in fragmented ICT islands. The scale of public administrations and the coexistence of numerous legacy solutions continue to create barriers to interoperability at the technical level.
 
-#### 2) Apply Common Technical Specifications
+#### 2) Apply common technical specifications
 
 To overcome fragmentation and enable interoperability, technical interoperability should be ensured wherever possible through the use of formal technical specifications. Consistent and well-defined specifications support system integration, reduce dependency on proprietary solutions, and facilitate scalable and secure service delivery across administrations.
 
 <details>
 
-<summary>EIF Summarized Recommendations - Technical Interoperability</summary>
+<summary>EIF summarized recommendations - Technical interoperability</summary>
 
 To ensure technical interoperability in the establishment and operation of European public services, **the EIF recommends** the following action:
 
@@ -519,15 +511,15 @@ The European Interoperability Framework (EIF) provides the conceptual foundation
 
 With the adoption of the [Interoperable Europe Act](https://eur-lex.europa.eu/eli/reg/2024/903/oj/eng) (Regulation (EU) 2024/903), this situation fundamentally changed ([European Union, 2024](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1970)). **The Act transforms the previously voluntary guidance** **of** **the EIF** **into** a **legally enforceable governance** and compliance system, marking a shift from soft coordination to binding legal obligations.
 
-#### Introduction of Mandatory Assessments (Effective January 2025)
+#### Introduction of mandatory assessments (Effective January 2025)
 
 **For public administrations**, the most **significant operational change** is the **introduction of mandatory Interoperability Assessments**. Since January 12, 2025, public sector bodies are legally required to conduct these assessments before establishing binding requirements for new or significantly modified cross-border digital public services. This piece of legislature also ensures that "interoperability by design" is not limited to hypothetical planning of new services, but more so it becomes a documented step in the procurement and development process. By doing this, digital barriers and pitfalls can be effectively cleared and navigated before they risk destabilization and inefficiencies (European Parliament & Council of the European Union, 2024, Arts. 3-4).
 
-#### Centralized Sharing and Reuse through the Interoperable Europe Portal
+#### Centralized sharing and reuse through the Interoperable Europe Portal
 
 To enable public administrations to carry out these mandatory Interoperability Assessments effectively, **the Act establishes the Interoperable Europe Portal** as a central knowledge hub. This platform **replaces scattered repositories, offering a single point of entry to discover shared solutions**, **open-source software, and data models**. By promoting the sharing and reuse of “Interoperable Europe Solutions” through the Interoperable Europe Portal, the regulation is intended to avoid duplication of effort in developing cross-border digital public services, which can reduce development effort and speed up implementation in practice (European Parliament & Council of the European Union, 2024, Arts. 4, 7–8).
 
-#### Governance Structures for Interoperability Cooperation
+#### Governance structures for interoperability cooperation
 
 Finally, the Act establishes the Interoperable Europe Board as a formal governance body for interoperability cooperation across the Union (European Parliament & Council of the European Union, 2024, Art. 5).  Unlike the earlier, more informal coordination structures, **this Board** has a **legal mandate to adopt** the **Interoperable Europe Agenda** and coordinate the implementation of interoperability measures, including priorities that guide Union support for interoperability solutions (Art. 5). The Act also provides interoperability regulatory sandboxes. These are controlled environments where Union entities or public sector bodies can develop, test and validate innovative interoperability solutions supporting cross‑border digital public services under regulatory supervision, for example in areas such as AI‑enabled services or blockchain‑based infrastructures.  Within this supervised framework, experimentation can inform whether existing rules are adequate or need adjustment before solutions are deployed more widely (European Parliament & Council of the European Union, 2024, Arts. 11-12).
 

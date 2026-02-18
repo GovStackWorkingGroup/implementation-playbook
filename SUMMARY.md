@@ -12,7 +12,7 @@
   * [Maturity Assessment](strategy-and-management/establish-strategic-direction/maturity-assessment.md)
   * [Digital Strategy](strategy-and-management/establish-strategic-direction/digital-strategy.md)
   * [Scaling Strategy](strategy-and-management/establish-strategic-direction/scaling-strategy.md)
-* [Design a Government Architecture\*](strategy-and-management/design-a-government-architecture.md)
+* [Design a Government Architecture](strategy-and-management/design-a-government-architecture.md)
 * [Build a Digital Public Infrastructure (DPI)](strategy-and-management/build-a-digital-public-infrastructure-dpi/README.md)
   * [Cross-Border DPI in the East African Community (EAC)](strategy-and-management/build-a-digital-public-infrastructure-dpi/cross-border-dpi-in-the-east-african-community-eac.md)
 * [Establish Interoperability](strategy-and-management/establish-interoperability.md)
