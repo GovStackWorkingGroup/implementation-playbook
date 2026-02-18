@@ -1,7 +1,40 @@
 # Contributors
 
-The first iteration of the Playbook has been co-developed by (listed below in alphabetical order)
+The first and second iteration of the Playbook has been co-developed by (listed below in alphabetical order)
 
+{% columns %}
+{% column %}
+### Community Members
+
+* Betty Mwema
+* Laurence Berry
+
+### Partner organizations&#x20;
+
+* **Capgemini**
+  * Anupama Pulipaka
+  * Bastian Ramm
+  * Lea Alwine Anna Feline Senner
+  * Mira Oetzmann
+  * Samuel Liam Scholz
+* **eGov Foundation of India**&#x20;
+  * Omkar Ghatpande
+  * Varun Basu&#x20;
+* **TalTech**&#x20;
+  * Alika Vandtke
+  * Josephine Lusi
+
+### Government collaborators
+
+* **Government of Ukraine**
+  * Maksym Shkilov
+
+### Graphic design
+
+* Nienke Haccou
+{% endcolumn %}
+
+{% column %}
 ### Founding Partners
 
 * **Estonian Government-EstDev**
@@ -20,6 +53,7 @@ The first iteration of the Playbook has been co-developed by (listed below in al
   * Niharika Gujela
   * Nora Hauptmann
   * Pia Seiffarth
+  * Puja Raghavan
   * Riham Fakhru
   * Sarah Fischer
   * Stephen Odhiambo
@@ -35,21 +69,6 @@ The first iteration of the Playbook has been co-developed by (listed below in al
   * Valentina Stadnic
   * Vikash Madduri
   * Yolanda Martínez&#x20;
+{% endcolumn %}
+{% endcolumns %}
 
-### **Partner organizations**&#x20;
-
-* **eGov Foundation of India**&#x20;
-  * Omkar Ghatpande
-  * Varun Basu&#x20;
-* **TalTech**&#x20;
-  * Alika Vandtke
-  * Josephine Lusi
-
-### **Government collaborators**
-
-* **Government of Ukraine**
-  * Maksym Shkilov
-
-### Graphic design
-
-* Nienke Haccou
