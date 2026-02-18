@@ -33,7 +33,7 @@ Another important artifact that is often overlooked are non-functional requireme
 
 <details>
 
-<summary>Examples for NFRs</summary>
+<summary><strong>Examples for NFRs</strong></summary>
 
 * Availability, SLA'
 * Expected processing times / response times
@@ -46,7 +46,7 @@ Another important artifact that is often overlooked are non-functional requireme
 
 <details>
 
-<summary>Examples for Quantities / Sizing Requirements</summary>
+<summary><strong>Examples for Quantities / Sizing Requirements</strong></summary>
 
 * Total Number of users, Average number of users, Peak number of users
 * Average message size, Maximum message size
@@ -59,7 +59,7 @@ Another important artifact that is often overlooked are non-functional requireme
 
 <details>
 
-<summary>Examples for relevant stakeholders</summary>
+<summary><strong>Examples for relevant stakeholders</strong></summary>
 
 * Product Owner
 * Representative User from Business

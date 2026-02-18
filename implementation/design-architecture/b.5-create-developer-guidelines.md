@@ -31,6 +31,7 @@ For a starting point, the developer guidelines should include:
     * This way the code stays more flexible and is easier to debug & maintain
   * Usage of Layers
     * Layered approaches are helpful to separate the business code from technical code
-    * Example:
+    *   Example:\
+        <br>
 
-<figure><img src="../../.gitbook/assets/temp (3).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>

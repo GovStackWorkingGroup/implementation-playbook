@@ -6,7 +6,7 @@ Having the system context early already informs you about many of the components
 
 ## System Context Diagram
 
-<figure><img src="../../../.gitbook/assets/c4-system-context.webp" alt=""><figcaption><p>This diagram is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source: https://c4model.com/</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 
 ## How to do it
 

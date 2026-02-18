@@ -4,11 +4,11 @@ The container diagram is a even further "zoomed-in" version of the [#container-d
 
 Example Component Diagram:
 
-<figure><img src="../../.gitbook/assets/c4-component.webp" alt=""><figcaption><p>This diagram is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source: https://c4model.com/</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 
 Example Template:
 
-<figure><img src="../../.gitbook/assets/temp (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 ## Design Principles
 
@@ -16,7 +16,8 @@ Example Template:
   * Expanding on the ideas presented in [#modular-design](b.2-create-container-diagram.md#modular-design "mention"), a modular approach is also recommended within a container
   * Try to identify components and especially business components / domain components that encapsulate a specific area of concern
     * the data model is usually a good starting point informing you of areas of high cohesion
-* Some commonly used design patterns for dealing with external systems include Adapter, Proxy & Facade (see [Software design pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)).
-*
+*   Some commonly used design patterns for dealing with external systems include Adapter, Proxy & Facade (see [Software design pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)).\
+    <br>
 
-    <figure><img src="../../.gitbook/assets/high-cohesion_low-coupling.webp" alt=""><figcaption><p>This file is made available under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons">Creative Commons</a> <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0 1.0 Universal Public Domain Dedication</a>. Source: <a href="https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg">https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg</a></p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption><p>Adapted from a CC0 1.0 public-domain diagram (Wikimedia Commons). Changes were made.</p></figcaption></figure>
+

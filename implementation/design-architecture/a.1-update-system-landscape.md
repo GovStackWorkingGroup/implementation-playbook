@@ -36,5 +36,5 @@ A single diagram can usually only hold the information on a subset of systems. I
 
 Example System Landscape Diagram:&#x20;
 
-<figure><img src="../../../.gitbook/assets/c4-system-landscape.webp" alt=""><figcaption><p>This diagram is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source: https://c4model.com/</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Adapted from https://c4model.com (CC BY 4.0). Changes made.</p></figcaption></figure>
 

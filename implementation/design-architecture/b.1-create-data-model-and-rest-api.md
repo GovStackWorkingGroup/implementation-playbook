@@ -26,13 +26,13 @@ The data model should be described in an ER diagram. While documenting the data 
 
 * Create separate data models for each bounded context.&#x20;
   * In case there are similar entities used in multiple contexts, DDD recommends to create a separate entity in each context's data model\
-    ![Source: https://martinfowler.com/bliki/BoundedContext.html](../../.gitbook/assets/sketch.png)
+    ![](<../../.gitbook/assets/image (78).png>)
   * There are multiple patterns how to handle such shared entities. It is impossible to give a hard recommendation here, because it depends too much on the specifics
-    * Documentation on Context Mapping Patterns
-      * [Context Mapping in Domain-Driven Design: Visualizing and Managing Bounded Contexts](https://softwarepatternslexicon.com/java/domain-driven-design-ddd-patterns/strategic-patterns/context-mapping/)
-      * [https://github.com/ddd-crew/context-mapping](https://github.com/ddd-crew/context-mapping)
-      * [Domain Driven Design | Deep dive into context mapping](https://medium.com/geekculture/domain-driven-design-deep-dive-into-context-mapping-f9cd8acddd7e)<br>
-    * Be wary though not to step into the trap of overengineering. Often the least complex approach will prove as the best. Only choose a more complex pattern if the added complexity actually adds a tangible value.
+  * Documentation on Context Mapping Patterns
+    * [Context Mapping in Domain-Driven Design: Visualizing and Managing Bounded Contexts](https://softwarepatternslexicon.com/java/domain-driven-design-ddd-patterns/strategic-patterns/context-mapping/)
+    * [https://github.com/ddd-crew/context-mapping](https://github.com/ddd-crew/context-mapping)
+    * [Domain Driven Design | Deep dive into context mapping](https://medium.com/geekculture/domain-driven-design-deep-dive-into-context-mapping-f9cd8acddd7e)<br>
+  * Be wary though not to step into the trap of overengineering. Often the least complex approach will prove as the best. Only choose a more complex pattern if the added complexity actually adds a tangible value.
 * Try to identify business components.
   * Usually a bounded context indicates that corresponding business component is needed.&#x20;
   * But even within a bounded context (or if no bounded contexts have been identified so far), it might be useful to divide the service even further into smaller business components
