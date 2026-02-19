@@ -27,9 +27,19 @@ More specifically, a **reference architecture** is the **blueprint** used to **p
 
 In PAERA specifically, the reference architecture explains the interactions between enterprise architecture practices and the GovStack “Building Block” approach so that high‑level leaders can see dependencies across the ecosystem while technical teams understand scope, sequencing, and the constraints under which digital transformation succeeds.
 
+### Example: Australian government architecture
+
+The following example illustrates how the principles described above are operationalized in practice: Australia's [reference architecture document](https://www.architecture.dta.gov.au/sp_aga2?id=aga2_how_to_use) structures capabilities and technologies into an orchestrated ecosystem that enables consistent digital service design and delivery (see figure & YouTube video below).
+
+<figure><img src="../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://architecture.digital.gov.au/sites/default/files/2023-07/22-0109%20Australian%20Government%20Architecture_v11.pdf">Reference Architecture</a></p></figcaption></figure>
+
+{% embed url="https://youtu.be/NSBtgW09mHo" %}
+Australian Whole of Government Architecture &#x20;
+{% endembed %}
+
 ### GovStack's perspective on government architecture
 
-Building on this understanding of Government Architecture as a strategic and systemic discipline, the GovStack initiative offers a concrete perspective on how architectural principles can be applied in practice to design, implement, and scale digital government solutions.
+Building on this understanding of Government Architecture as a strategic and systemic discipline, the GovStack initiative offers another concrete perspective on how architectural principles can be applied in practice to design, implement, and scale digital government solutions.
 
 GovStack is a global initiative designed to consolidate leading digital government practices derived from real-world implementations across diverse country contexts. Its core ambition is to establish a standardized reference architecture composed of interoperable digital Building Blocks that underpin a modern Digital Government operating model.
 
@@ -137,15 +147,7 @@ Beyond methodological considerations, Government Architecture requires a structu
 
 </details>
 
-## Example: Australian Government Architecture
 
-In Australia, their [reference architecture document](https://www.architecture.dta.gov.au/sp_aga2?id=aga2_how_to_use) provides digital teams the guidance they need to align current and emerging tech into a sound orchestration of solutions to enable digital government service design and delivery
-
-<figure><img src="../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://architecture.digital.gov.au/sites/default/files/2023-07/22-0109%20Australian%20Government%20Architecture_v11.pdf">Reference Architecture</a></p></figcaption></figure>
-
-{% embed url="https://youtu.be/NSBtgW09mHo" %}
-Australian Whole of Government Architecture &#x20;
-{% endembed %}
 
 ## Core components of a digital government
 
