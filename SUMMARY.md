@@ -34,8 +34,7 @@
 
 ## Implementation
 
-* [Catalogue Services](implementation/catalogue-services/README.md)
-  * [One-Stop-Shop](implementation/catalogue-services/one-stop-shop.md)
+* [Catalogue Services](implementation/catalogue-services.md)
 * [Prioritize Services](implementation/prioritize-services.md)
 * [Design Service](implementation/design-service/README.md)
   * [1 Understanding the Current Service (As-Is)](implementation/design-service/1-understanding-the-current-service-as-is/README.md)
