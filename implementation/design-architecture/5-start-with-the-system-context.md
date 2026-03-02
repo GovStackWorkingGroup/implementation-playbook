@@ -41,12 +41,15 @@ Identify all external systems your service needs to interact with and understand
 
 ### Identify external GovStack Building Blocks
 
-When documenting this, identify what "external" building blocks can be introduced as part of the solution (IAM, Messaging, Payment, Information Mediator, ...). A first check would be check if any proposals / recommendations have deen made during the service design phase. You should aim to reuse & share existing instances of those building blocks when possible.
+When documenting this, identify what "external" building blocks can be introduced as part of the solution (IAM, Messaging, Payment, Information Mediator, ...). A first step would be to check if any proposals/ recommendations have been made during the service design phase. You should aim to reuse & share existing instances of those building blocks when possible.
 
-Another source to check for potential building blocks is the context map, if available. If the context map contains "generic contexts", this generally means that there should be a building block offering this functionality. \
-\[TODO: Add image that show example context map. Reuse from Service Design Chapter if possible]
+Another source to check for potential building blocks is the context map, if available. If the context map contains "generic contexts", this generally means that there should be a building block offering this functionality.&#x20;
 
+**Example Domain-Driven Design (DDD) Context Map**
 
+<div align="left"><figure><img src="../../.gitbook/assets/Simplified context map .webp" alt=""><figcaption><p>Simplified context map for a fictitious XYZ bank (DDD Practitioners, n.d.)</p></figcaption></figure></div>
+
+_For readers unfamiliar with context mapping in Domain-Driven Design, additional background information is available at the following reference:_ [_https://ddd-practitioners.com/home/glossary/context-map/_](https://ddd-practitioners.com/home/glossary/context-map/)
 
 {% content-ref url="/broken/pages/lj87QjMctjqqlNj7C8D2" %}
 [Broken link](/broken/pages/lj87QjMctjqqlNj7C8D2)
