@@ -36,7 +36,7 @@ The recommendations of the EIF on how to achieve interoperability are in-depth e
 
 Frameworks and reference architectures defines layers of interoperability slightly different, but commonalities can be easily seen:
 
-| European Interoperability Framework | India's Interoperability Framework for e-Governance | ISO/IEC 21823-1:2019 Interoperability of IoT Systems            |
+| European Interoperability Framework | India's Interoperability Framework for e-Governance | ISO/IEC 21823-1:2019 Interoperability of IoT systems            |
 | ----------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- |
 | Technical Interoperability          | Technical Interoperability                          | <p>Transport Interoperability<br>Syntactic Interoperability</p> |
 | Semantic Interoperability           | Semantic Interoperability                           | Semantic Interoperability                                       |
@@ -78,7 +78,7 @@ By fulfilling these specific requirements, **GovStack defines three maturity sta
 
 <details>
 
-<summary>1.Protocol Interoperability</summary>
+<summary>1.Protocol interoperability</summary>
 
 This is the baseline state where systems can technically exchange data using shared protocols.
 
@@ -89,7 +89,7 @@ This is the baseline state where systems can technically exchange data using sha
 
 <details>
 
-<summary>2.Cross-Functional Interoperability</summary>
+<summary>2.Cross-functional interoperability</summary>
 
 This higher maturity state ensures that systems not only exchange data but also share a common understanding of how data is used in business processes. As a result, components that implement the same agreed behaviour can be substituted for one another without disrupting the overall service.
 
@@ -100,9 +100,9 @@ This higher maturity state ensures that systems not only exchange data but also 
 
 <details>
 
-<summary>3.Whole-of-Government</summary>
+<summary>3.Whole-of-government interoperability</summary>
 
-Whole‑of‑Government interoperability is reached when all parties agree not only on how data is exchanged, but also on how it is used.
+Whole‑of‑government interoperability is reached when all parties agree not only on how data is exchanged, but also on how it is used.
 
 * **Definition:** Technical systems are not only connected and functionally aligned but are also governed by a consistent legal and organizational framework.
 * **Requirements:** In GovStack, this state is achieved when all participants fulfil the GovStack architecture requirements, especially the cross‑cutting requirements in chapter 5, and implement the GovStack Building Block service API specifications, while government‑wide organizational, legal and semantic standards are in place, supported by GovStack’s PAERA document.
@@ -137,7 +137,7 @@ In this video, one can take a closer look at India Stack. Through its interopera
 {% endtab %}
 
 {% tab title="Singapore" %}
-**Singapore: Interoperability through National Digital Identity and Whole‑of‑Government Data Architecture**
+**Singapore: Interoperability through National Digital Identity and Whole‑of‑government data architecture**
 
 Singapore’s digital government model is built on the vision of creating a state that is “Digital to the Core, and Serves with Heart,” assisted by secure, interoperable digital infrastructure, thereby, facilitating seamless public‑service delivery. This vision is operationalized through the Digital Government Blueprint and Smart Nation frameworks, which outline cross‑agency coordination, standardized digital service requirements, and long‑term strategic alignment [(MDDI, 2025). ](https://www.mddi.gov.sg/what-we-do/digital-development/digital-government/)&#x20;
 
@@ -151,7 +151,7 @@ Singapore’s integrated digital ecosystem fosters scalable innovation, facilita
 {% endtab %}
 
 {% tab title="Rwanda" %}
-**Rwanda: An Interoperability model driving continental digital integration**
+**Rwanda: An interoperability model driving continental digital integration**
 
 Rwanda’s e-government transformation is steered by the Rwanda Government Enterprise Architecture (RGEA), which outlines the standardization of system design, integration, and management across public institutions. Its digital development agenda, rooted in National Information and Communication Infrastructure (NICI) Plans, the Smart Rwanda Master Plan, and Vision 2050, prioritizes interoperability to enable seamless service delivery across governance, health, education, finance, and agriculture. The country’s robust institutional alignment and international partnerships, for example, with JICA and South Korea’s NIA, further emphasize its promise to building integrated, interoperable systems ([Center for African Studies, 2025](https://e-governancehub.ru/wp-content/uploads/2025/07/E-Governance-in-Rwanda-2025-%E2%80%94-2025-05-16.pdf)).
 

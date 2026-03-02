@@ -431,17 +431,17 @@ _Suggested phasing for implementation of BBs_
 * Assess national digital capabilities and establish governance, legal alignment, and change-management structures.
 * Launch proof-of-concept services using core Building Blocks (e.g., identity, payments, low/no-code) to demonstrate value quickly.
 
-**Phase 2: High-Priority Use Cases**
+**Phase 2: High-priority Use Cases**
 
 * Select and rapidly prototype priority services, then implement them with local integrators and a common portal/front-end.
 * Train ministries and agencies on the GovStack approach to build awareness and adoption across government.&#x20;
 
-**Phase 3: Initial transformation**
+**Phase 3: Initial Transformation**
 
 * Industrialise digitalisation in key sectors: deploy digital wallet/portal, digitise registries, and automate priority administrative processes.
 * Align legislation and institutional processes to support scalable service delivery.
 
-**Phase 4: Mass-Scale transformation**
+**Phase 4: Mass-scale Transformation**
 
 * Expand to full end-to-end digital services across government using all Building Blocks and shared infrastructure.
 * Enable data-driven government operations, cross-sector integration, and nationwide service availability.

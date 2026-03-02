@@ -1,4 +1,4 @@
-# Maturity assessment
+# Maturity Assessment
 
 <figure><img src="../../.gitbook/assets/6. Digital Strategy and Governance (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -12,11 +12,11 @@ This section provides references to different maturity assessment approaches ste
 {% tab title="UNDP Digital Maturity Assessment" %}
 The [Digital Maturity Assessment](https://www.undp.org/sites/g/files/zskgke326/files/2022-08/UNDP_LaoPDR_DMA_2022.pdf) is designed to help governments worldwide assess their readiness to undertake digital transformation. It defines five maturity levels:
 
-1. **Digitally Nascent**&#x20;
-2. **Digitally Emerging**&#x20;
-3. **Digitally Agile and Integrated**&#x20;
+1. **Digitally nascent**&#x20;
+2. **Digitally emerging**&#x20;
+3. **Digitally agile and integrated**&#x20;
 4. **Digitally transformed**&#x20;
-5. **Digitally Innovative**
+5. **Digitally innovative**
 
 The UNDP Digital Maturity Assessment can be used to evaluate the current potential for digital government across six key pillars that include: Technology and Solutions, Policy and Regulations, Skills and Capacity Building, User Centricity, Service Definition and Delivery, Institutional Framework, and Collaboration.
 
@@ -35,7 +35,7 @@ Encompassing consistent data sources across 198 countries, the GTMI complements 
 The [Digital Government Index (DGI)](https://goingdigital.oecd.org/en/indicator/58) is an assessment and benchmarking tool that can be employed to gauge the maturity of digital government policies and their implementation under a coherent and whole-of-government approach. The DGI can help governments gain a more solid understanding of their ability to operate in an increasingly digital and globalized context.
 {% endtab %}
 
-{% tab title="Digital Maturity Assessment in Health Sector by NHS England" %}
+{% tab title="Digital Maturity Assessment in health sector by NHS England" %}
 The [Digital Maturity Self-Assessment](https://www.england.nhs.uk/digitaltechnology/connecteddigitalsystems/maturity-index/) adopts a sectoral approach to measure how well secondary providers in England are using digital technologies to achieve a paper-free healthcare system. The Digital Maturity Self-Assessment helps individual organizations identify key strengths and service delivery gaps. Taken together, these individual self-assessments provide an overview of digital maturity progress across the country.
 {% endtab %}
 
@@ -82,7 +82,7 @@ IMAPS (European Commission 2022) looks at three different service areas (see IMA
 {% endtab %}
 {% endtabs %}
 
-## 2. Private Sector
+## 2. Private sector
 
 {% tabs %}
 {% tab title="5 levels of digital government maturity by Gartner" %}
@@ -92,7 +92,7 @@ Gartner’s 5 level maturity model includes:
 
 <details>
 
-<summary>Level 1: Initial (E-Government) </summary>
+<summary>Level 1: Initial (e-government) </summary>
 
 ### Initial (E-Government)&#x20;
 
@@ -102,7 +102,7 @@ At this level, the focus is on moving services online for user convenience and c
 
 <details>
 
-<summary>Level 2: Developing (Open) </summary>
+<summary>Level 2: Developing (open) </summary>
 
 ### Developing (Open)&#x20;
 
@@ -112,7 +112,7 @@ Level 2 is not necessarily subsequent to level 1. E-government and open governme
 
 <details>
 
-<summary>Level 3: Defined (Data-Centric) </summary>
+<summary>Level 3: Defined (data-centric) </summary>
 
 ### Defined (Data-Centric)&#x20;
 
@@ -122,7 +122,7 @@ At this level the focus shifts from simply listening to citizen or user needs to
 
 <details>
 
-<summary>Level 4: Managed (Fully Digital) </summary>
+<summary>Level 4: Managed (fully digital) </summary>
 
 ### Managed (Fully Digital)&#x20;
 
@@ -132,7 +132,7 @@ By this level, the organization, agency or department has fully committed to a d
 
 <details>
 
-<summary>Stage 5: Optimizing (Smart) </summary>
+<summary>Stage 5: Optimizing (smart) </summary>
 
 ### Optimizing (Smart)&#x20;
 
@@ -155,7 +155,7 @@ For maturity models fod ITSM see also: [https://www.bmc.com/blogs/maturity-model
 ## 3. Academia
 
 {% tabs %}
-{% tab title="Comparing and Contrasting e-Government Maturity Models" %}
+{% tab title="Comparing and contrasting e-Government maturity models" %}
 [Comparing and Contrasting e-Government Maturity Models: A Qualitative-Meta Synthesis](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf) (Almuftah, Weerakkody, and Sivarajah 2016) article compares 17 different e-government models. It emphasizes that most models have three main stages that capture the following dimensions: presence, communication, and integration. The table below shows the mapping of each model’s stage to the three proposed main stages (presence, communication, and integration).
 
 <figure><img src="../../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# 1 - Analyze Requirements
+# 4 Analyze Requirements
 
 The first step in planning the architecture is to look at the requirements and other inputs (see [#inputs](architecture-design-overview.md#inputs "mention") ), which are mostly the results from the previous phase. The goal of this step is to establish full understanding of the service being developed. That will be the basis for all architectural decisions.
 
@@ -20,7 +20,7 @@ Walk through the service blueprint and prototypes. For each stage of the service
 
 This helps to uncover complexity and dependencies in the service. Note down any assumptions, gaps or uncertainties.
 
-## Non-Functional Requirements
+## Non-functional requirements
 
 Another important artifact that is often overlooked are non-functional requirements & quantities / sizing requirements. Make sure to check:
 

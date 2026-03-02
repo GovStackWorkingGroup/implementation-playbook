@@ -4,7 +4,7 @@ There are some basic questions about Change management which emerge in practice 
 
 <details>
 
-<summary>Change Management Questions</summary>
+<summary>Change management questions</summary>
 
 1. _**Do change management right the first time (or at least try to do)**_
 
@@ -97,7 +97,7 @@ In this sense, human behavior plays a significant role in both the impact of and
 
 </details>
 
-#### **Change Management Tools** <a href="#change-management-tools" id="change-management-tools"></a>
+#### **Change management tools** <a href="#change-management-tools" id="change-management-tools"></a>
 
 Operational and practical tools are well known and usually used by the practitioners of Change Management, complementing those traditional of Project Management. In many cases they are based in several of the models and methodologies already mentioned.
 
@@ -105,7 +105,7 @@ Some toolkits are better suited to [policymakers](https://oecd-opsi.org/search-t
 
 Some toolkits touch on skills and behaviours important for digital transformations. Skills and team formation is important, so browse toolkits that reference [team formation](https://oecd-opsi.org/search-toolkits/?_sft_good-for=build-a-team) or [collaboration](https://oecd-opsi.org/search-toolkits/?_sft_good-for=collaboration).
 
-**Main tools used in Change Management:**
+**Main tools used in change management:**
 
 {% tabs %}
 {% tab title="The mourning curve" %}

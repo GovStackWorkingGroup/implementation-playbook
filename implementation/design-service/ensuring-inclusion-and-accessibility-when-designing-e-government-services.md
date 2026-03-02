@@ -1,6 +1,6 @@
 # Ensuring Inclusion and Accessibility When Designing E-Government Services
 
-### Why Inclusive and Accessible Digital Services Matter <a href="#why-inclusive-and-accessible-digital-services-matter" id="why-inclusive-and-accessible-digital-services-matter"></a>
+### Why inclusive and accessible digital services matter <a href="#why-inclusive-and-accessible-digital-services-matter" id="why-inclusive-and-accessible-digital-services-matter"></a>
 
 Over the past couple of years, the topic of inclusion and accessibility has increased in importance not only socially but also legally since approximately 15% of the world’s population experience some sort of disability (see figure below) _(AllAccessible, 2022)_. When designing digital government services, it is thus focal to ensure that every citizen, regardless of their abilities, language, gender, or social status, is given the opportunity to access digital government programs _(United Nations Office at Geneva, n.d.)_.
 
@@ -14,7 +14,7 @@ Moreover, the UK government provides a summary of the most important information
 
 
 
-### Ensuring Accessibility for all Citizen <a href="#ensuring-accessibility-for-all-citizen" id="ensuring-accessibility-for-all-citizen"></a>
+### Ensuring accessibility for all citizen <a href="#ensuring-accessibility-for-all-citizen" id="ensuring-accessibility-for-all-citizen"></a>
 
 In order to properly design digital government services, countries need to anchor accessibility in their vision, principles, and governance structures. This requires countries to:
 
@@ -24,7 +24,7 @@ In order to properly design digital government services, countries need to ancho
 
 
 
-### Legal, Technical & Organizational Requirements <a href="#legal-technical-and-organizational-requirements" id="legal-technical-and-organizational-requirements"></a>
+### Legal, technical & organizational requirements <a href="#legal-technical-and-organizational-requirements" id="legal-technical-and-organizational-requirements"></a>
 
 When ensuring inclusion and accessibility via legislation, EU legislation and standards can act as a good example:
 
@@ -37,7 +37,7 @@ Based on this, each EU member state designs its own digital accessibility framew
 
 <figure><img src="../../.gitbook/assets/Picture1 (1).png" alt=""><figcaption><p>Laws and Guidelines for Accessibility <em>(Capgemini Invent, 2025)</em></p></figcaption></figure>
 
-### Barriers to Accessibility & How they Can Be Overcome  <a href="#barriers-to-accessibility-and-how-they-can-be-overcome" id="barriers-to-accessibility-and-how-they-can-be-overcome"></a>
+### Barriers to accessibility & how they can be overcome  <a href="#barriers-to-accessibility-and-how-they-can-be-overcome" id="barriers-to-accessibility-and-how-they-can-be-overcome"></a>
 
 1. **Technical Barriers:**&#x20;
 
@@ -88,16 +88,16 @@ In order to implement inclusion and accessibility optimally, various roles must 
 
 
 
-### Best Practices for Sustainable Implementation (Optional) <a href="#best-practices-for-sustainable-implementation" id="best-practices-for-sustainable-implementation"></a>
+### Best practices for sustainable implementation (optional) <a href="#best-practices-for-sustainable-implementation" id="best-practices-for-sustainable-implementation"></a>
 
 Below are best practice examples with regard to digital inclusion that are already being implemented by governments:
 
-* **Development of Comprehensive Online Government Portals:** Nations as the UK and Estonia demonstrate that central platforms (e.g., [http://gov.uk/](http://gov.uk/)) enable citizens to access all government services easily and consistently [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
-* **Strong Digital Identity Frameworks:** Universal digital IDs reduce barriers for remote users, people with disabilities, or people without complicated technical equipment [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
-* **Constant Accessibility Reviews According to WCAG:** Ongoing accessibility testing assures that digital services comply with standards [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
-* **Mobile-First Design:** Services should function optimally on mobile devices to increase the user rate [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
-* **Creating Inclusive E-Governance Innovations:** Digital signatures, e-residency, and online citizen services are examples of pioneering tools that improve participation [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
-* **Multi-Stakeholder Approach:** To achieve digital inclusion, political decision-makers, administrators, NGOs, educators, corporations, and citizens should work together [_(Morte-Nadal und Esteban-Navarro, 2022)._](https://doi.org/10.1177/16094069211070935)
+* **Development of comprehensive online government portals:** Nations as the UK and Estonia demonstrate that central platforms (e.g., [http://gov.uk/](http://gov.uk/)) enable citizens to access all government services easily and consistently [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
+* **Strong digital identity frameworks:** Universal digital IDs reduce barriers for remote users, people with disabilities, or people without complicated technical equipment [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
+* **Constant accessibility reviews according to WCAG:** Ongoing accessibility testing assures that digital services comply with standards [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
+* **Mobile-first design:** Services should function optimally on mobile devices to increase the user rate [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
+* **Creating inclusive e-Governance innovations:** Digital signatures, e-residency, and online citizen services are examples of pioneering tools that improve participation [_(Sarma & Vethantham, 2025)_.](https://www.continualengine.com/blog/inclusive-government-digital-documents/)
+* **Multi-stakeholder approach:** To achieve digital inclusion, political decision-makers, administrators, NGOs, educators, corporations, and citizens should work together [_(Morte-Nadal und Esteban-Navarro, 2022)._](https://doi.org/10.1177/16094069211070935)
 
 To provide an overview of different types of disabilities and the dos and don'ts of inclusion, the UK government has published the following chart below:
 

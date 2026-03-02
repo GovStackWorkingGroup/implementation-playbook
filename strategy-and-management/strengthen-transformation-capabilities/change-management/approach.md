@@ -2,7 +2,7 @@
 
 The Digital Journey implies a holistic effort to rethink and transform the core processes of government beyond the traditional digitization efforts. It evolves along a continuum from the use of new working methods and relations with the citizens, to changes in IT contracting practices and organizational change initiatives that involve the whole organization's ecosystem.
 
-#### **Definition of Change Management** <a href="#definition-of-change-management" id="definition-of-change-management"></a>
+#### **Definition of change management** <a href="#definition-of-change-management" id="definition-of-change-management"></a>
 
 Change management can be defined as the methods and manners in which an organization describes and implements change within both its internal and external processes. It encompasses not only the technical aspects but also the human side of change.
 

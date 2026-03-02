@@ -4,7 +4,7 @@ This chapter describes a process to guide you in designing an architecture for a
 
 In designing the architecture, you depend on a lot of [#inputs](architecture-design-overview.md#inputs "mention") from the previous phases and architecture governance, while creating a range of [#outputs](architecture-design-overview.md#outputs "mention").
 
-## Before You Start
+## Before you start
 
 Before you start you need to establish the participants for this phase and gather the inputs required for this phase:
 
@@ -39,7 +39,7 @@ A non exhaustive list includes:
   * Additional documentation of existing instances of Building Blocks (if available)
 * API specification of external systems
 
-## Criteria for Success
+## Criteria for success
 
 ### Outputs
 

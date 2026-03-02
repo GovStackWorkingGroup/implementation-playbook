@@ -2,9 +2,9 @@
 
 _Disclaimer: This subchapter draws on key findings and insights from the recently published (October 2025) “_[_EAC Digital Public Infrastructure (DPI) Needs Assessment Report_](https://www.eac.int/index.php?option=com_documentmananger\&task=download.document\&file=bWFpbl9kb2N1bWVudHNfcGRmX3dYYUd2WXV3Vll3cWpUVW9GdlhkVkRNRUFDIERQSSBSZXBvcnRfR0laXzAyMTEyMDI1MQ==\&counter=1639)_”. For detailed analysis, underlying evidence, and full references, please refer to the original report._&#x20;
 
-## Why Cross-Border DPI Matters for the EAC&#x20;
+## Why cross-border DPI matters for the EAC&#x20;
 
-#### The EAC Context: Regional Integration with Uneven Digital Maturity
+#### The EAC Context: Regional integration with uneven digital maturity
 
 The East African Community (EAC) aims to develop deep regional integration through its Common Market and Monetary Union ambitions. Digital Public Infrastructure (DPI) is increasingly regarded as a practical mechanism in order to operationalize these commitments by enabling the seamless movement of people, services, capital, and data across borders. However, it is emphasized, that the EAC operates in an environment categorized by highly uneven digital maturity among its partner states. In fact, Kenya, Rwanda, Tanzania, and Uganda have established relatively advanced digital payment systems, e-government platforms, and foundational registries, while Burundi, the Democratic Republic of Congo (DRC), Somalia, and South Sudan are still developing core digital as well as institutional foundations.&#x20;
 
@@ -18,7 +18,7 @@ Hence, the DPI+ approach places DPI not as a set of standalone IT systems, but a
 
 <div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/Updated DPI+ Approach.png" alt="" width="563"><figcaption><p>Author's own visualization, based on the EAC Digital Public Infrastructure Needs Assessment Report (2025)</p></figcaption></figure></div>
 
-## Strategic Benefits of Cross-Border DPI in the EAC
+## Strategic benefits of cross-border DPI in the EAC
 
 Building on the above-mentioned context, this section outlines the concrete strategic benefits of cross-border DPI for the EAC, highlighting how shared digital foundations can translate regional ambitions into concrete economic, institutional, and social gains.
 
@@ -62,11 +62,11 @@ Cross-border Digital Public Infrastructure (DPI) is thus relevant in this contex
 
 </details>
 
-## Best-Practice Examples from the EAC Region&#x20;
+## Best-practice examples from the EAC Region&#x20;
 
 These strategic benefits are already emerging in practice across the EAC, as illustrated by a set of concrete cross-border DPI initiatives highlighted in this section:
 
-#### Best Practice 1: East African Payments Systems (EAPS)&#x20;
+#### Best practice 1: East African Payments Systems (EAPS)&#x20;
 
 The East African Payments System (EAPS) is a foundational cross-border payments infrastructure established by EAC central banks in order to address inefficiencies in intra-regional trade and financial flows. By interlinking national real-time gross settlement (RTGS) systems, EAPS enables direct interbank settlement across Partner States, decreasing the reliance on foreign correspondent banks and external currencies. This improves regional economic sovereignty and supports high-value trade, government payments, as well as formal cross-border financial transactions while preserving national control over monetary policy and supervision. &#x20;
 
@@ -74,7 +74,7 @@ At the same time, EAPS illustrates key limitations of foundational DPI. In fact,
 
 <figure><img src="../../.gitbook/assets/New Best Practice 1.png" alt=""><figcaption><p>Author's own visualization, based on the EAC Digital Public Infrastructure Needs Assessment Report (2025)</p></figcaption></figure>
 
-#### Best Practice 2: Cross-Border Mobile Money Interoperability&#x20;
+#### Best practice 2: Cross-border mobile money interoperability&#x20;
 
 Cross-border mobile money can be highlighted as one of the most mature and widely used regional payment mechanisms in the EAC, enabled by high mobile penetration, extensive agent networks, and simple USSD-based services. Through bilateral and multilateral agreements, mobile money operators such as M-Pesa, MTN MoMo, Airtel Money, Tigo and Vodacom have enabled real-time wallet-to-wallet transfers across key corridors including Kenya-Tanzania, Kenya-Uganda, Kenya-Rwanda and Uganda-Tanzania (most active ones). These services are widely utilized for remittances, informal trade and personal transfers, particularly by unbanked users, women and rural populations, supporting intra-regional trade and AfCFTAobjectives.&#x20;
 
@@ -82,7 +82,7 @@ It is emphasized, that at scale, mobile money has significantly advanced financi
 
 <figure><img src="../../.gitbook/assets/New Best Practice 2.png" alt=""><figcaption><p>Author's own visualization, based on the EAC Digital Public Infrastructure Needs Assessment Report (2025)</p></figcaption></figure>
 
-#### Best Practice 3: Trade Logistics Information Pipeline (TLIP)&#x20;
+#### Best practice 3: Trade Logistics Information Pipeline (TLIP)&#x20;
 
 The Trade Logistics Information Pipeline, [TLIP](https://www.tlip.io/about-us), is a regional digital system aimed at automating and connecting cross-border trade processes in the East African Community. It enables the secure, near real time exchange of trade, logistics and regulatory data between traders, logistics providers and public authorities. TLIP connects national Electronic Single Windows and customs systems, allowing documents such as permits, certificates and cargo information to be submitted once and reused across borders, decreasing duplication, delays and manual processing.&#x20;
 
@@ -94,7 +94,7 @@ TLIP is implemented along key EAC trade corridors, including the Northern and Ce
 (TradeMark Africa, 2024)
 {% endembed %}
 
-#### Best Practice 4: Mutual Recognition of Professional Qualifications (MRPQ) &#x20;
+#### Best practice 4: Mutual Recognition of Professional Qualifications (MRPQ) &#x20;
 
 The EAC Common Market Protocol recognizes [Mutual Recognition Agreements (MRAs)](https://www.eac.int/education/mutual-recognition-agreements) as the legal basis for cross-border practice in regulated professions such as accountancy, engineering, architecture, and veterinary medicine. In practice, however, recognition remains slow and fragmented, relying on manual, paper-based verification across national professional bodies. This thus can lead to delays of months or years, increase costs, as well as weaken labor mobility and service trade within the Common Market. Furthermore, recent assessments also highlight the absence of standardized, interoperable verification mechanisms among regulators, limiting the effective implementation of MRAs despite strong legal foundations.&#x20;
 
@@ -106,7 +106,7 @@ Finally, the comparative overview below synthesizes the preceding best-practice 
 
 <figure><img src="../../.gitbook/assets/Best Practices Overview Table.png" alt=""><figcaption><p>(EAC, 2025; ECDPM authors)</p></figcaption></figure>
 
-## Roadmap for the East Africa Stack: Policy Options and Recommendations&#x20;
+## Roadmap for the East Africa Stack: Policy options and recommendations&#x20;
 
 Taken together, the above-mentioned best-practice examples highlight both the progress achieved, as well as the structural gaps that remain in the cross-border DPI implementation across the EAC. It thus underscores the need for a targeted roadmap of policy options and recommendations to fully realize its value at scale:&#x20;
 

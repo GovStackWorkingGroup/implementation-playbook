@@ -117,7 +117,7 @@ The GovStack implementation framework considers incorporating a BB approach at t
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>GovStack Implementation Framework</em></p></figcaption></figure>
 
-## GovStack Terminology
+## GovStack terminology
 
 The single point of access to GovStack's terminology can be found here: [https://specs.govstack.global/architecture/development/2-common-terminology](https://specs.govstack.global/architecture/development/2-common-terminology)
 

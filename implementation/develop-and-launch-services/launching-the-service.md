@@ -19,7 +19,7 @@ The service is ready to be launched in a production environment once the functio
 * Iterate and improve the service based on user feedback and [service performance](https://www.gov.uk/service-manual/measuring-success). For example: Increase infrastructure if the service has a higher demand than expected, adjust infographics and information sheets to better clarify user questions, and guide them in using the service to its best potential.
 {% endtab %}
 
-{% tab title="Responsabilites" %}
+{% tab title="Responsibilites" %}
 Who does what:
 
 * [Service Owner ](../../strategy-and-management/strengthen-transformation-capabilities/digital-team-composition/user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service

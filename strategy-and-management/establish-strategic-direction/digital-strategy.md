@@ -18,7 +18,7 @@ At the center, **“Growth and Well-being”** reflects the overarching goal of 
 
 
 
-### Why Digital Strategies matter <a href="#why-digital-strategies-matter" id="why-digital-strategies-matter"></a>
+### Why digital strategies matter <a href="#why-digital-strategies-matter" id="why-digital-strategies-matter"></a>
 
 Digital strategies matter because …
 
@@ -28,13 +28,13 @@ Digital strategies matter because …
 
 
 
-### Typical Topics & Implementation Steps Covered in a National Digital Strategy <a href="#typical-topics-and-implementation-steps-covered-in-a-national-digital-strategy" id="typical-topics-and-implementation-steps-covered-in-a-national-digital-strategy"></a>
+### Typical topics & implementation steps covered in a National Digital Strategy <a href="#typical-topics-and-implementation-steps-covered-in-a-national-digital-strategy" id="typical-topics-and-implementation-steps-covered-in-a-national-digital-strategy"></a>
 
 Most digital strategies follow a clear structure in order to ensure coherence, inclusiveness, and long-term sustainability. Some typical topics/chapters include (OECD, 2022):
 
 <details>
 
-<summary>1) Initiation &#x26; Mandate Setting</summary>
+<summary>1) Initiation &#x26; mandate setting</summary>
 
 **Set up vision, mission, and strategic objectives:** A National Digital Strategy usually starts with a national vision and mission that depicts the specific long-term ambition for digital transformation, before describing a set of strategic objectives defining what governments are intending to achieve over a period of time.
 
@@ -48,7 +48,7 @@ _Implementation Steps:_
 
 <details>
 
-<summary>2) Digital Ecosystem Assessment</summary>
+<summary>2) Digital ecosystem assessment</summary>
 
 **Develop current-state and digital maturity assessment:** Most strategies delineate the current-state or digital maturity assessment. This includes the status of connectivity, digital public infrastructure, interoperability, digital literacy, institutional capacity, as well as the maturity of existing public services. This assessment is designed to aid in identifying gaps and barriers that the strategy must address.
 
@@ -62,7 +62,7 @@ _Implementation Steps:_
 
 <details>
 
-<summary>3) Vision, Strategic Objectives and Action Lines Co-Design</summary>
+<summary>3) Vision, strategic objectives and action lines co-design</summary>
 
 **Determine priority areas or action lines:** The creation of priority areas is a key component of a National Digital Strategy – often referred to as “action lines”. These can typically include digital infrastructure, foundational digital public infrastructure (e.g. digital ID, digital payments, data exchange), cybersecurity and privacy, digital public services, digital skills and inclusion, and innovation ecosystem development.
 
@@ -77,7 +77,7 @@ _Implementation Steps:_
 
 <details>
 
-<summary>4) Action Plan Development and Implementation Roadmap</summary>
+<summary>4) Action plan development and implementation roadmap</summary>
 
 **Ensure process of monitoring and evaluating:** A good strategy comprise rules for creating a KPI framework, depicting how progress will be specifically measured and communicated publicly. Ultimately, most strategies conclude with a concrete implementation roadmap delineating activities, milestones and sequencing.
 
@@ -97,7 +97,7 @@ _Implementation Steps:_
 
 <details>
 
-<summary>5) Financing and Resource Mobilization</summary>
+<summary>5) Financing and resource mobilization</summary>
 
 **Determine financial & human resources:** Digital transformation is tremendously relying on sustained financial and human resources. This element of the strategy specifically depicts funding models and long-term investment needs.
 
@@ -111,7 +111,7 @@ _Implementation Steps:_
 
 <details>
 
-<summary>6) Implementation of Priority Building Blocks &#x26; Digital Services</summary>
+<summary>6) Implementation of priority Building Blocks &#x26; digital services</summary>
 
 **Implement Building Blocks:** Foundational digital public infrastructure (DPI) and GovStack-aligned building blocks (BB’s) are used to enable scalable, user-centric digital services.
 
@@ -129,7 +129,7 @@ _Implementation Steps:_
 
 
 
-### Examples of Digital Strategies <a href="#examples-of-digital-strategies" id="examples-of-digital-strategies"></a>
+### Examples of digital strategies <a href="#examples-of-digital-strategies" id="examples-of-digital-strategies"></a>
 
 * In Australia, the [Digital Agenda (Digital Transformation Agency n.d.)](https://www.dta.gov.au/digital-government-strategy) sets 2025 as the target to have all government services available digitally.
 

@@ -1,4 +1,4 @@
-# Capacity building
+# Capacity Building
 
 This section builds on insights for capacity development and knowledge-sharing, which are essential for the success of digital transformation. Digital government is rooted in a vision that strongly believes in continuous learning for the ultimate beneficiaries of its initiatives: governments and their citizens.
 
@@ -15,7 +15,7 @@ It describes:
 
 &#x20; 3\. Digital skills in relation to capacity building
 
-&#x20; 4\. Assessment of capacity.
+&#x20; 4\. Assessment of capacity
 
 &#x20; 5\. Academic support to Capacity development
 {% endhint %}

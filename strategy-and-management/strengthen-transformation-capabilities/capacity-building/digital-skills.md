@@ -1,11 +1,11 @@
-# Digital skills
+# Digital Skills
 
 ## Why digital skills are needed? &#x20;
 
 Today’s ever-changing technology landscape requires a combination of knowledge and skills that is very different from what it was few years ago. Having digital skills enables individuals to fully participate in their social and professional lives. For example, the “new normal” following the COVID-19 pandemic has highlighted the challenges that still exist when it comes to connecting households and people, and the digital skills required to participate effectively in an increasingly digital world. The need for a digitally competent population and the demand for a digitally skilled workforce have grown even more pronounced today.
 
 {% tabs %}
-{% tab title="Digital Skills" %}
+{% tab title="Digital skills" %}
 #### What are Digital Skills?&#x20;
 
 Digital skills include a “combination of behaviors, expertise, know-how, work habits, character traits, dispositions and critical understandings” [(Broadband Commission, 2017). ](https://www.broadbandcommission.org/Documents/publications/WG-Education-Report2017.pdf)Thus, digital skills could be further divided into multiple different skills as follows: &#x20;
@@ -19,7 +19,7 @@ Digital skills include a “combination of behaviors, expertise, know-how, work 
 * _**Other skills supplementary**_ to digital skills: the ability to apply skills in practice, proficiency in the English or the working language, presentation skills, mind-set and behavior in terms of self-motivation to learn, interest in lifelong learning, and a “go the extra mile” mentality.
 {% endtab %}
 
-{% tab title="Technical Skills to support GovStack Approach" %}
+{% tab title="Technical skills to support GovStack's approach" %}
 GovStack is a unique approach that emphasizes the use of building blocks over existing monolithic solutions. This approach calls for a few more additional skills to what has been described as part of digital skills.
 
 The following are suggested **technical focus areas** that are recommended for the implementation of the GovStack Approach. These skills may be acquired by various stakeholders as relevant to them.&#x20;
@@ -63,16 +63,16 @@ The following are suggested **technical focus areas** that are recommended for t
 * Citizen engagement
 {% endtab %}
 
-{% tab title="GovStack approach of digitilization" %}
+{% tab title="GovStack's approach of digitilization" %}
 #### How digital skills helps countries to implement the GovStack approach
 
 The proposed behaviour, knowledge, and skills will come in hand at various stages of the stakeholders’ activities lifecycle. For example, a citizen can learn about GovStack through citizen engagement activities and demand for non-listed services. Similarly, a government department can gain a better understanding of what key competencies it needs to conceptualize, design/co-design, plan, and implement various digitalization activities while adopting the GovStack Approach.
 {% endtab %}
 {% endtabs %}
 
-## Stakeholders Who Support Capacity Building
+## Stakeholders who support Capacity Building
 
-### Stakeholder Responsibility and Roles
+### Stakeholder responsibility and roles
 
 There can be different kind of stakeholders (government and internal) and external stakeholders who support capacity building during the digital transformation process. GovStack has identified various internal stakeholder profiles that support the implementation of citizen centric digital government services. The profiles are as follows:&#x20;
 
@@ -120,12 +120,12 @@ These are the actual users of applications. These are people who either a) deliv
 
 </details>
 
-## Training Delivery to support digital services
+## Training delivery to support digital services
 
 GovStack approach provides different training topics in accordance with user profiles which support to better implement the GovStack approach. In order to establish right approach and move towards digital services first the general knowledge according the GovStack eco system as well digital governance era with respect to digital transformation is needed. GovStack has developed main training topics to each stakeholder who will be involved with the GovStack implantation journey and is involved or assist digital teams. However, many open-source courses are available which can support our approach during the implementation stages.&#x20;
 
 {% tabs %}
-{% tab title="Tenets of Training Programs" %}
+{% tab title="Tenets of training programs" %}
 The main tenets of such training programs are - &#x20;
 
 1\. Easily understandable training content&#x20;

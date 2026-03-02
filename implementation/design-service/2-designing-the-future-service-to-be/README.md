@@ -1,6 +1,6 @@
-# B) Designing the Future Service (To-Be)\*
+# 2 Designing the Future Service (To-Be)
 
-## Before you start to-be
+## Before you start To-be
 
 \
 Before you start, check:

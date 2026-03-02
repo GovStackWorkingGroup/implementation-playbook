@@ -4,7 +4,7 @@
 
 This **chapter** is **designed for government leaders and teams who are responsible for shaping their country’s digital future**. Its purpose is to help understand what a “Digital Public Infrastructure” (DPI) is, why it matters for national development, and how specifically GovStack supports practical implementation of DPI when building or improving digital citizen services.
 
-### Digital Public Infrastructure: Foundations, Enablers, and National Assessment <a href="#digital-public-infrastructure-foundations-enablers-and-national-assessment" id="digital-public-infrastructure-foundations-enablers-and-national-assessment"></a>
+### Digital Public Infrastructure: foundations, enablers, and national assessment <a href="#digital-public-infrastructure-foundations-enablers-and-national-assessment" id="digital-public-infrastructure-foundations-enablers-and-national-assessment"></a>
 
 The expression “Digital Public Infrastructure”, or in short DPI, refers to **shared digital systems, standards, and governance frameworks** which **facilitate secure and trusted interactions across a society** (UNDP, 2021).
 
@@ -28,7 +28,7 @@ Taken collectively, these prerequisites shape the enabling environment required 
 
 <details>
 
-<summary>1.Digital Infrastructure Readiness</summary>
+<summary>1.Digital Infrastructure readiness</summary>
 
 This layer delineates the technical foundations, including:
 
@@ -40,7 +40,7 @@ This layer delineates the technical foundations, including:
 
 <details>
 
-<summary>2.Policy, Legal, and Regulatory Frameworks</summary>
+<summary>2.Policy, legal, and regulatory frameworks</summary>
 
 A complete DPI ecosystem necessitates layered policy instruments, which can be visualized through the legal framework pyramid (see figure below):
 
@@ -56,7 +56,7 @@ These layers together build the normative foundation for DPI.
 
 <details>
 
-<summary>3.Governance and Institutional Arrangements</summary>
+<summary>3.Governance and institutional arrangements</summary>
 
 **Effective DPI** also **requires clear governance structures** to ensure coordination, accountability, and long-term sustainability. **These** **structures are reflected in models** such **as** the **GovStack’s government architecture framework** (PAERA [https://govstack.gitbook.io/paera](https://govstack.gitbook.io/paera)) (see figure below) and typically include:
 
@@ -73,7 +73,7 @@ These governance pillars are showcasing how organizational and policy layers mus
 
 <details>
 
-<summary>4.People-Centric Systems &#x26; Inclusion</summary>
+<summary>4.People-centric systems &#x26; inclusion</summary>
 
 Finally, **DPI must include safeguards** as well as **inclusion principles**, illustrated in the “Foundational and Operational DPI Safeguards Principle” graphic below and aligned with the UN’s Universal DPI Safeguards Framework [UN Universal Safeguards for Inclusive Digital Public Infrastructure](https://www.dpi-safeguards.org/). These emphasize the need to ensure:
 
@@ -129,7 +129,7 @@ Following a **wide definition** of DPI, GovStack’s full scope of a government 
 
 
 
-### GovStack’s Design principles for interoperable and inclusive digital public infrastructure <a href="#govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure" id="govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure"></a>
+### GovStack’s design principles for interoperable and inclusive digital public infrastructure <a href="#govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure" id="govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure"></a>
 
 GovStack is guided by [**human-centred design principles**](https://playbook.govstack.global/designing/service-design/govstack-design-principles), placing the needs, capabilities, and rights of users at the centre of digital public infrastructure. This includes ensuring that digital services are intuitive, accessible, and inclusive by design.
 
@@ -139,9 +139,9 @@ These principles are further reinforced through our alignment with the Digital P
 
 
 
-### How DPI Unlocks Scalable and Inclusive E-Government Services <a href="#how-dpi-unlocks-scalable-and-inclusive-e-government-services" id="how-dpi-unlocks-scalable-and-inclusive-e-government-services"></a>
+### How DPI unlocks scalable and inclusive e-government services <a href="#how-dpi-unlocks-scalable-and-inclusive-e-government-services" id="how-dpi-unlocks-scalable-and-inclusive-e-government-services"></a>
 
-#### **Why Services Matter for DPI** <a href="#why-services-matter-for-dpi" id="why-services-matter-for-dpi"></a>
+#### **Why services matter for DPI** <a href="#why-services-matter-for-dpi" id="why-services-matter-for-dpi"></a>
 
 While the **underlying digital rails** are **provided by DPI**, its **full potential** **is** only **realized** **when** it is **applied** **to** **deliver specific services** that institutions and citizens depend on. In fact, e-government services operationalize DPI’s capabilities and convert them into useful results. Without DPI, digital services can still exist, but they remain siloed, hard to scale, and expensive to maintain.
 
@@ -159,7 +159,7 @@ Ultimately, **DPI-enabled services yield** both **efficiency gains**, as well as
 
 This means that **whenever digital services are being built** by governments, **DPI principles must be followed** (interoperability, reusability, shared infrastructure) – enabling that the services can scale across ministries and truly support national digital development.
 
-#### **How DPI Powers Different Types of E-Government Services** <a href="#how-dpi-powers-different-types-of-e-government-services" id="how-dpi-powers-different-types-of-e-government-services"></a>
+#### **How DPI powers different types of e-government services** <a href="#how-dpi-powers-different-types-of-e-government-services" id="how-dpi-powers-different-types-of-e-government-services"></a>
 
 A wide range of **e-government services** tremendously **depend** **on** the specific **capabilities** that are being **provided by** the **DPI –** including digital identity, and authentication, secure digital payments, consent and authorization mechanisms, interoperable data exchange, and core registries that enable services to reliably access and verify information.
 
@@ -167,7 +167,7 @@ These services can be broken down into three broader categories:
 
 <details>
 
-<summary>1.Identity-enabled Services</summary>
+<summary>1.Identity-enabled services</summary>
 
 The **first category** depicts **identity-enabled services** (See figure below), just as civil registration, driver’s licensing, voter enrollment, access to health or education portals, as well as enrollment in social protection schemes. These services tremendously rely on secure identification and authentication in order to verify eligibility, enable accuracy, and enhance access to sensitive information.
 
@@ -177,7 +177,7 @@ The **first category** depicts **identity-enabled services** (See figure below),
 
 <details>
 
-<summary>2.Payment-enabled Services</summary>
+<summary>2.Payment-enabled services</summary>
 
 The **second category** contains **payment-enabled services** (See figure below), i.e. services like welfare transfer, tax or free payments, subsidy distribution, insurance contributions, and government transactions with suppliers or citizens. Payment rails enable processes to be faster, more transparent, and less prone to leakage or fraud.
 
@@ -187,7 +187,7 @@ The **second category** contains **payment-enabled services** (See figure below)
 
 <details>
 
-<summary>3.Data-driven Services</summary>
+<summary>3.Data-driven services</summary>
 
 The **third category** encompasses relevant **data-driven services** (See figure below), e.g., electronic health records, land and property registration, business licensing systems, and agricultural advisory platforms. These specific services heavily rely on secure data exchange and consistent registries in order to supply precise and timely information.
 
@@ -217,7 +217,7 @@ Source: [giz.de](https://www.giz.de/en/newsroom/stories/digital-transformation-g
 {% endtab %}
 {% endtabs %}
 
-### Key Activities for Governments to Enhance Their DPI Development <a href="#key-activities" id="key-activities"></a>
+### Key activities for governments to enhance their DPI development <a href="#key-activities" id="key-activities"></a>
 
 * Run a DPI and digital services baseline assessment
 * Map existing national digital system and identify emerging gaps
@@ -228,7 +228,7 @@ Source: [giz.de](https://www.giz.de/en/newsroom/stories/digital-transformation-g
 
 
 
-### Deliverables/ Success Criteria for Countries' DPI Development <a href="#deliverables-success-criteria" id="deliverables-success-criteria"></a>
+### Deliverables/Success criteria for countries' DPI Development <a href="#deliverables-success-criteria" id="deliverables-success-criteria"></a>
 
 * DPI assessment report and maturity overview
 * Gap analysis of foundational systems, as well as enabling conditions

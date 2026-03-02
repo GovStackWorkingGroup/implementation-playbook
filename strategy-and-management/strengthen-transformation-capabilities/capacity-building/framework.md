@@ -1,6 +1,6 @@
 # Framework
 
-## **Key Definitions and Activities**
+## **Key definitions and activities**
 
 GovStack focuses a lot on process and people within the implementation journey. Capacity building is a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s Building Blocks. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
@@ -23,14 +23,14 @@ The key to knowledge management is sharing of information. Sharing knowledge lea
 <figure><img src="../../../.gitbook/assets/cycle.png" alt=""><figcaption><p>GovStack Knowledge Management Cycle</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Knowledge Management Eco-system" %}
+{% tab title="Knowledge Management Ecosystem" %}
 GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and [GovStack LMS](/broken/pages/sRXOLOnKyZMns2705yCO) are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
 <figure><img src="../../../.gitbook/assets/KMCC.png" alt=""><figcaption><p>GovStack Knowledge Management Eco-System</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-## How GovStack Approach can be supported
+## How GovStack's approach can be supported
 
 In its ongoing efforts to improve how governments can reap the benefits of digitalization, the GovStack team frequently asks key questions to guide the development of its activities. These questions include; how can governments become more open and transparent, while simultaneously dealing with various challenges, such as data sensitivity?  Which technologies are available to make governments more open and to use open government data? How can data be turned into smartness? &#x20;
 
@@ -51,7 +51,7 @@ _**Sharing e-learnings, guidelines, toolkits or training material**_
 Numerous institutions, both from the public and private sectors, have created their own learning materials to increase the skills needed to push the digital transformation of government services forward
 {% endtab %}
 
-{% tab title="Sharing Formats" %}
+{% tab title="Sharing formats" %}
 _**Knowledge sharing formats**_&#x20;
 
 Participate in Communities of practice and share knowledge and insights into your digitization process. Create forums for exchange within the digital ecosystem in your country or regionally.&#x20;
@@ -63,7 +63,7 @@ _**Training centers**_&#x20;
 Establish a training center in your country and link GovStack to the institution(s) responsible for capacity building in your country.&#x20;
 {% endtab %}
 
-{% tab title="Change Management" %}
+{% tab title="Change management" %}
 _**Change management**_&#x20;
 
 Foster openness to change and change management. Digitizing Government Services is not only about creating digital tools and infrastructure, it is also about changing processes, simplifying them, creating citizen-centered services. This new approach means a lot of change for government processes, and therefore change management is a big part of the digitization journey. &#x20;

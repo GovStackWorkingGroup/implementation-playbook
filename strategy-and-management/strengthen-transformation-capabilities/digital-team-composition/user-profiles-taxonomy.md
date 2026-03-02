@@ -1,4 +1,4 @@
-# User profiles taxonomy
+# User Profiles Taxonomy
 
 This section describes the various stakeholders that support capacity building during the digital transformation process. Each identified role's qualifications are described in equal detail.
 
@@ -148,7 +148,7 @@ Ability to work at a high level in a large organization, acting as an ambassador
 
 <details>
 
-<summary>IT Specialist</summary>
+<summary>IT specialist</summary>
 
 IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations. It includes roles such as:
 
@@ -636,7 +636,7 @@ Solid grip on documentation publishing software such as Zendesk Guide, Camtasia,
 
 <details>
 
-<summary>Middle and Entry-level management</summary>
+<summary>Middle and entry-level management</summary>
 
 Middle managers ensure appropriate systems and procedures are developed and implemented to provide budgetary control; authorize material, human and financial resources to implement policies and programmes; monitor and evaluate performance of the organization and its staff; select or approve the selection of staff; ensure compliance with health and safety requirements; and represent and negotiate on behalf of the government, enterprise or organizational unit managed in meetings and other forums.&#x20;
 
@@ -1296,7 +1296,7 @@ Strong analytical, strategic thinking and problem-solving skills.
 
 <details>
 
-<summary>Service Design</summary>
+<summary>Service design</summary>
 
 ### **​**[**Agile Coach**](https://www.scrumalliance.org/agile-coaching)**​** <a href="#agile-coach" id="agile-coach"></a>
 

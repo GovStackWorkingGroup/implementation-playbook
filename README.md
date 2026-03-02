@@ -12,7 +12,7 @@ The Playbook offers examples, tools and resources that guide digital teams on ho
 
 You can use the Implementation Playbook to deliver government services at national, state, municipal, and local levels. Governments can get started at any stage of the service delivery lifecycle, depending on their objectives, context, and needs.
 
-### How to Navigate the Playbook
+### How to navigate the Playbook
 
 The Playbook is organized into three overarching sections (see figure below):
 
