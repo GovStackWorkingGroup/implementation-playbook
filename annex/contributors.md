@@ -14,6 +14,7 @@ The first and second iteration of the Playbook has been co-developed by (listed 
 * **Capgemini**
   * Anupama Pulipaka
   * Bastian Ramm
+  * Hannah Lotz
   * Lea Alwine Anna Feline Senner
   * Mira Oetzmann
   * Samuel Liam Scholz
