@@ -4,9 +4,38 @@ description: How to achieve cross-government interoperability
 
 # Establish Interoperability
 
-**Interoperability** depicts the **ability of organisations, systems, and services to work together** by exchanging data and information in a meaningful, lawful, and effective manner. In the context of digital public services, interoperability allows public administrations to cooperate across institutional, sectoral, and jurisdictional boundaries while keeping their organisational and legal autonomy.
+## Introduction
+
+This chapter explains **what interoperability means** in the context of digital public services, **why it is a critical enabler of digital transformation**, and **how it can be operationalised** through structured frameworks, governance mechanisms, and technical standards. The chapter uses the **European Interoperability Framework (EIF)** as its **primary conceptual reference model** for understanding interoperability, particularly its layered approach spanning legal, organizational, semantic, and technical dimensions. The EIF is applied throughout the chapter to structure the analysis, terminology, and governance considerations, while GovStack complements it with implementation‑oriented guidance and a maturity‑based perspective.
+
+The chapter is structured as follows:
+
+* [**What is interoperability?**](establish-interoperability.md#what-is-interoperability)\
+  Defines interoperability in the context of e‑government, explaining how public administrations exchange data and information in a meaningful, lawful, and effective way.
+* [**Why is interoperability needed?**](establish-interoperability.md#why-is-interoperability-needed)\
+  Explains why modern digital public services depend on interoperability and how the absence of it leads to fragmentation, inefficiency, and limited scalability.
+* [**How to operationalise interoperability?**](establish-interoperability.md#how-to-operationalise-interoperability)\
+  Introduces global and national interoperability frameworks, with the EIF serving as the main reference point for structuring interoperability efforts.
+* [**Interoperability layers**](establish-interoperability.md#interoperability-layers)\
+  Presents the layered interoperability model, largely derived from the EIF, and explains why alignment across legal, organizational, semantic, and technical layers is essential.
+* [**GovStack’s interoperability continuum**](establish-interoperability.md#govstacks-interoperability-continuum)\
+  Extends the EIF’s layered model with a maturity‑based progression that helps governments understand how interoperability evolves in practice.
+* [**Best practice examples**](establish-interoperability.md#best-practice-examples)\
+  Illustrates how interoperability has been implemented in practice across different national contexts.
+* [**Recommendations of the European Interoperability Framework (EIF)**](establish-interoperability.md#recommendations-of-the-european-interoperability-framework)\
+  Examines the EIF’s principles, governance model, and recommendations in more detail, highlighting their relevance for public‑sector interoperability.
+* [**Interoperability governance and integrated public service governance**](establish-interoperability.md#interoperability-governance)\
+  Describes how the EIF frames governance as a cross‑cutting requirement to ensure coherence, sustainability, and accountability.
+* [**Legal, organizational, semantic, and technical interoperability**](establish-interoperability.md#legal-interoperability)\
+  Applies the EIF layers in depth, outlining concrete measures and challenges at each level.
+* [**The Interoperable Europe Act**](establish-interoperability.md#the-interoperable-europe-act)\
+  Explains how the EIF has evolved from a voluntary framework into a legally binding reference through the Interoperable Europe Act, with implications for compliance and governance.
+
+Together, these sections provide a structured guide to understanding, governing, and implementing interoperability as a core capability of digital government. The chapter positions the EIF as the **conceptual backbone** for interoperability, while GovStack provides the **practical tools and specifications** needed to implement interoperability in real‑world digital public services.
 
 ## What is interoperability?
+
+**Interoperability** depicts the **ability of organisations, systems, and services to work together** by exchanging data and information in a meaningful, lawful, and effective manner. In the context of digital public services, interoperability allows public administrations to cooperate across institutional, sectoral, and jurisdictional boundaries while keeping their organisational and legal autonomy.
 
 According to the “Interoperability Framework for e-Government” (IFEG), interoperability in e-governance is defined as&#x20;
 
@@ -288,6 +317,8 @@ Administrations must ensure that digital records and data are preserved and rema
 Existing and new services should be regularly evaluated to ensure they deliver value for money and benefit the user.
 
 </details>
+
+<div align="left"><figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Interoperability governance
 
