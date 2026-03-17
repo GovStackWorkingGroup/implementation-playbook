@@ -4,6 +4,28 @@
 
 This **chapter** is **designed for government leaders and teams who are responsible for shaping their country’s digital future**. Its purpose is to help understand what a “Digital Public Infrastructure” (DPI) is, why it matters for national development, and how specifically GovStack supports practical implementation of DPI when building or improving digital citizen services.
 
+To support this, the chapter connects conceptual foundations with actionable guidance and is organized into the following sections:
+
+* [**Digital Public Infrastructure: foundations, enablers, and national assessment**](./#digital-public-infrastructure-foundations-enablers-and-national-assessment)\
+  Introduces the concept of DPI, its role as a foundational layer for digital societies, and the core components - digital identity, digital payments, and data exchange - that enable secure and trusted interactions at scale.
+* [**The four layers of the DPI enabling environment**](./#the-four-layers-of-the-dpi-enabling-environment)\
+  Explains the technical, legal, institutional, and societal conditions required for DPI to function reliably, safely, and in a people‑centric manner.
+* [**How countries should assess DPI**](./#how-countries-should-assess-dpi)\
+  Provides criteria for evaluating national readiness, diagnosing gaps, and determining whether core components, standards, and governance models are in place.
+* [**DPI and GovStack**](./#dpi-and-govstack)\
+  Explains how GovStack’s Building Blocks, reference architecture (PAERA), and technical specifications support countries in designing and implementing interoperable DPI - both narrowly (identity and data exchange) and broadly (full digital government infrastructure).
+* [**GovStack’s design principles for interoperable and inclusive DPI**](./#govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure)\
+  Summarises the human‑centred, modular, privacy‑first, and open‑standards‑based design principles that guide GovStack’s DPI approach.
+* [**How DPI unlocks scalable and inclusive e-government services**<br>](./#how-dpi-unlocks-scalable-and-inclusive-e-government-services)Shows how digital identity, payments, and data exchange become truly impactful when operationalised through services that people and institutions rely on.
+* [**Examples of DPI**](./#examples-of-dpi)\
+  Highlights real-world DPI implementations, such as Ukraine’s Diia and Kenya’s National Carbon Registry, showing how DPI functions in practice.
+* [**Key activities for governments to enhance their DPI development**](./#key-activities)\
+  Lists practical steps for governments to strengthen DPI, from DPI and digital services baseline assessments to standards and components alignment, as well as governance model development.
+* [**Deliverables and success criteria**](./#deliverables-success-criteria)\
+  Describes the outputs governments should produce when building DPI, including a DPI assessment report, gap analysis, prioritized service list, DPI architecture draft, and an implementation roadmap.
+
+Together, these sections equip readers with a comprehensive guide to understanding, designing, assessing, and scaling Digital Public Infrastructure. This structure helps readers to quickly navigate to the content most relevant to their priorities.
+
 ### Digital Public Infrastructure: foundations, enablers, and national assessment <a href="#digital-public-infrastructure-foundations-enablers-and-national-assessment" id="digital-public-infrastructure-foundations-enablers-and-national-assessment"></a>
 
 The expression “Digital Public Infrastructure”, or in short DPI, refers to **shared digital systems, standards, and governance frameworks** which **facilitate secure and trusted interactions across a society** (UNDP, 2021).
@@ -17,6 +39,10 @@ In its most narrow definition, **DPI** is constructed around **three interconnec
 * **Digital identity:** Allows both individuals and organizations to uniquely identify and authenticate themselves online, which includes digital IDs, e-signatures, as well as civil registration systems.
 * **Digital payment infrastructure:** Enables secure and interoperable financial transactions spread across the economy, ranging from government-to-person transfers to tax payments and subsidy distribution. _(Note: This key payment DPI component differs from the GovStack Payments Building Block, which essentially functions as a gateway between banking systems and services, rather than as an inter-institution payment system.)_
 * **Data exchange & interoperable frameworks:** Allows information to move in reliable manner between institutions all while maintaining privacy and security. Some examples include secure data-sharing platforms, consent systems, as well as trust frameworks.
+
+{% hint style="info" icon="octagon-exclamation" %}
+_However, while DPI is commonly described through the above-mentioned set of core components, these components should be understood as a **conceptual and aspirational reference**, rather than as a fixed or universally implemented baseline. Not all DPI components are foundational in every country context, nor are they necessarily fully in place at the outset of digital transformation. Instead, they represent a shared target state that governments progressively work towards, depending on institutional maturity, legal frameworks, and national priorities._
+{% endhint %}
 
 In a wider definition, at the G20 Summit of August 2023, **DPI** was defined as “**a set of shared digital systems** that **should be secure, interoperable,** and **can be built on open standards and specifications** to deliver and **provide** equitable **access to public and/or private services** at societal scale(…)” (G20, 2023). It thus acknowledges that **DPI is an “evolving concept”** and states that it **should be managed “by applicable legal frameworks and enabling rules”** in order to support certain goals like development and human rights (G20 2023). Hence, despite being frequently linked to identity, data interchange, and payment systems, a broader perspective on DPI is more suitable in a global setting (ECDPM, 2025).
 
