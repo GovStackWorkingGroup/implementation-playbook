@@ -2,6 +2,25 @@
 
 The following content is a summary of the Public Administration Ecosystem Reference Architecture (PAERA) document and the TOGAF methodology by the Open Group. More detailed information can be found here: [https://specs.govstack.global/paera](https://specs.govstack.global/paera).
 
+## Introduction
+
+This chapter provides a concise, structured overview of how Government Architecture enables coherent, whole‑of‑government digital transformation. Its purpose is to explain **why Government Architecture matters**, **how it aligns policies, institutions, data, and technology**, and **how PAERA and GovStack translate these principles into practical implementation pathways**. The chapter is organized into clear sections that build on one another:
+
+* [**What is Government Architecture?**](design-a-government-architecture.md#what-is-government-architecture)\
+  Defines the concept, its purpose, and how it differs from traditional IT‑centric digitization.
+* [**GovStack’s perspective on government architecture**](design-a-government-architecture.md#govstacks-perspective-on-government-architecture)\
+  Explains how PAERA and the building‑block approach translate architectural principles into actionable design for digital government.
+* [**The role of TOGAF**](design-a-government-architecture.md#the-role-of-togaf-in-government-architecture)\
+  Shows how established enterprise‑architecture methods can support governance, planning, and execution alongside PAERA.
+* [**Core components of a digital government**](design-a-government-architecture.md#core-components-of-a-digital-government)\
+  Presents the three structural layers (Foundational, National, Organizational) that form the digital‑governance ecosystem.
+* [**Change management & quality attributes**](design-a-government-architecture.md#change-management)\
+  Outlines the governance, coordination, and process standards needed for sustainable transformation.
+* [**How to implement the Government Architecture**](design-a-government-architecture.md#how-to-implement-the-government-architecture)\
+  Provides practical guidance on capability assessment, underlying principles, and a phased roadmap for scaling interoperable digital services.
+
+This structure allows readers to navigate directly to the parts most relevant to their priorities - whether its strategy, design, governance, or implementation.
+
 ## What is government architecture?
 
 To understand why Government Architecture is essential, it is necessary to clarify what it encompasses and what distinguishes it from traditional approaches to digitization.
