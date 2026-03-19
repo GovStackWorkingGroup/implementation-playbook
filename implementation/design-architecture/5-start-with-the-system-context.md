@@ -51,10 +51,6 @@ Another source to check for potential building blocks is the context map, if ava
 
 _For readers unfamiliar with context mapping in Domain-Driven Design, additional background information is available at the following reference:_ [_https://ddd-practitioners.com/home/glossary/context-map/_](https://ddd-practitioners.com/home/glossary/context-map/)
 
-{% content-ref url="/broken/pages/lj87QjMctjqqlNj7C8D2" %}
-[Broken link](/broken/pages/lj87QjMctjqqlNj7C8D2)
-{% endcontent-ref %}
-
 ## Next Step: System Landscape or System Architecture
 
 After completing this step, you need to decide whether you want to continue with the System Landscape, for an overview or with the System Architecture, for getting into the details of the technical design.

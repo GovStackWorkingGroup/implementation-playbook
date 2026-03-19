@@ -1,6 +1,6 @@
-# Best Practices & Patterns
+# Architecture Best Practices & Patterns
 
-Below are some proven Best Practices for designing an architecture. Treat this as a pick & choose menu of recommendations. Additional best practices recommended by GovStack can be found here: [Architecture and Nonfunctional Requirements | cfr-architecture](https://govstack.gitbook.io/cfr-architecture)
+Below are some proven Best Practices for designing an architecture. Treat this as a pick & choose menu of recommendations. Additional best practices recommended by GovStack can be found here: [Architecture and Non-Functional Requirements](https://specs.govstack.global/architecture/6-cross-functional-requirements)
 
 ## Documentation
 

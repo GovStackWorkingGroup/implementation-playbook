@@ -4,13 +4,17 @@ This is an opinionated proposal on how to creating an architecture. You may devi
 
 ## System Architecture vs. System Landscape
 
-System Architecture and System Landscape provide different perspectives and different levels of detail of looking at an architecture.In the following process, the steps 1, 2 and - A.1 describe the creation or update of a System Landscape, while the steps 1,2 and B.1-B.7 need to be performed when creating the System Architecture.
+System Architecture and System Landscape provide different perspectives and different levels of detail of looking at an architecture. In the following process, the steps 1, 2 and - A.1 describe the creation or update of a System Landscape, while the steps 1,2 and B.1-B.7 need to be performed when creating the System Architecture.
 
-Consider this as two alternate pathes, depending on what view on the system you are interested in.
+{% hint style="info" %}
+For architecture-based institutional coordination, such as cross-agency data governance, interoperability oversight, and the role of digital authorities have a look at [design-a-government-architecture.md](../../strategy-and-management/design-a-government-architecture.md "mention"). Based on the concept of Enterprise Architecture, Government Architecture provides a more high-level and complete view on all systems within a government.
+{% endhint %}
+
+Consider this as two alternate paths, depending on what view on the system you are interested in.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-Government Architecture / Enterprise Architecture provides an even more high-level and complete view of the systems within a government. For more on this, take a look at this GovStack document: [​​Public Administration Ecosystem Reference Architecture (PAERA) > 2.3 Role of Enterprise Architecture](https://paera.govstack.global/2.-state-of-digital-transformation#id-2.3-role-of-enterprise-architecture).
+
 
 {% content-ref url="4-analyze-requirements.md" %}
 [4-analyze-requirements.md](4-analyze-requirements.md)

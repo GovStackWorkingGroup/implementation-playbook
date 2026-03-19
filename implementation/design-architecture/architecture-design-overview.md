@@ -21,8 +21,7 @@ A non exhaustive list includes:
 
 * Inputs from previous phases
   * Functional Requirements
-    * a domain model & context map, describing one or more bounded contexts\
-      \[TODO: Add image that show example context map. Reuse from Service Design Chapter if possible]
+    * a domain model & context map, describing one or more bounded contexts developed inactivity [2.3-establish-the-domain-foundations.md](../design-service/2-designing-the-future-service-to-be/2.3-establish-the-domain-foundations.md "mention")
     * for example a Business Process Model, a User Journey or a [GovStack Service Blueprint](https://www.figma.com/board/DAK1g4cpOaBYIEh86jrSaf/Service-Blueprint-Template?node-id=0-1\&p=f)
     * ideally a Functional Data Model (if available)
     * any design documents created during the previous phases
@@ -88,7 +87,7 @@ At the same time, architecture governance acts as a critical enabler of interope
 
 Architecture planning serves as the practical bridge between governance and implementation. Through architecture planning activities - such as capability mapping, dependency management, and standards selection - governance rules are translated into concrete architectural roadmaps. This ensures that interoperability considerations and Government Architecture principles are addressed early, reducing fragmentation, duplication, and costly rework later in the lifecycle. In most cases, referencing existing governance frameworks and architectural guidelines is sufficient. However, any deviation from agreed architectural principles or interoperability standards should be identified early and discussed with the responsible governance bodies to safeguard alignment, sustainability, and cross-government coherence.
 
-\[TODO: Add links to chapters / documents on Architecture Governance and/or Government Architecture.]
+More recommendations on [design-a-government-architecture.md](../../strategy-and-management/design-a-government-architecture.md "mention")
 
 {% include "../../.gitbook/includes/todo-check-for-potential....md" %}
 
