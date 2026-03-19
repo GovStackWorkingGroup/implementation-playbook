@@ -143,7 +143,7 @@ Following a **narrow definition** of DP&#x49;**,** GovStack offers a technical b
 
 Following a **wide definition** of DPI, GovStack’s full scope of a government architecture can be considered DPI. GovStack places citizens and businesses (the users) at the centre of digital transformation of government services. Therefore, the primary collective objective of all GovStack Building Blocks and entirety of a government’s system is to provide citizens with services. A wide definition of DPI includes these services and with that the whole of GovStack’s technical specifications. Why government-provided services are essential to DPI is explained below under [“Why Services Matter for DPI”](#user-content-fn-2)[^2].
 
-<figure><img src="../../.gitbook/assets/Updated GovStack DPI .png" alt=""><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/govstack-dpi.png" alt=""><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
 
 {% hint style="info" %}
 ### What does GovStack _not_ offer?
@@ -222,26 +222,6 @@ The **third category** encompasses relevant **data-driven services** (See figure
 </details>
 
 However, across all categories **cross-cutting digital services are actively reinforcing** **both** the **functionality** and **integrity** of **e-government services**. These can consist of, for example, digital signatures, digital wallets, e-KYC mechanisms, and secure messaging services. Together, these specific services demonstrate how DPI actively supports diverse cases via shared, reusable foundational capabilities.
-
-### Examples of DPI
-
-{% tabs %}
-{% tab title="Diia App" %}
-Ukraine has established itself as a digital pioneer despite the Russian war of aggression. One example of this is ‘Diia’, the central government app. Its name means ‘action’. It was developed before Russia's full-scale invasion. During the war, it was further expanded to offer people reliable state services during these difficult times. For example, Ukrainians can use the app to report damage caused by Russian army shelling without bureaucratic hurdles and apply for financial assistance with reconstruction. This can be done quickly and without having to undertake long, dangerous journeys.
-
-Source: [giz.de](https://www.giz.de/en/newsroom/stories/digital-transformation-global-giz)
-
-Further information: [https://expo.diia.gov.ua/#about-diia](https://expo.diia.gov.ua/#about-diia)
-{% endtab %}
-
-{% tab title="Carbon Registry" %}
-Digital infrastructure is currently emerging in Kenya that will pave the way for reliable trading in carbon certificates at international level. At the centre of this is the new National Carbon Registry (NCR), which GIZ assisted in setting up and was launched in February 2026. Kenya uses the registry to systematically and transparently compile climate action projects whose CO₂ emissions are traded internationally. For countries like Kenya, selling certificates opens up sources of income for further climate action. The certificates are beneficial for governments and European companies as a means for offsetting emissions.
-
-At the same time, the registry provides precisely the structured, reliable data that is essential for using AI. Building on the Kenyan model, GIZ is currently working with partners to develop a transferable carbon registry for other African countries as a public digital asset. In the future, AI-based tools will enable countries to develop or adapt their own legally compliant registries within a short space of time.
-
-Source: [giz.de](https://www.giz.de/en/newsroom/stories/digital-transformation-global-giz)&#x20;
-{% endtab %}
-{% endtabs %}
 
 ### Key activities for governments to enhance their DPI development <a href="#key-activities" id="key-activities"></a>
 
