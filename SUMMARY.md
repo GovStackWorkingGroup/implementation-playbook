@@ -64,9 +64,13 @@
   * [5-B.4 Decide Technology Stack](implementation/design-architecture/5-b.4-decide-technology-stack.md)
   * [5-B.5 Create Developer Guidelines](implementation/design-architecture/5-b.5-create-developer-guidelines.md)
   * [Architecture Best Practices & Patterns](implementation/design-architecture/architecture-best-practices-and-patterns.md)
-* [Develop and Launch Services](implementation/develop-and-launch-services/README.md)
-  * [Software Development Cycle](implementation/develop-and-launch-services/software-development-cycle.md)
-  * [Launching the Service](implementation/develop-and-launch-services/launching-the-service.md)
+* [Procure and Launch Services](implementation/procure-and-launch-services/README.md)
+  * [Select Software & Service Providers](implementation/procure-and-launch-services/select-software-and-service-providers/README.md)
+    * [1. Adapt GovSpecs to Local Needs](implementation/procure-and-launch-services/select-software-and-service-providers/1.-adapt-govspecs-to-local-needs.md)
+    * [2. Collect Market Insights](implementation/procure-and-launch-services/select-software-and-service-providers/2.-collect-market-insights.md)
+    * [3. Procure Software & Service Providers](implementation/procure-and-launch-services/select-software-and-service-providers/3.-procure-software-and-service-providers.md)
+  * [Software Development Cycle](implementation/procure-and-launch-services/software-development-cycle.md)
+  * [Launching the Service](implementation/procure-and-launch-services/launching-the-service.md)
 
 ## Annex
 
