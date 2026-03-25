@@ -130,6 +130,10 @@ Depending on your background, some contents may be more relevant to you than oth
 
 ### How is the Playbook developed and kept updated?
 
+{% hint style="info" %}
+During feedback sessions we received a lot of valuable feedback. Not all feedback could be adressed in the current release. A backlog of change request and issues can be found on the [Playbook's GitHub repository](https://github.com/GovStackWorkingGroup/implementation-playbook/issues).
+{% endhint %}
+
 The Playbook is a continuous co-design effort by a multidisciplinary team of experts representing GovStack founding partners ([ITU](https://www.itu.int/en/Pages/default.aspx), [EE](https://e-estonia.com/), [GIZ](https://www.giz.de/en/html/index.html), [DIAL](https://dial.global/)), implementing partners such as EstDev, FIIAAP, Taltech, Capgemini, and digital teams from governments that participate in TAC review.&#x20;
 
 The Playbook also integrates a curated set of best practices coming from different assessment frameworks developed by International Organizations like ITU, OECD, UNDP, and World Bank, among others. It also gathers reference tools and methods from digital services manuals, and design standards developed by different digital service teams worldwide. Like but not limited to:
@@ -152,7 +156,9 @@ One of the cornerstones of our commitment to excellence is our unwavering dedica
 
 You can write contact the community secretary at community@govstack.global
 
-Or, which is our preffered way of getting in contact with you, join our working group on the implementation playbook. Fill in the following form and we will invite you to slack and our working group meetings: [https://govstack.global/join-our-tech-community/](https://govstack.global/join-our-tech-community/)
+or you can open an issue in the playbook's GitHub repository: [https://github.com/GovStackWorkingGroup/implementation-playbook](https://github.com/GovStackWorkingGroup/implementation-playbook)
+
+or, which is **our preferred way** of getting in contact with you, join our working group on the implementation playbook. Fill in the following form and we will invite you to slack and our working group meetings: [https://govstack.global/join-our-tech-community/](https://govstack.global/join-our-tech-community/)
 
 </details>
 

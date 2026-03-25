@@ -1,6 +1,6 @@
 # Design Service
 
-Design and deliver government services that work, using GovStack tools and patterns.
+After prioritizing services we now have a clear picture of the service(s) that need to be implemented first. In the following chapter you'll find a guidance on how to design one specific chosen service. After or while implementing one you can already start with the design of the next in the priority list
 
 Reduce the risk of building the wrong thing by understanding the service domain and user needs early, testing ideas quickly, and by iterating and improving.
 
