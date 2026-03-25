@@ -1,4 +1,4 @@
-# Select Software & Service Providers
+# Procure Software & Services
 
 Selecting software and service providers for the implementation of a digital public service is not limited to verifying technical qualifications and comparing prices. It requires a holistic assessment of:   &#x20;
 
@@ -62,7 +62,7 @@ Together, these elements complement early market engagement and feed directly in
 {% endstep %}
 
 {% step %}
-### **Procure Software & Service Providers**
+### **Evaluate Software & Service Providers**
 
 Governments can run a procurement process based on transparent, objective criteria, after receiving feedback from the market on the Specifications. The SRS becomes the primary reference for evaluation, and the providers must demonstrate how their proposals meet each requirement.
 {% endstep %}
