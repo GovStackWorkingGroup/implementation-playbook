@@ -25,13 +25,19 @@ This structure allows readers to navigate directly to the parts most relevant to
 
 To understand why Government Architecture is essential, it is necessary to clarify what it encompasses and what distinguishes it from traditional approaches to digitization.
 
-**Government architecture** (often referred to as Government Enterprise Architecture, GEA) is a **whole‑of‑government approach** (see the chapter “Set Foundations for Interoperability” for detailed guidance) that **aligns policy goals, operating models, data, applications, and technology into** a **coherent, governed ecosystem** for delivering coordinated, efficient, and equitable public services. It bridges the vocabulary and priorities of governance leaders and IT professionals to sequence digitalization in a way that reduces risk, avoids waste, and builds institutional capability over time.
+**Government architecture** (often referred to as Government Enterprise Architecture, GEA) is a **whole‑of‑government approach** (see the chapter “[Establish Interoperability](https://specs.govstack.global/implementation-playbook/strategy-and-management/establish-interoperability)” for detailed guidance) that **aligns policy goals, operating models, data, applications, and technology into** a **coherent, governed ecosystem** for delivering coordinated, efficient, and equitable public services. It bridges the vocabulary and priorities of governance leaders and IT professionals to sequence digitalization in a way that reduces risk, avoids waste, and builds institutional capability over time.
 
 Hence, Government Architecture can be defined as the structured description and intentional design of how a government operates as an integrated system. It creates a shared frame of reference that connects public mandates, organizational structures, service delivery, data flows, digital systems, and enabling infrastructure. Rather than focusing on individual solutions, Government Architecture focuses on relationships and dependencies.
 
-Crucially, Government Architecture differs from conventional IT architecture. It does not start with systems or technologies, but with public value creation. Legal obligations, societal goals, and governance constraints are treated as architectural inputs rather than external limitations. As a result, Government Architecture becomes a strategic capability that shapes how governments prioritize investments, manage risk, and coordinate transformation across the public sector.
+<details>
+
+<summary><strong>Why Government Architecture matters</strong></summary>
+
+Government Architecture differs from conventional IT architecture. It does not start with systems or technologies, but with public value creation. Legal obligations, societal goals, and governance constraints are treated as architectural inputs rather than external limitations. As a result, Government Architecture becomes a strategic capability that shapes how governments prioritize investments, manage risk, and coordinate transformation across the public sector.
 
 More importantly, Government Architecture introduces a long-term perspective. Public sector systems must endure across political cycles, legal reforms, and technological change. Decisions taken today, particularly in the design of digital systems, can shape administrative capacity and citizen trust for decades. Government Architecture therefore acts as a stabilizing mechanism, ensuring that transformation efforts are cumulative, sustainable, and aligned with public interest.
+
+</details>
 
 **In PAERA**, **government architecture** is **positioned as** a **reference architecture** (see figure below) for the public ad-ministration ecosystem.
 
@@ -46,8 +52,10 @@ More specifically, a **reference architecture** is the **blueprint** used to **p
 
 In PAERA specifically, the reference architecture explains the interactions between enterprise architecture practices and the GovStack “Building Block” approach so that high‑level leaders can see dependencies across the ecosystem while technical teams understand scope, sequencing, and the constraints under which digital transformation succeeds.
 
-### Example: Australian government architecture
+### Country Examples of Government Architecture Frameworks
 
+{% tabs %}
+{% tab title="Australia" %}
 The following example illustrates how the principles described above are operationalized in practice: Australia's [reference architecture document](https://www.architecture.dta.gov.au/sp_aga2?id=aga2_how_to_use) structures capabilities and technologies into an orchestrated ecosystem that enables consistent digital service design and delivery (see figure & YouTube video below).
 
 <figure><img src="../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://architecture.digital.gov.au/sites/default/files/2023-07/22-0109%20Australian%20Government%20Architecture_v11.pdf">Reference Architecture</a></p></figcaption></figure>
@@ -55,6 +63,26 @@ The following example illustrates how the principles described above are operati
 {% embed url="https://youtu.be/NSBtgW09mHo" %}
 Australian Whole of Government Architecture &#x20;
 {% endembed %}
+{% endtab %}
+
+{% tab title="Rwanda" %}
+The following example illustrates how governments can tailor enterprise‑architecture frameworks to their own context: Rwanda’s RGEA adapts the TOGAF methodology into a simplified, government‑wide framework that provides practical building blocks for ICT planning, capability development, and IT–business alignment (see figure below).
+
+<figure><img src="../.gitbook/assets/Rwanda Arch.png" alt=""><figcaption><p>Source: <a href="https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf">Government of Rwanda's Enterprise Architecture Framework</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Bhutan" %}
+Bhutan’s e‑GIF (The Government Interoperability Framework) exemplifies how countries can establish a whole‑of‑government architecture tailored to national needs. It provides a whole‑of‑government blueprint that aligns policies, business functions, data, applications, and technology to enable integrated, interoperable, and citizen‑centric digital services (see figure below).
+
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>Source: <a href="https://egif.dit.gov.bt/">Bhutan's e-GIF Portal</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="India" %}
+India’s IndEA framework illustrates how a government can structure a whole‑of‑government architecture around eight coordinated reference models covering business, data, application, technology, integration, security, performance, and governance. This model guides consistent, scalable, and interoperable digital service delivery across the public sector (see figure below).
+
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption><p>Source: <a href="https://egovstandards.gov.in/sites/default/files/2021-10/IndEA%20Framework%20V%201.0.pdf">IndEA Framework, India Enterprise Architecture Framework</a></p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ### GovStack's perspective on government architecture
 
@@ -64,7 +92,7 @@ GovStack is a global initiative designed to consolidate leading digital governme
 
 By providing open access to these Building Blocks, GovStack creates a common platform where technology providers and developers can align directly with the needs of public-sector institutions. In doing so, GovStack effectively bridges the gap between governments striving to modernize their service delivery and the market actors capable of supplying scalable, high‑quality digital components.
 
-The GovStack methodology is grounded in a modular building‑block approach, fully aligned with the whole‑of‑government principles (see the chapter “Establish Interoperability” for detailed guidance) articulated in the SDG Digital Investment Framework. This ensures that digital transformation efforts remain coherent, sustainable, and strategically linked to development outcomes.
+The GovStack methodology is grounded in a modular building‑block approach, fully aligned with the whole‑of‑government principles (see the chapter “[Establish Interoperability](https://specs.govstack.global/implementation-playbook/strategy-and-management/establish-interoperability)” for detailed guidance) articulated in the SDG Digital Investment Framework. This ensures that digital transformation efforts remain coherent, sustainable, and strategically linked to development outcomes.
 
 To operationalize this methodology, GovStack has developed the Public Administration Ecosystem Reference Architecture (PAERA) (see figure below). PAERA provides governments with a structured, practical framework to guide digital transformation in an efficient, effective, and sustainable manner, supporting end‑to‑end redesign of public services and enabling long‑term institutional capacity building.
 
@@ -176,21 +204,31 @@ In fact, digital governance can be understood through the metaphor of a building
 
 <figure><img src="../.gitbook/assets/Updated Interoperability house.png" alt=""><figcaption><p><em>(Public Administration Ecosystem Reference Architecture (PAERA)), (Source: Ivar Tallo &#x26; Aare Lapõnin)(PAERA, 2025)</em></p></figcaption></figure>
 
-More specifically, within the GovStack framework, attention is placed on the Foundational, Na-tional, and Organizational Layers. The Foundational and National layers together form the Digital Governance Infrastructure, providing the underlying conditions for digital government. The Or-ganizational layer builds on this infrastructure by enabling institutions to operationalize and sus-tain digital transformation. The following sections examine these layers in depth and describe their role in enabling sustainable digital government implementations.
+More specifically, within the GovStack framework, attention is placed on the Foundational, National, and Organizational Layers. The Foundational and National layers together form the Digital Governance Infrastructure, providing the underlying conditions for digital government. The Organizational layer builds on this infrastructure by enabling institutions to operationalize and sustain digital transformation. The following sections examine these layers in depth and describe their role in enabling sustainable digital government implementations.
 
-### Foundational level
+<details>
+
+<summary><strong>Foundational level</strong></summary>
 
 At the base of the system lies the foundational level. This level consists of horizontal prerequisites that apply across all digital initiatives, including legal frameworks, governance arrangements, policy coordination mechanisms, and common standards. Without these foundations, digital solutions remain isolated and difficult to scale. Foundational components provide legitimacy, accountability, and coordination, ensuring that digital transformation is anchored in law and policy rather than driven solely by technical feasibility.
 
-### National level
+</details>
+
+<details>
+
+<summary><strong>National level</strong></summary>
 
 Building on the foundation, the national level focuses on Digital Infrastructure pillars that enable system-wide interoperability. These include connectivity, digital identity, digital data, and interoperability mechanisms. The pillars should be understood as shared public capabilities comparable to foundational state infrastructure with the purpose of reducing coordination effort across government. While service development can begin before all pillars are fully in place, failure to address them early creates structural bottlenecks that are costly and complex to resolve later.
 
-### Organizational level
+</details>
+
+<details>
+
+<summary><strong>Organizational level</strong></summary>
 
 At the organisational level, digital government shifts from infrastructure to institutional capability: While national digital infrastructure enables interoperability, individual ministries and agencies determine whether it produces real public value. Each organisation must therefore develop managerial ownership of digitalisation, maintain an enterprise architecture, redesign services rather than merely digitise existing processes, and embed data into decision-making. This also requires legal recognition of digital procedures, appropriate governance and procurement models, as well as collaboration with external actors such as citizens and private providers. Because public administrations operate under legislation, political mandates, and rigid responsibilities, transformation demands coordinated change across roles, skills, culture, and communication, often led by a dedicated digital leadership function (see more in-depth information [here](https://paera.govstack.global/4.-organisation-level)). Different types of public bodies – policy-making, regulatory, and service-delivery organisations – implement these capabilities differently, but all rely on the same shared infrastructure; consequently, the organisational level ultimately determines whether national digital foundations translate into effective public services.
 
-
+</details>
 
 ## Change management
 
@@ -211,13 +249,17 @@ After addressing the importance of change management in guiding institutions thr
 
 Together, these attributes ensure that digital transformation efforts create sustainable public value rather than short-term efficiency gains.
 
+<details>
+
+<summary><strong>Quality attributes of the digital transformation process</strong></summary>
+
 * **Purpose and Directionality:** Within a common-good framework, clear direction-setting and effective orchestration are critical capabilities. There is increasing demand for explicit directionality in the development of shared digital infrastructure. As DPI is not neutral and directly shapes downstream solutions, its intended direction must be made explicit and appropriately prioritized.
 * **Co-creation and participation:** A common-good approach emphasizes collaboration, coordination, and co-investment among multiple stakeholders. Co-creation and participation should therefore be embedded in governance processes and supported by formal institutional mechanisms. Participation is more challenging in environments dominated by proprietary technologies.
 * **Collective learning and knowledge-sharing:** Systematic learning from successes and failures, combined with structured knowledge sharing, is essential for collective value creation. Institutionalized learning strengthens long-term state capabilities and can be enabled through innovative institutional arrangements.
 * **Access for all and reward-sharing:** Universal access and equitable benefit sharing are core to the common-good principle. Infrastructure that creates societal value must be accessible to all, with benefits broadly shared. Governments therefore prioritize access and inclusion over market-based pricing or rent extraction. Where digital access is not yet universal, analogue channels remain essential to avoid excluding citizens.
 * **Transparency and accountability:** Transparency and accountability are critical for building trust in DPI initiatives. While decentralized architectures increase accountability complexity across government entities, they also create opportunities to enhance transparency when governed effectively.
 
-
+</details>
 
 ## How to implement the Government Architecture
 
@@ -445,25 +487,41 @@ _Suggested phasing for implementation of BBs_
 
 <figure><img src="../.gitbook/assets/Updated Implementation PAERA graph.png" alt=""><figcaption><p><em>(PAERA, 2025)</em></p></figcaption></figure>
 
-**Phase 1: Inception**
+<details>
+
+<summary><strong>Phase 1: Inception</strong></summary>
 
 * Assess national digital capabilities and establish governance, legal alignment, and change-management structures.
 * Launch proof-of-concept services using core Building Blocks (e.g., identity, payments, low/no-code) to demonstrate value quickly.
 
-**Phase 2: High-priority Use Cases**
+</details>
+
+<details>
+
+<summary><strong>Phase 2: High-priority Use Cases</strong></summary>
 
 * Select and rapidly prototype priority services, then implement them with local integrators and a common portal/front-end.
 * Train ministries and agencies on the GovStack approach to build awareness and adoption across government.&#x20;
 
-**Phase 3: Initial Transformation**
+</details>
+
+<details>
+
+<summary><strong>Phase 3: Initial Transformation</strong></summary>
 
 * Industrialise digitalisation in key sectors: deploy digital wallet/portal, digitise registries, and automate priority administrative processes.
 * Align legislation and institutional processes to support scalable service delivery.
 
-**Phase 4: Mass-scale Transformation**
+</details>
+
+<details>
+
+<summary><strong>Phase 4: Mass-scale Transformation</strong></summary>
 
 * Expand to full end-to-end digital services across government using all Building Blocks and shared infrastructure.
 * Enable data-driven government operations, cross-sector integration, and nationwide service availability.
+
+</details>
 
 A more detailed description of the phases can be found in the PAERA report ([https://paera.govstack.global/5.-implementation-framework](https://paera.govstack.global/5.-implementation-framework)).
 

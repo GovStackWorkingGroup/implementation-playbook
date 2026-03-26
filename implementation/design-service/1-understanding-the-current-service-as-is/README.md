@@ -1,10 +1,10 @@
-# A) Understanding the Current Service (As-Is)\*
+# 1 Understanding the Current Service (As-Is)
 
 ## Before you start the As-Is phase
 
 Before you start, check you have:
 
-* [ ] **read the** [**GovStack design principles**](https://playbook.govstack.global/designing/service-design/govstack-design-principles)
+* [ ] **read the** [**GovStack design principles**](https://playbook.govstack.global/0.9.1/designing/service-design/govstack-design-principles)
 * [ ] **an understanding of the service’s purpose and scope**\
   You can describe which service (or part of a service) you are focusing on, and why now. You have the finalised service prioritization to hand
 * [ ] **shared expectations about the ‘As-is’ phase**\

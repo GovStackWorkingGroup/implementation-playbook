@@ -34,6 +34,10 @@ DPI can thus be considered as a foundational layer, similar to a physical infras
 
 {% embed url="https://youtu.be/8CACZ4tCJWg" %}
 
+<details>
+
+<summary><strong>Narrow Definition of DPI</strong></summary>
+
 In its most narrow definition, **DPI** is constructed around **three interconnected components** (Clark et al., 2025):
 
 * **Digital identity:** Allows both individuals and organizations to uniquely identify and authenticate themselves online, which includes digital IDs, e-signatures, as well as civil registration systems.
@@ -44,9 +48,17 @@ In its most narrow definition, **DPI** is constructed around **three interconnec
 _However, while DPI is commonly described through the above-mentioned set of core components, these components should be understood as a **conceptual and aspirational reference**, rather than as a fixed or universally implemented baseline. Not all DPI components are foundational in every country context, nor are they necessarily fully in place at the outset of digital transformation. Instead, they represent a shared target state that governments progressively work towards, depending on institutional maturity, legal frameworks, and national priorities._
 {% endhint %}
 
-In a wider definition, at the G20 Summit of August 2023, **DPI** was defined as “**a set of shared digital systems** that **should be secure, interoperable,** and **can be built on open standards and specifications** to deliver and **provide** equitable **access to public and/or private services** at societal scale(…)” (G20, 2023). It thus acknowledges that **DPI is an “evolving concept”** and states that it **should be managed “by applicable legal frameworks and enabling rules”** in order to support certain goals like development and human rights (G20 2023). Hence, despite being frequently linked to identity, data interchange, and payment systems, a broader perspective on DPI is more suitable in a global setting (ECDPM, 2025).
+</details>
 
-Furthermore, for DPI to function sustainably and safely, the **implementing government must form a set of critical enabling conditions**. These include, for instance, **reliable connectivity, cloud and data-center infrastructure, strong cybersecurity**, as well as sufficient digital skills, digital capabilities, and digital literacy across the population. But also legal and regulatory frameworks are critical to safeguard data, establish responsibilities, and enable interoperability. Furthermore, at the Institutional level, well set up coordination, accountability, and engagement with civil society will both enable and maintain trust, as well as long-term resilience. These elements put together are ultimately establishing the environment, required for a robust, scalable, as well as people centric DPI.
+<details>
+
+<summary><strong>Wider Definition of DPI</strong></summary>
+
+At the G20 Summit of August 2023, **DPI** was defined as “**a set of shared digital systems** that **should be secure, interoperable,** and **can be built on open standards and specifications** to deliver and **provide** equitable **access to public and/or private services** at societal scale(…)” (G20, 2023). It thus acknowledges that **DPI is an “evolving concept”** and states that it **should be managed “by applicable legal frameworks and enabling rules”** in order to support certain goals like development and human rights (G20 2023). Hence, despite being frequently linked to identity, data interchange, and payment systems, a broader perspective on DPI is more suitable in a global setting (ECDPM, 2025).
+
+</details>
+
+For DPI to function sustainably and safely, the **implementing government must form a set of critical enabling conditions**. These include, for instance, **reliable connectivity, cloud and data-center infrastructure, strong cybersecurity**, as well as sufficient digital skills, digital capabilities, and digital literacy across the population. But also legal and regulatory frameworks are critical to safeguard data, establish responsibilities, and enable interoperability. Furthermore, at the Institutional level, well set up coordination, accountability, and engagement with civil society will both enable and maintain trust, as well as long-term resilience. These elements put together are ultimately establishing the environment, required for a robust, scalable, as well as people centric DPI.
 
 #### **The four layers of the DPI enabling environment** <a href="#the-four-layers-of-the-dpi-enabling-environment" id="the-four-layers-of-the-dpi-enabling-environment"></a>
 
@@ -58,7 +70,7 @@ Taken collectively, these prerequisites shape the enabling environment required 
 
 This layer delineates the technical foundations, including:
 
-* **Connectivity availability** and affordability (UNDP, 2021); including access to **fixed broadband (fiber/DSL/cable)**, **mobile internet (3G/4G/5G)**, and **public or satellite options**where relevant, and whether **pricing and device costs** make these services realistically usable for people and institutions.
+* **Connectivity availability** and affordability (UNDP, 2021); including access to **fixed broadband (fiber/DSL/cable)**, **mobile internet (3G/4G/5G)**, and **public or satellite options** where relevant, and whether **pricing and device costs** make these services realistically usable for people and institutions.
 * **Cloud infrastructure** and data center capacity
 * **Cybersecurity maturity** and critical infrastructure resilience (OECD, 2024)
 
@@ -124,6 +136,8 @@ Together, these principles ensure that DPI supports a safe, inclusive, and right
 
 #### **How countries should assess DPI** <a href="#how-countries-should-assess-dpi" id="how-countries-should-assess-dpi"></a>
 
+It is important to recognise that political sensitivities, governance traditions, and institutional realities vary across countries. As a result, DPI components and governance arrangements must be adapted to fit each country’s unique context.
+
 Additionally, a practical DPI assessment must be conducted by every country aiming to engage in DPI activities, and it should examine the following:
 
 * Whether core DPI components exist and if they are functional
@@ -135,13 +149,13 @@ Additionally, a practical DPI assessment must be conducted by every country aimi
 
 ### DPI and GovStack
 
-**GovStack** is a **global initiative** that **empowers governments** to **design** and **build sovereign, interoperable** and **citizen-centric digital public sector services** and **infrastructure**. For a more in-depth explanation of how GovStack is enabling this by defining a government architecture and its reusable Building Blocks while avoiding fragmentation and vendor lock-in, please refer to the Implementation [Playbook section: _Introduction to GovStack._](#user-content-fn-1)[^1]
+**GovStack** is a **global initiative** that **empowers governments** to **design** and **build sovereign, interoperable** and **citizen-centric digital public sector services** and **infrastructure**. For a more in-depth explanation of how GovStack is enabling this by defining a government architecture and its reusable Building Blocks while avoiding fragmentation and vendor lock-in, please refer to the Implementation Playbook section: [Learn about GovStack.](https://playbook.govstack.global/development/introduction/learn-about-govstack)
 
 GovStack’s technical specifications support the practical implementation of DPI, recognising that DPI may be defined narrowly as **foundational service-enabling systems** (e.g. identity and data exchange) or more **broadly include the government systems and digital services** that build on these foundations. GovStack’s specifications describe implementations of DPI which are A) _owned_ (or strictly regulated) by the public sector and B) _used_ by the **public sector or those shared between the public and private sectors**. They do not define any components used exclusively by the private sector.
 
-Following a **narrow definition** of DP&#x49;**,** GovStack offers a technical blueprint to build identity (“[Identity Building Block](https://identity.govstack.global/2-description)”) and data exchange (“[Information Mediator Building Block](https://mediator.govstack.global/)”) systems, which are considered core DPI components. The technical blueprint is being completed by GovStack guidance on governance, policy and domain-specific aspects: General guidance on interoperability and [Building Block-specific implementation guides](#user-content-fn-2)[^2].
+Following a **narrow definition** of DP&#x49;**,** GovStack offers a technical blueprint to build identity (“[Identity Building Block](https://identity.govstack.global/2-description)”) and data exchange (“[Information Mediator Building Block](https://mediator.govstack.global/)”) systems, which are considered core DPI components. The technical blueprint is being completed by GovStack guidance on governance, policy and domain-specific aspects: General guidance on interoperability and [Building Block-specific implementation guides](#user-content-fn-1)[^1].
 
-Following a **wide definition** of DPI, GovStack’s full scope of a government architecture can be considered DPI. GovStack places citizens and businesses (the users) at the centre of digital transformation of government services. Therefore, the primary collective objective of all GovStack Building Blocks and entirety of a government’s system is to provide citizens with services. A wide definition of DPI includes these services and with that the whole of GovStack’s technical specifications. Why government-provided services are essential to DPI is explained below under [“Why Services Matter for DPI”](#user-content-fn-2)[^2].
+Following a **wide definition** of DPI, GovStack’s full scope of a government architecture can be considered DPI. GovStack places citizens and businesses (the users) at the centre of digital transformation of government services. Therefore, the primary collective objective of all GovStack Building Blocks and entirety of a government’s system is to provide citizens with services. A wide definition of DPI includes these services and with that the whole of GovStack’s technical specifications. Why government-provided services are essential to DPI is explained below under [“Why Services Matter for DPI”](#user-content-fn-1)[^1].
 
 <figure><img src="../../.gitbook/assets/govstack-dpi.png" alt=""><figcaption><p>Relation GovStack to DPI definitions</p></figcaption></figure>
 
@@ -153,11 +167,11 @@ Following a **wide definition** of DPI, GovStack’s full scope of a government 
 * **Policy and governance for private sector integration:** While the GovStack architecture anticipates interoperability with private sector solutions at the technical level, it does not currently provide guidance on policy or governance arrangements for integrating private sector actors.
 {% endhint %}
 
-
+For detailed guidance on governance structures and practical implementation steps, see [Design a Government Architecture](https://playbook.govstack.global/development/strategy-and-management/design-a-government-architecture) chapter.
 
 ### GovStack’s design principles for interoperable and inclusive digital public infrastructure <a href="#govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure" id="govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure"></a>
 
-GovStack is guided by [**human-centred design principles**](https://playbook.govstack.global/designing/service-design/govstack-design-principles), placing the needs, capabilities, and rights of users at the centre of digital public infrastructure. This includes ensuring that digital services are intuitive, accessible, and inclusive by design.
+GovStack is guided by [**human-centred design principles**](https://playbook.govstack.global/0.9.1/designing/service-design/govstack-design-principles), placing the needs, capabilities, and rights of users at the centre of digital public infrastructure. This includes ensuring that digital services are intuitive, accessible, and inclusive by design.
 
 To support this, the framework emphasises designing for interoperability from the outset, using open standards and open APIs to ensure flexibility, and embedding privacy and security directly into systems architecture. Modularity and reusability are key principles to help countries avoid vendor lock-in and to enable systems to evolve over time.
 
@@ -251,5 +265,3 @@ While national DPI systems form the backbone of digital service delivery, their 
 
 
 [^1]: ADD LINK
-
-[^2]: ADD LINK

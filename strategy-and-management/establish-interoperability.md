@@ -76,7 +76,7 @@ This layered model mirrors the reality that technical connectivity alone is insu
 
 ### GovStack's interoperability continuum
 
-**GovStack complements the European Interoperability Framework (EIF)** by **adding a maturity-based perspective** to its layered model of interoperability. While the ElF defines what dimensions must be aligned, GovStack introduces a progression model that helps governments understand how interoperability evolves in practice.
+**GovStack complements the European Interoperability Framework (EIF)** by[ **adding a maturity-based perspective**](https://govstack.global/news/achieving-technical-interoperability-in-government-systems-from-protocol-to-whole-of-government/) to its layered model of interoperability. While the ElF defines what dimensions must be aligned, GovStack introduces a progression model that helps governments understand how interoperability evolves in practice.
 
 As a foundation, the EIF conceptualises interoperability across four core layers:
 
@@ -324,7 +324,9 @@ Existing and new services should be regularly evaluated to ensure they deliver v
 
 <div align="left"><figure><img src="../.gitbook/assets/Adjusted Interoperability Governance.png" alt="" width="375"><figcaption><p>(European Union, 2017)</p></figcaption></figure></div>
 
-Interoperability governance forms the background layer of the European Interoperability Framework (EIF). It **encompasses the frameworks, institutional arrangements, organizational structures, roles, policies, and agreements** that **guide how interoperability is achieved**, maintained, and monitored at national, crossborder, and for instance EU levels.&#x20;
+Interoperability governance forms the background layer of the European Interoperability Framework (EIF). The following section is especially relevant for **accountability and rights protection.**
+
+It **encompasses the frameworks, institutional arrangements, organizational structures, roles, policies, and agreements** that **guide how interoperability is achieved**, maintained, and monitored at national, crossborder, and for instance EU levels.&#x20;
 
 #### 1) Secure political support and clear prioritisation
 
@@ -366,6 +368,12 @@ To ensure sustainability and overcome administrative silos, **the EIF recommends
 * **Engage in standardization work** relevant to your needs to help shape standards and ensure they meet public service requirements.<br>
 
 </details>
+
+To gain a broader understanding of rights‑related safeguards, including privacy, transparency, legal certainty, and user protection, also refer to the sections:&#x20;
+
+* [Underlying principles of European public services](establish-interoperability.md#underlying-principles-of-european-public-services)
+* [Legal interoperability](establish-interoperability.md#legal-interoperability)
+* and the [Interoperable Europe Act](establish-interoperability.md#the-interoperable-europe-act)
 
 ### Integrated public service governance
 

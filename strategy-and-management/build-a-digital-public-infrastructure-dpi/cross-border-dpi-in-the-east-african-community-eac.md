@@ -10,7 +10,7 @@ The East African Community (EAC) aims to develop deep regional integration throu
 
 This asymmetry forms a structural challenge: Purely national DPI strategies risk deepening fragmentation, while cross-border DPI offers a pathway for joint progress despite unequal starting points. Thus, as indicated in the EAC "[DPI Needs Assessment Report](https://www.eac.int/index.php?option=com_documentmananger\&task=download.document\&file=bWFpbl9kb2N1bWVudHNfcGRmX3dYYUd2WXV3Vll3cWpUVW9GdlhkVkRNRUFDIERQSSBSZXBvcnRfR0laXzAyMTEyMDI1MQ==\&counter=1639)", through enabling interoperability rather than uniformity, cross-border DPI permits less digitally advanced countries to connect to shared regional rails (particularly in payments and data exchange) without necessarily requiring full national system maturity upfront. In this sense, DPI operates as an integration accelerator rather than a prerequisite outcome.&#x20;
 
-#### The EAC’s DPI + approach
+#### The EAC’s DPI + Approach
 
 The EAC “[DPI Needs Assessment Report](https://www.eac.int/index.php?option=com_documentmananger\&task=download.document\&file=bWFpbl9kb2N1bWVudHNfcGRmX3dYYUd2WXV3Vll3cWpUVW9GdlhkVkRNRUFDIERQSSBSZXBvcnRfR0laXzAyMTEyMDI1MQ==\&counter=1639)” recommends the EAC to adopt a DPI+ approach, which extends beyond the three classical DPI components (digital identity, digital payments, and data exchange) to include infrastructure connectivity, digital skills, and digital literacy as integral components. This approach reflects regional realities: Persistent connectivity gaps, uneven digital literacy, and limited institutional capacity constrain the effectiveness of DPI if treated as a purely technical infrastructure.&#x20;
 
