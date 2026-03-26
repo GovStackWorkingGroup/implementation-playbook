@@ -171,7 +171,7 @@ For detailed guidance on governance structures and practical implementation step
 
 ### GovStack’s design principles for interoperable and inclusive digital public infrastructure <a href="#govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure" id="govstacks-design-principles-for-interoperable-and-inclusive-digital-public-infrastructure"></a>
 
-GovStack is guided by [**human-centred design principles**](https://playbook.govstack.global/0.9.1/designing/service-design/govstack-design-principles), placing the needs, capabilities, and rights of users at the centre of digital public infrastructure. This includes ensuring that digital services are intuitive, accessible, and inclusive by design.
+GovStack is guided by [**human-centred design principles**](../../implementation/design-service/design-principles.md), placing the needs, capabilities, and rights of users at the centre of digital public infrastructure. This includes ensuring that digital services are intuitive, accessible, and inclusive by design.
 
 To support this, the framework emphasises designing for interoperability from the outset, using open standards and open APIs to ensure flexibility, and embedding privacy and security directly into systems architecture. Modularity and reusability are key principles to help countries avoid vendor lock-in and to enable systems to evolve over time.
 

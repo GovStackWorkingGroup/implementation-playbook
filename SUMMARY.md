@@ -51,6 +51,7 @@
     * [3.2 Conduct Early Usability and Inclusive Testing](implementation/design-service/3-testing-and-validating-the-service/3.2-conduct-early-usability-and-inclusive-testing.md)
   * [4 Analyze Requirements (Continue with Architecture Design)](implementation/design-architecture/4-analyze-requirements.md)
   * [Ensuring Inclusion and Accessibility When Designing E-Government Services](implementation/design-service/ensuring-inclusion-and-accessibility-when-designing-e-government-services.md)
+  * [Design Principles](implementation/design-service/design-principles.md)
 * [Design Architecture](implementation/design-architecture/README.md)
   * [Architecture Design Overview](implementation/design-architecture/architecture-design-overview.md)
   * [4 Analyze Requirements](implementation/design-architecture/4-analyze-requirements.md)
@@ -75,7 +76,6 @@
 ## Annex
 
 * [Service Design](annex/service-design.md)
-* [GovStack Design Principles](designing/service-design/govstack-design-principles.md)
 * [User journeys](designing/service-design/user-journeys.md)
 * [Service blueprint](annex/service-blueprint.md)
 * [Wireframes](annex/wireframes.md)

@@ -33,6 +33,10 @@ The first and second iteration of the Playbook has been co-developed by (listed 
 ### Graphic design
 
 * Nienke Haccou
+
+### Reviewers
+
+* Firly Andrisetiani Permata, Lawyer and Policy Researcher, Indonesia
 {% endcolumn %}
 
 {% column %}
