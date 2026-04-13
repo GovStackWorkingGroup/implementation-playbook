@@ -37,6 +37,7 @@ The first and second iteration of the Playbook has been co-developed by (listed 
 ### Reviewers
 
 * Firly Andrisetiani Permata, Lawyer and Policy Researcher, Indonesia
+* Irina Zhavoronkova
 {% endcolumn %}
 
 {% column %}
