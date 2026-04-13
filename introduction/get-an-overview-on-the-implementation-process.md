@@ -8,7 +8,7 @@ While the phases are presented in a logical sequence, implementation activities 
 
 ### Step-by-step implementation
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Implementation overview.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

@@ -4,6 +4,12 @@ description: How to achieve cross-government interoperability
 
 # Establish Interoperability
 
+{% hint style="info" %}
+If you have limited time and this chapter feels too long, use the **AI GitBook Assistant** by clicking the “Ask” button on the top-right corner for a quick summary of this chapter.
+
+<img src="../.gitbook/assets/TLTR (3).png" alt="" data-size="original">
+{% endhint %}
+
 ## Introduction
 
 This chapter explains **what interoperability means** in the context of digital public services, **why it is a critical enabler of digital transformation**, and **how it can be operationalised** through structured frameworks, governance mechanisms, and technical standards. The chapter uses the **European Interoperability Framework (EIF)** as its **primary conceptual reference model** for understanding interoperability, particularly its layered approach spanning legal, organizational, semantic, and technical dimensions. The EIF is applied throughout the chapter to structure the analysis, terminology, and governance considerations, while GovStack complements it with implementation‑oriented guidance and a maturity‑based perspective.

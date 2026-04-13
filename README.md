@@ -1,6 +1,6 @@
 # Understand How to Use the Playbook
 
-<figure><img src=".gitbook/assets/Picture5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/intro pic (1).png" alt=""><figcaption></figcaption></figure>
 
 ### What is the Playbook?
 
@@ -22,7 +22,13 @@ II.   Strategy and Management
 
 III.  Implementation
 
-<figure><img src=".gitbook/assets/Picture4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/overview pic (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Tip:** If a chapter feels too long or you need a quick summary, you can use the **AI GitBook Assistant**. Simply click the **“Ask”** button in the top‑right corner of the page to get an instant overview or ask questions about the chapter.
+
+<img src=".gitbook/assets/TLTR (1).png" alt="" data-size="original">
+{% endhint %}
 
 <details>
 
@@ -84,7 +90,7 @@ Based on these foundations, the next phase explains the process of developing, l
 
 You will find a simple visual of the overview process below:
 
-<figure><img src=".gitbook/assets/Picture7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/implementation pic.png" alt=""><figcaption></figcaption></figure>
 
 The Implementation section is structured as follows:
 
@@ -103,7 +109,7 @@ The Implementation section is structured as follows:
    4. System Landscape
    5. System Architecture
    6. Architecture Best Practices & Patterns&#x20;
-5. Develop and Launch Services
+5. Procure and Launch Services
    1. Selecting Software and Service Providers
    2. Software Development Cycle &#x20;
    3. Launching the Service&#x20;
@@ -124,7 +130,7 @@ Depending on your background, some contents may be more relevant to you than oth
 | <p>Enterprise/ </p><p>Solution Architects</p>                  | <ul><li><a href="./#introduction">Introduction</a></li><li><a href="strategy-and-management/design-a-government-architecture.md">Design a Government Architecture (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/build-a-digital-public-infrastructure-dpi/">Build a Digital Public Infrastructure (DPI) (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/establish-interoperability.md">Establish Interoperability (under Strategy &#x26; Management)  </a></li><li><a href="implementation/design-architecture/">Design Architecture (under Implementation)</a></li></ul>                                                                                                                                                                                                                                          |
 | <p>Technical Teams/ </p><p>Developers</p>                      | <ul><li><a href="./#introduction">Introduction</a></li><li><a href="implementation/design-architecture/">Design Architecture (under Implementation)</a></li><li><a href="implementation/procure-and-launch-services/">Develop and Launch a Service (under Implementation)</a></li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | <p>Capacity-Building &#x26; </p><p>Change Management Teams</p> | <ul><li><a href="strategy-and-management/strengthen-transformation-capabilities/">Strengthen Transformation Capabilities (under Strategy &#x26; Management)</a></li><li><a href="implementation/design-service/ensuring-inclusion-and-accessibility-when-designing-e-government-services.md">Ensuring Inclusion &#x26; Accessibility When Designing E-Government Services (under Implementation - Design Service)</a></li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| <p>Procurement &#x26; Vendor</p><p>Management Teams</p>        | <ul><li><a href="strategy-and-management/establish-strategic-direction/">Establish Strategic Direction (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/build-a-digital-public-infrastructure-dpi/">Build a Digital Public Infrastructure (DPI) (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/establish-interoperability.md">Establish Interoperability (under Strategy &#x26; Management)</a></li><li><a data-footnote-ref href="#user-content-fn-1">Selecting Software &#x26; Service Providers (under Implementation - Develop &#x26; Launch a Service)</a></li></ul>                                                                                                                                                                                                                                            |
+| <p>Procurement &#x26; Vendor</p><p>Management Teams</p>        | <ul><li><a href="strategy-and-management/establish-strategic-direction/">Establish Strategic Direction (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/build-a-digital-public-infrastructure-dpi/">Build a Digital Public Infrastructure (DPI) (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/establish-interoperability.md">Establish Interoperability (under Strategy &#x26; Management)</a></li><li><a href="https://specs.govstack.global/implementation-playbook/development/implementation/procure-and-launch-services">Procure Software &#x26; Services (under Implementation - Procure &#x26; Launch a Service)</a></li></ul>                                                                                                                                                                               |
 | Legal & Policy Advisors                                        | <ul><li><a href="strategy-and-management/establish-strategic-direction/">Establish Strategic Direction (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/design-a-government-architecture.md">Design a Government Architecture (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/build-a-digital-public-infrastructure-dpi/">Build a Digital Public Infrastructure (DPI) (under Strategy &#x26; Management)</a></li><li><a href="strategy-and-management/establish-interoperability.md">Establish Interoperability (under Strategy &#x26; Management)</a></li><li><a href="implementation/design-service/ensuring-inclusion-and-accessibility-when-designing-e-government-services.md">Ensuring Inclusion &#x26; Accessibility When Designing E-Government Services (under Implementation- Design Service)</a></li></ul> |
 | Communication & Stakeholder Engagement Teams                   | <ul><li><a href="strategy-and-management/strengthen-transformation-capabilities/change-management/">Change Management (under Strategy &#x26; Management- Strengthen Transformation Capabilities)</a></li><li><a href="implementation/design-service/3-testing-and-validating-the-service/">Testing and Validating the Service (under Implementation)</a></li><li><a href="implementation/procure-and-launch-services/launching-the-service.md">Launching the Service (under Implementation- Develop &#x26; Launch a Service)</a></li></ul>                                                                                                                                                                                                                                                                                                                                           |
 
@@ -161,5 +167,3 @@ or you can open an issue in the playbook's GitHub repository: [https://github.co
 or, which is **our preferred way** of getting in contact with you, join our working group on the implementation playbook. Fill in the following form and we will invite you to slack and our working group meetings: [https://govstack.global/join-our-tech-community/](https://govstack.global/join-our-tech-community/)
 
 </details>
-
-[^1]: ADD LINK

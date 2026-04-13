@@ -23,7 +23,7 @@ Moreover, the GovStack framework helps to translate high‑level procurement obl
 
 Applying the GovStack approach in practice follows a logical sequence that ensures that the technical requirements are clear before engaging with the market and before procurement begins.  This methodology defines the procurement journey into five clear steps:
 
-<figure><img src="../../../.gitbook/assets/GovStack Aligned process (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GovStack Aligned process (3).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

@@ -1,5 +1,11 @@
 # Build a Digital Public Infrastructure (DPI)
 
+{% hint style="info" %}
+If you have limited time and this chapter feels too long, use the **AI GitBook Assistant** by clicking the “Ask” button on the top-right corner for a quick summary of this chapter.
+
+<img src="../../.gitbook/assets/TLTR (3).png" alt="" data-size="original">
+{% endhint %}
+
 ### Purpose of the chapter <a href="#purpose-of-the-chapter" id="purpose-of-the-chapter"></a>
 
 This **chapter** is **designed for government leaders and teams who are responsible for shaping their country’s digital future**. Its purpose is to help understand what a “Digital Public Infrastructure” (DPI) is, why it matters for national development, and how specifically GovStack supports practical implementation of DPI when building or improving digital citizen services.
