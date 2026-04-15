@@ -4,7 +4,7 @@ The first and second iteration of the Playbook has been co-developed by (listed 
 
 {% columns %}
 {% column %}
-### Community Members
+### Working group members
 
 * Betty Mwema
 * Laurence Berry
@@ -24,9 +24,6 @@ The first and second iteration of the Playbook has been co-developed by (listed 
 * **TalTech**&#x20;
   * Alika Vandtke
   * Josephine Lusi
-
-### Government collaborators
-
 * **Government of Ukraine**
   * Maksym Shkilov
 
@@ -38,10 +35,16 @@ The first and second iteration of the Playbook has been co-developed by (listed 
 
 * Firly Andrisetiani Permata, Lawyer and Policy Researcher, Indonesia
 * Irina Zhavoronkova
+* Kelly Ommundsen, Head, Digital Inclusion; Member of the Executive Committee, World Economic Forum
+* Leon Martinez, Thematic Lead GovTech, World Economic Forum
+* Paulina Behluli, Programme Manager, The Data Tank
+* Sarah Kennedy, Open Government Partnership
+* Suryastri Boni
+* Yolanda Martínez Mancilla – Practice Manager Latin America and Caribbean, World Bank
 {% endcolumn %}
 
 {% column %}
-### Founding Partners
+### Founding partners
 
 * **Estonian Government-EstDev**
   * Andres Ääremaa
@@ -55,6 +58,7 @@ The first and second iteration of the Playbook has been co-developed by (listed 
   * Amrit Singh
   * Martha Mundas
   * Moritz Fromageot
+  * Nico Anton
   * Nico Lueck
   * Niharika Gujela
   * Nora Hauptmann
