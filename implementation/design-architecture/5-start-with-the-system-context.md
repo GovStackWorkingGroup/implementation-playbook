@@ -2,7 +2,7 @@
 
 It is always advisable to start with the system context, as it provides a good first overview of how technical requirements emerge from the functional requirements. The system context defines the boundaries of the solution, the actors who interact with it, and the external systems and building blocks on which it depends.
 
-Having the system context early already informs you about many of the components that will appear later in step [5-b.3-create-component-diagram.md](5-b.3-create-component-diagram.md "mention").
+Having the system context early already informs you about many of the components that will appear later in step [5-b.3-create-component-diagram.md](5-b-system-architecture/5-b.3-create-component-diagram.md "mention").
 
 ## System Context Diagram
 
@@ -65,8 +65,8 @@ After completing this step, you need to decide whether you want to continue with
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="5-b-system-architecture.md" %}
-[5-b-system-architecture.md](5-b-system-architecture.md)
+{% content-ref url="5-b-system-architecture/" %}
+[5-b-system-architecture](5-b-system-architecture/)
 {% endcontent-ref %}
 
 

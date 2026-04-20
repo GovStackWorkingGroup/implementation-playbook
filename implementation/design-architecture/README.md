@@ -26,32 +26,32 @@ Consider this as two alternate paths, depending on what view on the system you a
 
 {% columns %}
 {% column %}
-{% content-ref url="5-a.1-update-system-landscape.md" %}
-[5-a.1-update-system-landscape.md](5-a.1-update-system-landscape.md)
+{% content-ref url="5-a-system-landscape.md" %}
+[5-a-system-landscape.md](5-a-system-landscape.md)
 {% endcontent-ref %}
 
 
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="5-b.1-create-data-model-and-rest-api.md" %}
-[5-b.1-create-data-model-and-rest-api.md](5-b.1-create-data-model-and-rest-api.md)
+{% content-ref url="5-b-system-architecture/5-b.1-create-data-model-and-rest-api.md" %}
+[5-b.1-create-data-model-and-rest-api.md](5-b-system-architecture/5-b.1-create-data-model-and-rest-api.md)
 {% endcontent-ref %}
 
-{% content-ref url="5-b.2-create-container-diagram.md" %}
-[5-b.2-create-container-diagram.md](5-b.2-create-container-diagram.md)
+{% content-ref url="5-b-system-architecture/5-b.2-create-container-diagram.md" %}
+[5-b.2-create-container-diagram.md](5-b-system-architecture/5-b.2-create-container-diagram.md)
 {% endcontent-ref %}
 
-{% content-ref url="5-b.3-create-component-diagram.md" %}
-[5-b.3-create-component-diagram.md](5-b.3-create-component-diagram.md)
+{% content-ref url="5-b-system-architecture/5-b.3-create-component-diagram.md" %}
+[5-b.3-create-component-diagram.md](5-b-system-architecture/5-b.3-create-component-diagram.md)
 {% endcontent-ref %}
 
-{% content-ref url="5-b.4-decide-technology-stack.md" %}
-[5-b.4-decide-technology-stack.md](5-b.4-decide-technology-stack.md)
+{% content-ref url="5-b-system-architecture/5-b.4-decide-technology-stack.md" %}
+[5-b.4-decide-technology-stack.md](5-b-system-architecture/5-b.4-decide-technology-stack.md)
 {% endcontent-ref %}
 
-{% content-ref url="5-b.5-create-developer-guidelines.md" %}
-[5-b.5-create-developer-guidelines.md](5-b.5-create-developer-guidelines.md)
+{% content-ref url="5-b-system-architecture/5-b.5-create-developer-guidelines.md" %}
+[5-b.5-create-developer-guidelines.md](5-b-system-architecture/5-b.5-create-developer-guidelines.md)
 {% endcontent-ref %}
 
 
